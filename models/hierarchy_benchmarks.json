@@ -1,0 +1,9272 @@
+{
+  "state": {
+    "Andhra Pradesh": {
+      "median": 4800.0,
+      "count": 1651
+    },
+    "Assam": {
+      "median": 5747.0,
+      "count": 384
+    },
+    "Bihar": {
+      "median": 7280.0,
+      "count": 350
+    },
+    "Chandigarh": {
+      "median": 6560.0,
+      "count": 759
+    },
+    "Chhattisgarh": {
+      "median": 3680.0,
+      "count": 251
+    },
+    "Delhi": {
+      "median": 12427.0,
+      "count": 1974
+    },
+    "Goa": {
+      "median": 7727.0,
+      "count": 523
+    },
+    "Gujarat": {
+      "median": 5818.0,
+      "count": 3781
+    },
+    "Haryana": {
+      "median": 6802.0,
+      "count": 4746
+    },
+    "Himachal Pradesh": {
+      "median": 7317.0,
+      "count": 23
+    },
+    "Jharkhand": {
+      "median": 4720.0,
+      "count": 890
+    },
+    "Karnataka": {
+      "median": 7782.0,
+      "count": 1542
+    },
+    "Kerala": {
+      "median": 5900.0,
+      "count": 805
+    },
+    "Madhya Pradesh": {
+      "median": 4331.0,
+      "count": 211
+    },
+    "Maharashtra": {
+      "median": 9704.0,
+      "count": 4282
+    },
+    "Odisha": {
+      "median": 7500.0,
+      "count": 179
+    },
+    "Puducherry": {
+      "median": 4000.0,
+      "count": 7
+    },
+    "Punjab": {
+      "median": 5453.0,
+      "count": 1930
+    },
+    "Rajasthan": {
+      "median": 4070.0,
+      "count": 1697
+    },
+    "Tamil Nadu": {
+      "median": 7035.0,
+      "count": 1631
+    },
+    "Telangana": {
+      "median": 7053.0,
+      "count": 1252
+    },
+    "Uttar Pradesh": {
+      "median": 6315.0,
+      "count": 4182
+    },
+    "Uttarakhand": {
+      "median": 5109.0,
+      "count": 484
+    },
+    "West Bengal": {
+      "median": 5655.0,
+      "count": 1524
+    }
+  },
+  "city": {
+    "agra": {
+      "median": 3750.0,
+      "count": 201
+    },
+    "ahmadnagar": {
+      "median": 4667.0,
+      "count": 11
+    },
+    "ahmedabad": {
+      "median": 7474.0,
+      "count": 1529
+    },
+    "allahabad": {
+      "median": 7639.0,
+      "count": 117
+    },
+    "aurangabad": {
+      "median": 5000.0,
+      "count": 171
+    },
+    "badlapur": {
+      "median": 5479.0,
+      "count": 218
+    },
+    "bangalore": {
+      "median": 9200.0,
+      "count": 1219
+    },
+    "belgaum": {
+      "median": 4305.0,
+      "count": 30
+    },
+    "bhiwadi": {
+      "median": 2714.0,
+      "count": 498
+    },
+    "bhiwandi": {
+      "median": 7166.0,
+      "count": 60
+    },
+    "bhopal": {
+      "median": 3333.0,
+      "count": 43
+    },
+    "bhubaneswar": {
+      "median": 7500.0,
+      "count": 179
+    },
+    "chandigarh": {
+      "median": 6560.0,
+      "count": 759
+    },
+    "chennai": {
+      "median": 7705.0,
+      "count": 1319
+    },
+    "coimbatore": {
+      "median": 5357.0,
+      "count": 247
+    },
+    "dehradun": {
+      "median": 5263.0,
+      "count": 433
+    },
+    "durgapur": {
+      "median": 3220.0,
+      "count": 74
+    },
+    "ernakulam": {
+      "median": 5306.0,
+      "count": 70
+    },
+    "faridabad": {
+      "median": 5538.0,
+      "count": 2074
+    },
+    "ghaziabad": {
+      "median": 5778.0,
+      "count": 591
+    },
+    "goa": {
+      "median": 7727.0,
+      "count": 523
+    },
+    "greater-noida": {
+      "median": 6333.0,
+      "count": 1588
+    },
+    "guntur": {
+      "median": 4224.0,
+      "count": 156
+    },
+    "gurgaon": {
+      "median": 11695.0,
+      "count": 1990
+    },
+    "guwahati": {
+      "median": 5747.0,
+      "count": 384
+    },
+    "gwalior": {
+      "median": 4348.0,
+      "count": 61
+    },
+    "haridwar": {
+      "median": 3677.0,
+      "count": 51
+    },
+    "hyderabad": {
+      "median": 7053.0,
+      "count": 1252
+    },
+    "indore": {
+      "median": 5280.0,
+      "count": 56
+    },
+    "jabalpur": {
+      "median": 4400.0,
+      "count": 51
+    },
+    "jaipur": {
+      "median": 4600.0,
+      "count": 1138
+    },
+    "jamshedpur": {
+      "median": 4116.0,
+      "count": 264
+    },
+    "jodhpur": {
+      "median": 4465.0,
+      "count": 16
+    },
+    "kalyan": {
+      "median": 8518.0,
+      "count": 424
+    },
+    "kanpur": {
+      "median": 5352.0,
+      "count": 452
+    },
+    "kochi": {
+      "median": 6250.0,
+      "count": 515
+    },
+    "kolkata": {
+      "median": 6122.0,
+      "count": 1267
+    },
+    "kozhikode": {
+      "median": 6335.0,
+      "count": 34
+    },
+    "lucknow": {
+      "median": 6583.0,
+      "count": 416
+    },
+    "ludhiana": {
+      "median": 6300.0,
+      "count": 41
+    },
+    "madurai": {
+      "median": 5580.0,
+      "count": 13
+    },
+    "mangalore": {
+      "median": 4974.0,
+      "count": 194
+    },
+    "mohali": {
+      "median": 5570.0,
+      "count": 904
+    },
+    "mumbai": {
+      "median": 28905.0,
+      "count": 700
+    },
+    "mysore": {
+      "median": 5831.0,
+      "count": 70
+    },
+    "nagpur": {
+      "median": 5670.0,
+      "count": 162
+    },
+    "nashik": {
+      "median": 5355.0,
+      "count": 123
+    },
+    "navi-mumbai": {
+      "median": 13908.0,
+      "count": 182
+    },
+    "navsari": {
+      "median": 2632.0,
+      "count": 17
+    },
+    "nellore": {
+      "median": 3894.0,
+      "count": 12
+    },
+    "new-delhi": {
+      "median": 12427.0,
+      "count": 1974
+    },
+    "noida": {
+      "median": 8115.0,
+      "count": 668
+    },
+    "palakkad": {
+      "median": 4092.0,
+      "count": 16
+    },
+    "palghar": {
+      "median": 5574.0,
+      "count": 223
+    },
+    "panchkula": {
+      "median": 9107.0,
+      "count": 211
+    },
+    "patna": {
+      "median": 7280.0,
+      "count": 350
+    },
+    "pondicherry": {
+      "median": 4000.0,
+      "count": 7
+    },
+    "pune": {
+      "median": 9333.0,
+      "count": 1341
+    },
+    "raipur": {
+      "median": 3680.0,
+      "count": 251
+    },
+    "rajahmundry": {
+      "median": 4053.0,
+      "count": 52
+    },
+    "ranchi": {
+      "median": 4979.0,
+      "count": 626
+    },
+    "satara": {
+      "median": 3299.0,
+      "count": 21
+    },
+    "shimla": {
+      "median": 7317.0,
+      "count": 23
+    },
+    "siliguri": {
+      "median": 4500.0,
+      "count": 183
+    },
+    "solapur": {
+      "median": 4059.0,
+      "count": 10
+    },
+    "sonipat": {
+      "median": 3252.0,
+      "count": 471
+    },
+    "surat": {
+      "median": 6048.0,
+      "count": 830
+    },
+    "thane": {
+      "median": 14840.0,
+      "count": 636
+    },
+    "thrissur": {
+      "median": 5333.0,
+      "count": 93
+    },
+    "tirupati": {
+      "median": 4574.0,
+      "count": 52
+    },
+    "trichy": {
+      "median": 5992.0,
+      "count": 52
+    },
+    "trivandrum": {
+      "median": 5769.0,
+      "count": 77
+    },
+    "udaipur": {
+      "median": 4431.0,
+      "count": 45
+    },
+    "udupi": {
+      "median": 3704.0,
+      "count": 29
+    },
+    "vadodara": {
+      "median": 4444.0,
+      "count": 1347
+    },
+    "vapi": {
+      "median": 3326.0,
+      "count": 58
+    },
+    "varanasi": {
+      "median": 6000.0,
+      "count": 117
+    },
+    "vijayawada": {
+      "median": 4600.0,
+      "count": 308
+    },
+    "visakhapatnam": {
+      "median": 5101.0,
+      "count": 1071
+    },
+    "vrindavan": {
+      "median": 5868.0,
+      "count": 32
+    },
+    "zirakpur": {
+      "median": 5340.0,
+      "count": 985
+    }
+  },
+  "area": {
+    "agra::bhawna estate": {
+      "median": 3829.0,
+      "q25": 3548.0,
+      "q75": 3854.0,
+      "count": 5
+    },
+    "agra::dayal bagh": {
+      "median": 3889.0,
+      "q25": 3455.0,
+      "q75": 4615.0,
+      "count": 21
+    },
+    "agra::fatehabad road": {
+      "median": 3689.0,
+      "q25": 2827.0,
+      "q75": 4491.0,
+      "count": 31
+    },
+    "agra::other": {
+      "median": 3750.0,
+      "q25": 3091.0,
+      "q75": 4936.0,
+      "count": 80
+    },
+    "agra::phase 2 taj nagri": {
+      "median": 5000.0,
+      "q25": 4852.0,
+      "q75": 5484.0,
+      "count": 5
+    },
+    "agra::shastri puram": {
+      "median": 4254.0,
+      "q25": 3028.0,
+      "q75": 4553.0,
+      "count": 20
+    },
+    "agra::sikandra": {
+      "median": 3071.0,
+      "q25": 2647.0,
+      "q75": 3668.0,
+      "count": 29
+    },
+    "agra::taj nagri": {
+      "median": 4950.0,
+      "q25": 3089.0,
+      "q75": 5409.0,
+      "count": 10
+    },
+    "ahmadnagar::other": {
+      "median": 4667.0,
+      "q25": 3656.0,
+      "q75": 5419.0,
+      "count": 11
+    },
+    "ahmedabad::aarohi club road": {
+      "median": 8467.0,
+      "q25": 7510.0,
+      "q75": 9267.0,
+      "count": 15
+    },
+    "ahmedabad::ambawadi": {
+      "median": 7164.0,
+      "q25": 6540.0,
+      "q75": 9120.0,
+      "count": 8
+    },
+    "ahmedabad::ambli": {
+      "median": 16458.0,
+      "q25": 15362.0,
+      "q75": 19481.0,
+      "count": 13
+    },
+    "ahmedabad::ambli bopal road": {
+      "median": 13542.0,
+      "q25": 13241.0,
+      "q75": 14209.0,
+      "count": 11
+    },
+    "ahmedabad::anand nagar prahlad nagar": {
+      "median": 8812.0,
+      "q25": 8621.0,
+      "q75": 9565.0,
+      "count": 5
+    },
+    "ahmedabad::bodakdev": {
+      "median": 11751.0,
+      "q25": 7390.0,
+      "q75": 14437.0,
+      "count": 38
+    },
+    "ahmedabad::bopal": {
+      "median": 7828.0,
+      "q25": 6449.0,
+      "q75": 10010.0,
+      "count": 36
+    },
+    "ahmedabad::chandkheda": {
+      "median": 6200.0,
+      "q25": 4131.0,
+      "q75": 7051.0,
+      "count": 63
+    },
+    "ahmedabad::chandlodiya": {
+      "median": 5370.0,
+      "q25": 5043.0,
+      "q75": 7280.0,
+      "count": 5
+    },
+    "ahmedabad::chharodi": {
+      "median": 6662.0,
+      "q25": 6309.0,
+      "q75": 8486.0,
+      "count": 14
+    },
+    "ahmedabad::corporate road": {
+      "median": 10684.0,
+      "q25": 9760.0,
+      "q75": 11200.0,
+      "count": 9
+    },
+    "ahmedabad::devnagar, gota": {
+      "median": 7028.0,
+      "q25": 5789.0,
+      "q75": 7849.0,
+      "count": 14
+    },
+    "ahmedabad::ghatlodiya": {
+      "median": 6571.0,
+      "q25": 5185.0,
+      "q75": 8081.0,
+      "count": 17
+    },
+    "ahmedabad::ghodasar": {
+      "median": 5783.0,
+      "q25": 4091.0,
+      "q75": 6314.0,
+      "count": 5
+    },
+    "ahmedabad::ghuma": {
+      "median": 7457.0,
+      "q25": 6223.0,
+      "q75": 7608.0,
+      "count": 11
+    },
+    "ahmedabad::gota": {
+      "median": 7253.0,
+      "q25": 6497.0,
+      "q75": 7994.0,
+      "count": 102
+    },
+    "ahmedabad::gurukul": {
+      "median": 6800.0,
+      "q25": 5990.0,
+      "q75": 8205.0,
+      "count": 9
+    },
+    "ahmedabad::iscon ambli road": {
+      "median": 14444.0,
+      "q25": 13454.0,
+      "q75": 21003.0,
+      "count": 11
+    },
+    "ahmedabad::jagatpur": {
+      "median": 7432.0,
+      "q25": 6445.0,
+      "q75": 8343.0,
+      "count": 61
+    },
+    "ahmedabad::jagatpur village, gota": {
+      "median": 6154.0,
+      "q25": 5929.0,
+      "q75": 7273.0,
+      "count": 29
+    },
+    "ahmedabad::jodhpur village, jodhpur": {
+      "median": 9268.0,
+      "q25": 8108.0,
+      "q75": 13432.0,
+      "count": 12
+    },
+    "ahmedabad::khokhra": {
+      "median": 6496.0,
+      "q25": 6013.0,
+      "q75": 7040.0,
+      "count": 6
+    },
+    "ahmedabad::koteshwar": {
+      "median": 8056.0,
+      "q25": 6000.0,
+      "q75": 8604.0,
+      "count": 5
+    },
+    "ahmedabad::mahavir nagar society": {
+      "median": 5682.0,
+      "q25": 5556.0,
+      "q75": 6061.0,
+      "count": 5
+    },
+    "ahmedabad::makarba": {
+      "median": 6429.0,
+      "q25": 5938.0,
+      "q75": 7585.0,
+      "count": 13
+    },
+    "ahmedabad::maninagar": {
+      "median": 5784.0,
+      "q25": 4776.0,
+      "q75": 6631.0,
+      "count": 18
+    },
+    "ahmedabad::maninagar west": {
+      "median": 6382.0,
+      "q25": 5321.0,
+      "q75": 6927.0,
+      "count": 8
+    },
+    "ahmedabad::memnagar": {
+      "median": 9573.0,
+      "q25": 6195.0,
+      "q75": 11594.0,
+      "count": 17
+    },
+    "ahmedabad::motera": {
+      "median": 6667.0,
+      "q25": 5680.0,
+      "q75": 7755.0,
+      "count": 18
+    },
+    "ahmedabad::naranpura": {
+      "median": 8843.0,
+      "q25": 6529.0,
+      "q75": 10573.0,
+      "count": 16
+    },
+    "ahmedabad::naroda": {
+      "median": 3972.0,
+      "q25": 3582.0,
+      "q75": 4471.0,
+      "count": 6
+    },
+    "ahmedabad::narolgam": {
+      "median": 3095.0,
+      "q25": 2513.0,
+      "q75": 4887.0,
+      "count": 14
+    },
+    "ahmedabad::nava naroda": {
+      "median": 3794.0,
+      "q25": 3630.0,
+      "q75": 4666.0,
+      "count": 6
+    },
+    "ahmedabad::navrangpura": {
+      "median": 10156.0,
+      "q25": 8725.0,
+      "q75": 10811.0,
+      "count": 27
+    },
+    "ahmedabad::nehru nagar ambawadi": {
+      "median": 12361.0,
+      "q25": 12068.0,
+      "q75": 12624.0,
+      "count": 9
+    },
+    "ahmedabad::new cg road": {
+      "median": 6875.0,
+      "q25": 6364.0,
+      "q75": 7533.0,
+      "count": 13
+    },
+    "ahmedabad::new ranip": {
+      "median": 5917.0,
+      "q25": 5154.0,
+      "q75": 6170.0,
+      "count": 14
+    },
+    "ahmedabad::nikol": {
+      "median": 3535.0,
+      "q25": 3146.0,
+      "q75": 4674.0,
+      "count": 11
+    },
+    "ahmedabad::other": {
+      "median": 5861.0,
+      "q25": 4519.0,
+      "q75": 8468.0,
+      "count": 191
+    },
+    "ahmedabad::paldi": {
+      "median": 7156.0,
+      "q25": 5995.0,
+      "q75": 8426.0,
+      "count": 11
+    },
+    "ahmedabad::prahlad nagar": {
+      "median": 10823.0,
+      "q25": 8889.0,
+      "q75": 12434.0,
+      "count": 35
+    },
+    "ahmedabad::prl colony, thaltej": {
+      "median": 13000.0,
+      "q25": 12558.0,
+      "q75": 15217.0,
+      "count": 9
+    },
+    "ahmedabad::ranip": {
+      "median": 5833.0,
+      "q25": 4991.0,
+      "q75": 6909.0,
+      "count": 13
+    },
+    "ahmedabad::sardar patel ring road": {
+      "median": 8783.0,
+      "q25": 7097.0,
+      "q75": 9556.0,
+      "count": 25
+    },
+    "ahmedabad::sarkhej gandhinagar highway": {
+      "median": 7811.0,
+      "q25": 6745.0,
+      "q75": 10312.0,
+      "count": 50
+    },
+    "ahmedabad::satellite": {
+      "median": 9145.0,
+      "q25": 7155.0,
+      "q75": 12021.0,
+      "count": 42
+    },
+    "ahmedabad::science city": {
+      "median": 11464.0,
+      "q25": 10895.0,
+      "q75": 13214.0,
+      "count": 33
+    },
+    "ahmedabad::shahibag": {
+      "median": 7136.0,
+      "q25": 5926.0,
+      "q75": 8250.0,
+      "count": 6
+    },
+    "ahmedabad::shela": {
+      "median": 7926.0,
+      "q25": 6944.0,
+      "q75": 10792.0,
+      "count": 89
+    },
+    "ahmedabad::shilaj": {
+      "median": 7778.0,
+      "q25": 7160.0,
+      "q75": 12485.0,
+      "count": 31
+    },
+    "ahmedabad::sindhu bhavan marg": {
+      "median": 13793.0,
+      "q25": 8911.0,
+      "q75": 16364.0,
+      "count": 7
+    },
+    "ahmedabad::sola": {
+      "median": 10314.0,
+      "q25": 8994.0,
+      "q75": 11321.0,
+      "count": 6
+    },
+    "ahmedabad::south bopal, bopal": {
+      "median": 7910.0,
+      "q25": 7128.0,
+      "q75": 8839.0,
+      "count": 79
+    },
+    "ahmedabad::thaltej": {
+      "median": 13538.0,
+      "q25": 10847.0,
+      "q75": 14692.0,
+      "count": 43
+    },
+    "ahmedabad::tragad": {
+      "median": 5294.0,
+      "q25": 4121.0,
+      "q75": 6032.0,
+      "count": 9
+    },
+    "ahmedabad::vaishnodevi circle": {
+      "median": 7629.0,
+      "q25": 6571.0,
+      "q75": 9183.0,
+      "count": 50
+    },
+    "ahmedabad::vasna": {
+      "median": 5294.0,
+      "q25": 4901.0,
+      "q75": 6944.0,
+      "count": 7
+    },
+    "ahmedabad::vastral": {
+      "median": 4671.0,
+      "q25": 3347.0,
+      "q75": 5604.0,
+      "count": 46
+    },
+    "ahmedabad::vastrapur": {
+      "median": 12131.0,
+      "q25": 10659.0,
+      "q75": 12633.0,
+      "count": 31
+    },
+    "ahmedabad::vejalpur, jivraj park": {
+      "median": 6569.0,
+      "q25": 5028.0,
+      "q75": 8263.0,
+      "count": 15
+    },
+    "ahmedabad::zundal": {
+      "median": 5922.0,
+      "q25": 5167.0,
+      "q75": 6236.0,
+      "count": 7
+    },
+    "allahabad::ashoknagar": {
+      "median": 9451.0,
+      "q25": 8131.0,
+      "q75": 10252.0,
+      "count": 6
+    },
+    "allahabad::civil lines": {
+      "median": 10661.0,
+      "q25": 8000.0,
+      "q75": 12420.0,
+      "count": 29
+    },
+    "allahabad::lukarganj": {
+      "median": 10467.0,
+      "q25": 9374.0,
+      "q75": 11610.0,
+      "count": 6
+    },
+    "allahabad::naini": {
+      "median": 6203.0,
+      "q25": 5917.0,
+      "q75": 6674.0,
+      "count": 15
+    },
+    "allahabad::other": {
+      "median": 6197.0,
+      "q25": 5056.0,
+      "q75": 7500.0,
+      "count": 49
+    },
+    "allahabad::sulem sarai": {
+      "median": 9767.0,
+      "q25": 8484.0,
+      "q75": 10489.0,
+      "count": 7
+    },
+    "allahabad::tagore town": {
+      "median": 8055.0,
+      "q25": 6364.0,
+      "q75": 8500.0,
+      "count": 5
+    },
+    "aurangabad::beed bypass": {
+      "median": 4429.0,
+      "q25": 3784.0,
+      "q75": 4869.0,
+      "count": 10
+    },
+    "aurangabad::beed bypass road": {
+      "median": 5357.0,
+      "q25": 5000.0,
+      "q75": 6012.0,
+      "count": 7
+    },
+    "aurangabad::chikalthana": {
+      "median": 6933.0,
+      "q25": 4845.0,
+      "q75": 8727.0,
+      "count": 5
+    },
+    "aurangabad::chikhalnthana": {
+      "median": 6141.0,
+      "q25": 5686.0,
+      "q75": 7783.0,
+      "count": 10
+    },
+    "aurangabad::kanchanvadi": {
+      "median": 4418.0,
+      "q25": 3920.0,
+      "q75": 4635.0,
+      "count": 8
+    },
+    "aurangabad::other": {
+      "median": 5538.0,
+      "q25": 4398.0,
+      "q75": 6691.0,
+      "count": 109
+    },
+    "aurangabad::padegaon": {
+      "median": 4191.0,
+      "q25": 3425.0,
+      "q75": 4851.0,
+      "count": 10
+    },
+    "aurangabad::paithan road": {
+      "median": 4154.0,
+      "q25": 3527.0,
+      "q75": 4839.0,
+      "count": 7
+    },
+    "aurangabad::satara pariser": {
+      "median": 4154.0,
+      "q25": 3696.0,
+      "q75": 4737.0,
+      "count": 5
+    },
+    "badlapur::belavali": {
+      "median": 5525.0,
+      "q25": 4878.0,
+      "q75": 6301.0,
+      "count": 28
+    },
+    "badlapur::joveli gaon": {
+      "median": 5263.0,
+      "q25": 4219.0,
+      "q75": 7419.0,
+      "count": 7
+    },
+    "badlapur::katrap": {
+      "median": 6000.0,
+      "q25": 5412.0,
+      "q75": 7033.0,
+      "count": 33
+    },
+    "badlapur::kharvai": {
+      "median": 5778.0,
+      "q25": 4385.0,
+      "q75": 6907.0,
+      "count": 11
+    },
+    "badlapur::kharwai naka": {
+      "median": 5333.0,
+      "q25": 4464.0,
+      "q75": 6034.0,
+      "count": 17
+    },
+    "badlapur::kulgaon": {
+      "median": 5783.0,
+      "q25": 5463.0,
+      "q75": 6357.0,
+      "count": 7
+    },
+    "badlapur::manjarli": {
+      "median": 5597.0,
+      "q25": 5306.0,
+      "q75": 5765.0,
+      "count": 12
+    },
+    "badlapur::other": {
+      "median": 5342.0,
+      "q25": 4242.0,
+      "q75": 6181.0,
+      "count": 75
+    },
+    "badlapur::rameshwadi": {
+      "median": 4785.0,
+      "q25": 3704.0,
+      "q75": 5388.0,
+      "count": 8
+    },
+    "badlapur::shirgaon": {
+      "median": 5360.0,
+      "q25": 4282.0,
+      "q75": 5569.0,
+      "count": 20
+    },
+    "bangalore::brigade buena vista phase 2 budigere cross": {
+      "median": 10970.0,
+      "q25": 8971.0,
+      "q75": 12877.0,
+      "count": 8
+    },
+    "bangalore::candeur signature varthur": {
+      "median": 11901.0,
+      "q25": 11618.0,
+      "q75": 12257.0,
+      "count": 7
+    },
+    "bangalore::century ethos hebbal": {
+      "median": 13176.0,
+      "q25": 11986.0,
+      "q75": 14148.0,
+      "count": 11
+    },
+    "bangalore::concorde spring meadows hesarghatta road": {
+      "median": 6370.0,
+      "q25": 6160.0,
+      "q75": 6420.0,
+      "count": 12
+    },
+    "bangalore::hsr layout": {
+      "median": 7271.0,
+      "q25": 6957.0,
+      "q75": 9705.0,
+      "count": 6
+    },
+    "bangalore::janatha colony madhuranagara": {
+      "median": 11928.0,
+      "q25": 11882.0,
+      "q75": 11994.0,
+      "count": 6
+    },
+    "bangalore::koramangala": {
+      "median": 17000.0,
+      "q25": 15500.0,
+      "q75": 19091.0,
+      "count": 5
+    },
+    "bangalore::l&t raintree boulevard hebbal": {
+      "median": 15636.0,
+      "q25": 13439.0,
+      "q75": 16628.0,
+      "count": 11
+    },
+    "bangalore::mantri serenity doddakallasandra, konanakunte": {
+      "median": 11622.0,
+      "q25": 11622.0,
+      "q75": 11809.0,
+      "count": 5
+    },
+    "bangalore::other": {
+      "median": 8850.0,
+      "q25": 6200.0,
+      "q75": 12222.0,
+      "count": 1033
+    },
+    "bangalore::phase 1 electronics city": {
+      "median": 6250.0,
+      "q25": 3792.0,
+      "q75": 9167.0,
+      "count": 6
+    },
+    "bangalore::phase 2 electronic city": {
+      "median": 4211.0,
+      "q25": 3960.0,
+      "q75": 4875.0,
+      "count": 23
+    },
+    "bangalore::phoenix one": {
+      "median": 21916.0,
+      "q25": 21547.0,
+      "q75": 22411.0,
+      "count": 6
+    },
+    "bangalore::prestige jindal city tumkur road": {
+      "median": 10855.0,
+      "q25": 10436.0,
+      "q75": 12073.0,
+      "count": 9
+    },
+    "bangalore::prestige royale gardens doddaballapur main road": {
+      "median": 8868.0,
+      "q25": 8234.0,
+      "q75": 9399.0,
+      "count": 6
+    },
+    "bangalore::pride pegasus hennur main road": {
+      "median": 10375.0,
+      "q25": 10151.0,
+      "q75": 10595.0,
+      "count": 5
+    },
+    "bangalore::provident park square kanakapura road": {
+      "median": 11500.0,
+      "q25": 11349.0,
+      "q75": 11727.0,
+      "count": 7
+    },
+    "bangalore::provident welworth city doddaballapur main road": {
+      "median": 5625.0,
+      "q25": 4494.0,
+      "q75": 6667.0,
+      "count": 5
+    },
+    "bangalore::purva atmosphere thanisandra": {
+      "median": 14000.0,
+      "q25": 13900.0,
+      "q75": 16154.0,
+      "count": 9
+    },
+    "bangalore::rajajinagar": {
+      "median": 17931.0,
+      "q25": 16254.0,
+      "q75": 17993.0,
+      "count": 9
+    },
+    "bangalore::shapoorji pallonji parkwest binny pete": {
+      "median": 15843.0,
+      "q25": 14896.0,
+      "q75": 16067.0,
+      "count": 10
+    },
+    "bangalore::sobha hrc pristine jakkur": {
+      "median": 13515.0,
+      "q25": 12157.0,
+      "q75": 17455.0,
+      "count": 8
+    },
+    "bangalore::sowparnika flamenco sarjapura": {
+      "median": 9396.0,
+      "q25": 8667.0,
+      "q75": 12174.0,
+      "count": 5
+    },
+    "bangalore::varthur": {
+      "median": 5324.0,
+      "q25": 5322.0,
+      "q75": 7377.0,
+      "count": 7
+    },
+    "belgaum::other": {
+      "median": 4286.0,
+      "q25": 4024.0,
+      "q75": 5333.0,
+      "count": 25
+    },
+    "belgaum::tilakwadi": {
+      "median": 5385.0,
+      "q25": 4000.0,
+      "q75": 7082.0,
+      "count": 5
+    },
+    "bhiwadi::alwar": {
+      "median": 2850.0,
+      "q25": 2617.0,
+      "q75": 3243.0,
+      "count": 23
+    },
+    "bhiwadi::alwar bypass road": {
+      "median": 2692.0,
+      "q25": 2174.0,
+      "q75": 3278.0,
+      "count": 425
+    },
+    "bhiwadi::bdi sunshine city": {
+      "median": 2503.0,
+      "q25": 2310.0,
+      "q75": 2637.0,
+      "count": 6
+    },
+    "bhiwadi::other": {
+      "median": 3200.0,
+      "q25": 2484.0,
+      "q75": 4298.0,
+      "count": 23
+    },
+    "bhiwadi::sector 24": {
+      "median": 4293.0,
+      "q25": 4020.0,
+      "q75": 4906.0,
+      "count": 8
+    },
+    "bhiwadi::tapukara": {
+      "median": 2368.0,
+      "q25": 2108.0,
+      "q75": 2528.0,
+      "count": 7
+    },
+    "bhiwadi::vasundhara nagar": {
+      "median": 3417.0,
+      "q25": 2930.0,
+      "q75": 3818.0,
+      "count": 6
+    },
+    "bhiwandi::kalher": {
+      "median": 5875.0,
+      "q25": 4441.0,
+      "q75": 6871.0,
+      "count": 12
+    },
+    "bhiwandi::mankoli": {
+      "median": 12637.0,
+      "q25": 12023.0,
+      "q75": 13241.0,
+      "count": 22
+    },
+    "bhiwandi::other": {
+      "median": 5894.0,
+      "q25": 4146.0,
+      "q75": 7366.0,
+      "count": 26
+    },
+    "bhopal::kolar road janki nagar": {
+      "median": 3581.0,
+      "q25": 3261.0,
+      "q75": 4084.0,
+      "count": 5
+    },
+    "bhopal::other": {
+      "median": 3333.0,
+      "q25": 2849.0,
+      "q75": 3808.0,
+      "count": 38
+    },
+    "bhubaneswar::hans pal": {
+      "median": 7636.0,
+      "q25": 5469.0,
+      "q75": 8224.0,
+      "count": 16
+    },
+    "bhubaneswar::kalinga nagar": {
+      "median": 7977.0,
+      "q25": 7616.0,
+      "q75": 9219.0,
+      "count": 11
+    },
+    "bhubaneswar::khandagiri": {
+      "median": 9330.0,
+      "q25": 8203.0,
+      "q75": 10204.0,
+      "count": 17
+    },
+    "bhubaneswar::madanpur": {
+      "median": 5882.0,
+      "q25": 5876.0,
+      "q75": 8478.0,
+      "count": 5
+    },
+    "bhubaneswar::other": {
+      "median": 7710.0,
+      "q25": 6373.0,
+      "q75": 9227.0,
+      "count": 74
+    },
+    "bhubaneswar::pahala": {
+      "median": 10208.0,
+      "q25": 9375.0,
+      "q75": 10660.0,
+      "count": 6
+    },
+    "bhubaneswar::patia": {
+      "median": 7200.0,
+      "q25": 5751.0,
+      "q75": 8591.0,
+      "count": 15
+    },
+    "bhubaneswar::patrapada": {
+      "median": 6914.0,
+      "q25": 6684.0,
+      "q75": 8017.0,
+      "count": 6
+    },
+    "bhubaneswar::raghunathpur": {
+      "median": 12083.0,
+      "q25": 8947.0,
+      "q75": 14167.0,
+      "count": 5
+    },
+    "bhubaneswar::sundarpada": {
+      "median": 4512.0,
+      "q25": 3244.0,
+      "q75": 5000.0,
+      "count": 18
+    },
+    "bhubaneswar::tamando": {
+      "median": 5314.0,
+      "q25": 5261.0,
+      "q75": 6480.0,
+      "count": 6
+    },
+    "chandigarh::dera bassi": {
+      "median": 5906.0,
+      "q25": 5546.0,
+      "q75": 5957.0,
+      "count": 21
+    },
+    "chandigarh::dhakoli": {
+      "median": 6133.0,
+      "q25": 5444.0,
+      "q75": 7051.0,
+      "count": 18
+    },
+    "chandigarh::madhya marg": {
+      "median": 9706.0,
+      "q25": 9109.0,
+      "q75": 9813.0,
+      "count": 6
+    },
+    "chandigarh::other": {
+      "median": 8021.0,
+      "q25": 4805.0,
+      "q75": 10858.0,
+      "count": 54
+    },
+    "chandigarh::sector 38 west": {
+      "median": 12143.0,
+      "q25": 9447.0,
+      "q75": 12411.0,
+      "count": 8
+    },
+    "chandigarh::sector 44": {
+      "median": 9737.0,
+      "q25": 8251.0,
+      "q75": 10778.0,
+      "count": 8
+    },
+    "chandigarh::sector 45": {
+      "median": 8800.0,
+      "q25": 7513.0,
+      "q75": 9737.0,
+      "count": 7
+    },
+    "chandigarh::sector 48": {
+      "median": 11429.0,
+      "q25": 10708.0,
+      "q75": 12235.0,
+      "count": 14
+    },
+    "chandigarh::sector 49": {
+      "median": 11818.0,
+      "q25": 11429.0,
+      "q75": 12500.0,
+      "count": 9
+    },
+    "chandigarh::sector 50": {
+      "median": 12386.0,
+      "q25": 11418.0,
+      "q75": 12905.0,
+      "count": 8
+    },
+    "chandigarh::sector 51": {
+      "median": 10811.0,
+      "q25": 9091.0,
+      "q75": 13043.0,
+      "count": 5
+    },
+    "chandigarh::sector 51a": {
+      "median": 9524.0,
+      "q25": 8929.0,
+      "q75": 10909.0,
+      "count": 5
+    },
+    "chandigarh::sector 63": {
+      "median": 9035.0,
+      "q25": 8651.0,
+      "q75": 9594.0,
+      "count": 6
+    },
+    "chandigarh::zirakpur": {
+      "median": 6252.0,
+      "q25": 5133.0,
+      "q75": 7500.0,
+      "count": 590
+    },
+    "chennai::adyar": {
+      "median": 17013.0,
+      "q25": 12545.0,
+      "q75": 19466.0,
+      "count": 12
+    },
+    "chennai::alliance galleria residences pallavaram": {
+      "median": 8197.0,
+      "q25": 8026.0,
+      "q75": 8817.0,
+      "count": 6
+    },
+    "chennai::alwarpet": {
+      "median": 17580.0,
+      "q25": 14615.0,
+      "q75": 19708.0,
+      "count": 8
+    },
+    "chennai::amarprakash temple waves kundrathur": {
+      "median": 6186.0,
+      "q25": 6136.0,
+      "q75": 6400.0,
+      "count": 5
+    },
+    "chennai::ambattur": {
+      "median": 5201.0,
+      "q25": 5139.0,
+      "q75": 6719.0,
+      "count": 8
+    },
+    "chennai::anna nagar": {
+      "median": 13333.0,
+      "q25": 11595.0,
+      "q75": 16917.0,
+      "count": 7
+    },
+    "chennai::besant nagar": {
+      "median": 18519.0,
+      "q25": 16772.0,
+      "q75": 19145.0,
+      "count": 7
+    },
+    "chennai::choolaimedu": {
+      "median": 10885.0,
+      "q25": 10179.0,
+      "q75": 12035.0,
+      "count": 8
+    },
+    "chennai::east tambaram": {
+      "median": 6726.0,
+      "q25": 5956.0,
+      "q75": 8333.0,
+      "count": 10
+    },
+    "chennai::egmore": {
+      "median": 16824.0,
+      "q25": 14615.0,
+      "q75": 17983.0,
+      "count": 5
+    },
+    "chennai::gerugambakkam": {
+      "median": 6027.0,
+      "q25": 5501.0,
+      "q75": 6388.0,
+      "count": 7
+    },
+    "chennai::guduvancheri": {
+      "median": 4928.0,
+      "q25": 4902.0,
+      "q75": 5421.0,
+      "count": 6
+    },
+    "chennai::keelkattalai": {
+      "median": 8216.0,
+      "q25": 6663.0,
+      "q75": 9279.0,
+      "count": 11
+    },
+    "chennai::kilpauk": {
+      "median": 12088.0,
+      "q25": 9047.0,
+      "q75": 14869.0,
+      "count": 10
+    },
+    "chennai::kolathur": {
+      "median": 6667.0,
+      "q25": 6480.0,
+      "q75": 7625.0,
+      "count": 15
+    },
+    "chennai::kovilambakkam": {
+      "median": 5854.0,
+      "q25": 5289.0,
+      "q75": 8216.0,
+      "count": 13
+    },
+    "chennai::lancor infinys keelkattalai": {
+      "median": 8529.0,
+      "q25": 8449.0,
+      "q75": 8891.0,
+      "count": 5
+    },
+    "chennai::madambakkam": {
+      "median": 6250.0,
+      "q25": 5835.0,
+      "q75": 8142.0,
+      "count": 13
+    },
+    "chennai::madipakkam": {
+      "median": 7495.0,
+      "q25": 6383.0,
+      "q75": 7549.0,
+      "count": 24
+    },
+    "chennai::manapakkam": {
+      "median": 7158.0,
+      "q25": 6231.0,
+      "q75": 9404.0,
+      "count": 6
+    },
+    "chennai::medavakkam": {
+      "median": 5802.0,
+      "q25": 5433.0,
+      "q75": 6494.0,
+      "count": 31
+    },
+    "chennai::mogappair": {
+      "median": 6340.0,
+      "q25": 6170.0,
+      "q75": 7862.0,
+      "count": 6
+    },
+    "chennai::mogappair west ambattur industrial estate": {
+      "median": 7186.0,
+      "q25": 5461.0,
+      "q75": 9789.0,
+      "count": 6
+    },
+    "chennai::mylapore": {
+      "median": 19202.0,
+      "q25": 13878.0,
+      "q75": 21894.0,
+      "count": 7
+    },
+    "chennai::nanganallur": {
+      "median": 12017.0,
+      "q25": 9618.0,
+      "q75": 13608.0,
+      "count": 10
+    },
+    "chennai::nanmangalam manikandan nagar": {
+      "median": 5538.0,
+      "q25": 4825.0,
+      "q75": 6108.0,
+      "count": 12
+    },
+    "chennai::nungambakkam": {
+      "median": 15000.0,
+      "q25": 13793.0,
+      "q75": 20000.0,
+      "count": 9
+    },
+    "chennai::other": {
+      "median": 7538.0,
+      "q25": 5789.0,
+      "q75": 10803.0,
+      "count": 865
+    },
+    "chennai::padur": {
+      "median": 5741.0,
+      "q25": 5714.0,
+      "q75": 6420.0,
+      "count": 5
+    },
+    "chennai::pallikaranai": {
+      "median": 7663.0,
+      "q25": 5382.0,
+      "q75": 8516.0,
+      "count": 6
+    },
+    "chennai::perambur": {
+      "median": 7414.0,
+      "q25": 6087.0,
+      "q75": 7778.0,
+      "count": 5
+    },
+    "chennai::perumbakkam": {
+      "median": 6643.0,
+      "q25": 6486.0,
+      "q75": 6990.0,
+      "count": 5
+    },
+    "chennai::perungudi": {
+      "median": 7478.0,
+      "q25": 5696.0,
+      "q75": 8152.0,
+      "count": 15
+    },
+    "chennai::porur": {
+      "median": 8333.0,
+      "q25": 6886.0,
+      "q75": 9286.0,
+      "count": 9
+    },
+    "chennai::pragnya eden park siruseri": {
+      "median": 5857.0,
+      "q25": 5479.0,
+      "q75": 7630.0,
+      "count": 6
+    },
+    "chennai::raja annamalai puram": {
+      "median": 16304.0,
+      "q25": 13648.0,
+      "q75": 17414.0,
+      "count": 6
+    },
+    "chennai::rajakilpakkam": {
+      "median": 8649.0,
+      "q25": 7259.0,
+      "q75": 10110.0,
+      "count": 10
+    },
+    "chennai::santhosapuram": {
+      "median": 5728.0,
+      "q25": 5725.0,
+      "q75": 5733.0,
+      "count": 6
+    },
+    "chennai::selaiyur": {
+      "median": 5913.0,
+      "q25": 5202.0,
+      "q75": 6300.0,
+      "count": 5
+    },
+    "chennai::sembakkam": {
+      "median": 4494.0,
+      "q25": 4167.0,
+      "q75": 5993.0,
+      "count": 5
+    },
+    "chennai::sholinganallur": {
+      "median": 9224.0,
+      "q25": 8214.0,
+      "q75": 10402.0,
+      "count": 10
+    },
+    "chennai::shriram park 63 grand southern trunk road": {
+      "median": 9891.0,
+      "q25": 9040.0,
+      "q75": 10405.0,
+      "count": 7
+    },
+    "chennai::sithalapakkam": {
+      "median": 4932.0,
+      "q25": 4899.0,
+      "q75": 5016.0,
+      "count": 5
+    },
+    "chennai::t nagar": {
+      "median": 18443.0,
+      "q25": 15255.0,
+      "q75": 19500.0,
+      "count": 14
+    },
+    "chennai::the metrozone anna nagar": {
+      "median": 14167.0,
+      "q25": 13312.0,
+      "q75": 15273.0,
+      "count": 7
+    },
+    "chennai::thiruvanmiyur": {
+      "median": 12081.0,
+      "q25": 11164.0,
+      "q75": 17448.0,
+      "count": 16
+    },
+    "chennai::thoraipakkam": {
+      "median": 6837.0,
+      "q25": 5681.0,
+      "q75": 8836.0,
+      "count": 8
+    },
+    "chennai::ullagaram madipakkam": {
+      "median": 7045.0,
+      "q25": 7035.0,
+      "q75": 7380.0,
+      "count": 5
+    },
+    "chennai::valasaravakkam": {
+      "median": 9000.0,
+      "q25": 8398.0,
+      "q75": 9464.0,
+      "count": 11
+    },
+    "chennai::velachery": {
+      "median": 8778.0,
+      "q25": 6689.0,
+      "q75": 10408.0,
+      "count": 16
+    },
+    "chennai::west mambalam": {
+      "median": 11690.0,
+      "q25": 9143.0,
+      "q75": 12257.0,
+      "count": 5
+    },
+    "coimbatore::ganapathy": {
+      "median": 5818.0,
+      "q25": 5483.0,
+      "q75": 6005.0,
+      "count": 8
+    },
+    "coimbatore::k k pudur": {
+      "median": 4836.0,
+      "q25": 4601.0,
+      "q75": 4925.0,
+      "count": 5
+    },
+    "coimbatore::kavundam palayam": {
+      "median": 4762.0,
+      "q25": 4563.0,
+      "q75": 5312.0,
+      "count": 7
+    },
+    "coimbatore::nanjundapuram": {
+      "median": 6000.0,
+      "q25": 4927.0,
+      "q75": 6250.0,
+      "count": 5
+    },
+    "coimbatore::other": {
+      "median": 5200.0,
+      "q25": 4633.0,
+      "q75": 6222.0,
+      "count": 103
+    },
+    "coimbatore::peelamedu": {
+      "median": 6852.0,
+      "q25": 5601.0,
+      "q75": 7553.0,
+      "count": 10
+    },
+    "coimbatore::ramanathapuram": {
+      "median": 5797.0,
+      "q25": 5377.0,
+      "q75": 6933.0,
+      "count": 9
+    },
+    "coimbatore::saibaba colony": {
+      "median": 5182.0,
+      "q25": 5000.0,
+      "q75": 6250.0,
+      "count": 13
+    },
+    "coimbatore::saravanampatty": {
+      "median": 5738.0,
+      "q25": 5102.0,
+      "q75": 7546.0,
+      "count": 21
+    },
+    "coimbatore::selvapuram": {
+      "median": 5311.0,
+      "q25": 5050.0,
+      "q75": 6103.0,
+      "count": 8
+    },
+    "coimbatore::singanallur": {
+      "median": 5251.0,
+      "q25": 4940.0,
+      "q75": 5651.0,
+      "count": 8
+    },
+    "coimbatore::thudiyalur": {
+      "median": 4622.0,
+      "q25": 4375.0,
+      "q75": 5556.0,
+      "count": 9
+    },
+    "coimbatore::trichy road": {
+      "median": 6954.0,
+      "q25": 6098.0,
+      "q75": 7987.0,
+      "count": 8
+    },
+    "coimbatore::vadavalli": {
+      "median": 5090.0,
+      "q25": 4087.0,
+      "q75": 5764.0,
+      "count": 33
+    },
+    "dehradun::aman vihar": {
+      "median": 4163.0,
+      "q25": 4050.0,
+      "q75": 4853.0,
+      "count": 12
+    },
+    "dehradun::canal road": {
+      "median": 5100.0,
+      "q25": 4900.0,
+      "q75": 5750.0,
+      "count": 16
+    },
+    "dehradun::dalanwala": {
+      "median": 6503.0,
+      "q25": 5415.0,
+      "q75": 8352.0,
+      "count": 8
+    },
+    "dehradun::dehrakhas": {
+      "median": 5042.0,
+      "q25": 4517.0,
+      "q75": 7331.0,
+      "count": 12
+    },
+    "dehradun::dhoran road": {
+      "median": 4857.0,
+      "q25": 4399.0,
+      "q75": 5000.0,
+      "count": 23
+    },
+    "dehradun::doon it park": {
+      "median": 4533.0,
+      "q25": 3842.0,
+      "q75": 4690.0,
+      "count": 10
+    },
+    "dehradun::doon vihar, jakhan": {
+      "median": 6228.0,
+      "q25": 5463.0,
+      "q75": 6505.0,
+      "count": 8
+    },
+    "dehradun::general mahadev singh road": {
+      "median": 5747.0,
+      "q25": 5286.0,
+      "q75": 6444.0,
+      "count": 30
+    },
+    "dehradun::haridwar bypass road": {
+      "median": 5248.0,
+      "q25": 5228.0,
+      "q75": 5443.0,
+      "count": 5
+    },
+    "dehradun::haridwar road": {
+      "median": 4979.0,
+      "q25": 4416.0,
+      "q75": 5479.0,
+      "count": 6
+    },
+    "dehradun::isbt turner road": {
+      "median": 5972.0,
+      "q25": 5647.0,
+      "q75": 6069.0,
+      "count": 5
+    },
+    "dehradun::mussoorie road": {
+      "median": 7376.0,
+      "q25": 5681.0,
+      "q75": 9304.0,
+      "count": 15
+    },
+    "dehradun::other": {
+      "median": 5000.0,
+      "q25": 4305.0,
+      "q75": 5857.0,
+      "count": 124
+    },
+    "dehradun::rajpur road": {
+      "median": 5614.0,
+      "q25": 4643.0,
+      "q75": 7692.0,
+      "count": 9
+    },
+    "dehradun::sahastradhara": {
+      "median": 6333.0,
+      "q25": 5333.0,
+      "q75": 7917.0,
+      "count": 17
+    },
+    "dehradun::sahastradhara road": {
+      "median": 5312.0,
+      "q25": 4439.0,
+      "q75": 7550.0,
+      "count": 127
+    },
+    "dehradun::shimla bypass road": {
+      "median": 4622.0,
+      "q25": 4491.0,
+      "q75": 5663.0,
+      "count": 6
+    },
+    "durgapur::arrah kalinagar": {
+      "median": 2711.0,
+      "q25": 2529.0,
+      "q75": 2970.0,
+      "count": 7
+    },
+    "durgapur::bamunara": {
+      "median": 3223.0,
+      "q25": 2812.0,
+      "q75": 5063.0,
+      "count": 12
+    },
+    "durgapur::bidhannagar": {
+      "median": 2811.0,
+      "q25": 2699.0,
+      "q75": 3012.0,
+      "count": 10
+    },
+    "durgapur::bijra": {
+      "median": 5000.0,
+      "q25": 3735.0,
+      "q75": 5629.0,
+      "count": 7
+    },
+    "durgapur::other": {
+      "median": 3501.0,
+      "q25": 3000.0,
+      "q75": 3980.0,
+      "count": 38
+    },
+    "ernakulam::edappally": {
+      "median": 6667.0,
+      "q25": 5554.0,
+      "q75": 7362.0,
+      "count": 7
+    },
+    "ernakulam::other": {
+      "median": 5200.0,
+      "q25": 4408.0,
+      "q75": 6760.0,
+      "count": 63
+    },
+    "faridabad::aravali vihar": {
+      "median": 4000.0,
+      "q25": 3788.0,
+      "q75": 4043.0,
+      "count": 5
+    },
+    "faridabad::ashoka enclave part 1, ashoka enclave, mathura road": {
+      "median": 6672.0,
+      "q25": 6387.0,
+      "q75": 7156.0,
+      "count": 8
+    },
+    "faridabad::ashoka enclave part 2, sector 37, mathura road": {
+      "median": 7399.0,
+      "q25": 6996.0,
+      "q75": 7676.0,
+      "count": 16
+    },
+    "faridabad::ashoka enclave, mathura road": {
+      "median": 6082.0,
+      "q25": 5784.0,
+      "q75": 6222.0,
+      "count": 9
+    },
+    "faridabad::charmwood village, sector 39, suraj kund badkhal road": {
+      "median": 8165.0,
+      "q25": 7381.0,
+      "q75": 8912.0,
+      "count": 38
+    },
+    "faridabad::dayal bagh colony, badarpur metro": {
+      "median": 4000.0,
+      "q25": 3571.0,
+      "q75": 4583.0,
+      "count": 7
+    },
+    "faridabad::faridpur": {
+      "median": 4698.0,
+      "q25": 4186.0,
+      "q75": 5426.0,
+      "count": 7
+    },
+    "faridabad::greenfield colony, mathura road": {
+      "median": 5069.0,
+      "q25": 4359.0,
+      "q75": 5600.0,
+      "count": 167
+    },
+    "faridabad::greenfields colony block a, sector 42, mathura road": {
+      "median": 6111.0,
+      "q25": 5682.0,
+      "q75": 6364.0,
+      "count": 9
+    },
+    "faridabad::indraprastha colony, sector 32, mathura road": {
+      "median": 4203.0,
+      "q25": 3703.0,
+      "q75": 4841.0,
+      "count": 8
+    },
+    "faridabad::kheri kalan": {
+      "median": 5618.0,
+      "q25": 5247.0,
+      "q75": 6185.0,
+      "count": 12
+    },
+    "faridabad::neharpar": {
+      "median": 5647.0,
+      "q25": 4808.0,
+      "q75": 6313.0,
+      "count": 42
+    },
+    "faridabad::other": {
+      "median": 5054.0,
+      "q25": 4000.0,
+      "q75": 6285.0,
+      "count": 86
+    },
+    "faridabad::sainik colony, sector 49": {
+      "median": 3974.0,
+      "q25": 3641.0,
+      "q75": 4311.0,
+      "count": 47
+    },
+    "faridabad::sector 11, mathura road": {
+      "median": 5000.0,
+      "q25": 4113.0,
+      "q75": 5327.0,
+      "count": 7
+    },
+    "faridabad::sector 14, mathura road": {
+      "median": 10156.0,
+      "q25": 10000.0,
+      "q75": 10588.0,
+      "count": 9
+    },
+    "faridabad::sector 15, mathura road": {
+      "median": 10625.0,
+      "q25": 10278.0,
+      "q75": 11131.0,
+      "count": 10
+    },
+    "faridabad::sector 16, mathura road": {
+      "median": 6841.0,
+      "q25": 6400.0,
+      "q75": 7307.0,
+      "count": 12
+    },
+    "faridabad::sector 19, mathura road": {
+      "median": 6805.0,
+      "q25": 5991.0,
+      "q75": 7015.0,
+      "count": 10
+    },
+    "faridabad::sector 21c, mathura road": {
+      "median": 6182.0,
+      "q25": 5937.0,
+      "q75": 7600.0,
+      "count": 15
+    },
+    "faridabad::sector 21d, mathura road": {
+      "median": 6629.0,
+      "q25": 6262.0,
+      "q75": 7375.0,
+      "count": 14
+    },
+    "faridabad::sector 28, mathura road": {
+      "median": 6868.0,
+      "q25": 6311.0,
+      "q75": 7333.0,
+      "count": 25
+    },
+    "faridabad::sector 29, mathura road": {
+      "median": 6354.0,
+      "q25": 5783.0,
+      "q75": 7835.0,
+      "count": 7
+    },
+    "faridabad::sector 30, mathura road": {
+      "median": 5811.0,
+      "q25": 5000.0,
+      "q75": 5909.0,
+      "count": 5
+    },
+    "faridabad::sector 31, mathura road": {
+      "median": 6011.0,
+      "q25": 4912.0,
+      "q75": 6274.0,
+      "count": 6
+    },
+    "faridabad::sector 32, mathura road": {
+      "median": 3701.0,
+      "q25": 3492.0,
+      "q75": 4160.0,
+      "count": 8
+    },
+    "faridabad::sector 37, mathura road": {
+      "median": 6646.0,
+      "q25": 5233.0,
+      "q75": 7379.0,
+      "count": 35
+    },
+    "faridabad::sector 42, mathura road": {
+      "median": 5900.0,
+      "q25": 5706.0,
+      "q75": 6048.0,
+      "count": 8
+    },
+    "faridabad::sector 45, mathura road": {
+      "median": 6462.0,
+      "q25": 5426.0,
+      "q75": 6667.0,
+      "count": 17
+    },
+    "faridabad::sector 46, mathura road": {
+      "median": 6500.0,
+      "q25": 5556.0,
+      "q75": 7042.0,
+      "count": 15
+    },
+    "faridabad::sector 48": {
+      "median": 4639.0,
+      "q25": 3886.0,
+      "q75": 5087.0,
+      "count": 8
+    },
+    "faridabad::sector 49": {
+      "median": 4196.0,
+      "q25": 3552.0,
+      "q75": 5093.0,
+      "count": 31
+    },
+    "faridabad::sector 70": {
+      "median": 4583.0,
+      "q25": 4000.0,
+      "q75": 5200.0,
+      "count": 13
+    },
+    "faridabad::sector 75": {
+      "median": 4398.0,
+      "q25": 3871.0,
+      "q75": 5167.0,
+      "count": 41
+    },
+    "faridabad::sector 76": {
+      "median": 4320.0,
+      "q25": 3971.0,
+      "q75": 5093.0,
+      "count": 23
+    },
+    "faridabad::sector 77": {
+      "median": 5000.0,
+      "q25": 4364.0,
+      "q75": 6250.0,
+      "count": 93
+    },
+    "faridabad::sector 78": {
+      "median": 4816.0,
+      "q25": 3827.0,
+      "q75": 5418.0,
+      "count": 38
+    },
+    "faridabad::sector 79": {
+      "median": 7419.0,
+      "q25": 6666.0,
+      "q75": 8210.0,
+      "count": 19
+    },
+    "faridabad::sector 8": {
+      "median": 5786.0,
+      "q25": 5324.0,
+      "q75": 6263.0,
+      "count": 5
+    },
+    "faridabad::sector 80": {
+      "median": 6520.0,
+      "q25": 6037.0,
+      "q75": 7089.0,
+      "count": 39
+    },
+    "faridabad::sector 81": {
+      "median": 6650.0,
+      "q25": 6209.0,
+      "q75": 7373.0,
+      "count": 86
+    },
+    "faridabad::sector 82": {
+      "median": 4623.0,
+      "q25": 3750.0,
+      "q75": 5854.0,
+      "count": 101
+    },
+    "faridabad::sector 83": {
+      "median": 4326.0,
+      "q25": 3565.0,
+      "q75": 4513.0,
+      "count": 6
+    },
+    "faridabad::sector 84": {
+      "median": 5687.0,
+      "q25": 4788.0,
+      "q75": 6246.0,
+      "count": 64
+    },
+    "faridabad::sector 85": {
+      "median": 5556.0,
+      "q25": 5019.0,
+      "q75": 6156.0,
+      "count": 199
+    },
+    "faridabad::sector 86": {
+      "median": 4800.0,
+      "q25": 3968.0,
+      "q75": 6000.0,
+      "count": 193
+    },
+    "faridabad::sector 87": {
+      "median": 4254.0,
+      "q25": 4162.0,
+      "q75": 4480.0,
+      "count": 22
+    },
+    "faridabad::sector 88": {
+      "median": 5363.0,
+      "q25": 4846.0,
+      "q75": 6000.0,
+      "count": 232
+    },
+    "faridabad::sector 89": {
+      "median": 6167.0,
+      "q25": 5476.0,
+      "q75": 6851.0,
+      "count": 163
+    },
+    "faridabad::suraj kund, sector 37": {
+      "median": 9159.0,
+      "q25": 8023.0,
+      "q75": 10011.0,
+      "count": 28
+    },
+    "faridabad::surya nagar phase 2": {
+      "median": 3498.0,
+      "q25": 2971.0,
+      "q75": 3945.0,
+      "count": 6
+    },
+    "ghaziabad::ahinsa khand, indirapuram": {
+      "median": 16689.0,
+      "q25": 13750.0,
+      "q75": 16949.0,
+      "count": 21
+    },
+    "ghaziabad::ahinsa khand-1, indirapuram": {
+      "median": 12632.0,
+      "q25": 5600.0,
+      "q75": 14444.0,
+      "count": 5
+    },
+    "ghaziabad::ahinsa khand-2, indirapuram": {
+      "median": 5093.0,
+      "q25": 4854.0,
+      "q75": 6250.0,
+      "count": 5
+    },
+    "ghaziabad::bhopura": {
+      "median": 3111.0,
+      "q25": 3000.0,
+      "q75": 4250.0,
+      "count": 5
+    },
+    "ghaziabad::crossings republik": {
+      "median": 4439.0,
+      "q25": 4045.0,
+      "q75": 4758.0,
+      "count": 20
+    },
+    "ghaziabad::garhi, raj nagar extension": {
+      "median": 4729.0,
+      "q25": 3212.0,
+      "q75": 6297.0,
+      "count": 10
+    },
+    "ghaziabad::govindpuram": {
+      "median": 2633.0,
+      "q25": 2327.0,
+      "q75": 3889.0,
+      "count": 17
+    },
+    "ghaziabad::gyan khand 1, indirapuram": {
+      "median": 6615.0,
+      "q25": 5357.0,
+      "q75": 6932.0,
+      "count": 10
+    },
+    "ghaziabad::indirapuram": {
+      "median": 6750.0,
+      "q25": 5769.0,
+      "q75": 8043.0,
+      "count": 113
+    },
+    "ghaziabad::neeti khand 1, indirapuram": {
+      "median": 6807.0,
+      "q25": 6219.0,
+      "q75": 7369.0,
+      "count": 6
+    },
+    "ghaziabad::nh 24": {
+      "median": 5042.0,
+      "q25": 4209.0,
+      "q75": 6567.0,
+      "count": 36
+    },
+    "ghaziabad::niti khand-indirapuram, indirapuram": {
+      "median": 5585.0,
+      "q25": 5369.0,
+      "q75": 6778.0,
+      "count": 7
+    },
+    "ghaziabad::other": {
+      "median": 5759.0,
+      "q25": 4623.0,
+      "q75": 7082.0,
+      "count": 103
+    },
+    "ghaziabad::raj nagar extension": {
+      "median": 5905.0,
+      "q25": 4412.0,
+      "q75": 6601.0,
+      "count": 31
+    },
+    "ghaziabad::rajendra nagar": {
+      "median": 4917.0,
+      "q25": 3875.0,
+      "q75": 5556.0,
+      "count": 5
+    },
+    "ghaziabad::rajendra nagar sector 2": {
+      "median": 4529.0,
+      "q25": 3848.0,
+      "q75": 5455.0,
+      "count": 9
+    },
+    "ghaziabad::sain vihar": {
+      "median": 3733.0,
+      "q25": 3533.0,
+      "q75": 3985.0,
+      "count": 26
+    },
+    "ghaziabad::shakti khand 2, indirapuram": {
+      "median": 5233.0,
+      "q25": 4122.0,
+      "q75": 6223.0,
+      "count": 18
+    },
+    "ghaziabad::shakti khand 3, indirapuram": {
+      "median": 5438.0,
+      "q25": 4680.0,
+      "q75": 5677.0,
+      "count": 13
+    },
+    "ghaziabad::shalimar garden extension 1": {
+      "median": 3800.0,
+      "q25": 3533.0,
+      "q75": 4833.0,
+      "count": 9
+    },
+    "ghaziabad::shalimar garden extension 2, rajendra nagar": {
+      "median": 3750.0,
+      "q25": 3396.0,
+      "q75": 4532.0,
+      "count": 11
+    },
+    "ghaziabad::siddhartha vihar, nh 24": {
+      "median": 9310.0,
+      "q25": 8920.0,
+      "q75": 9841.0,
+      "count": 38
+    },
+    "ghaziabad::vaibhav khand, indirapuram": {
+      "median": 9097.0,
+      "q25": 8636.0,
+      "q75": 12381.0,
+      "count": 9
+    },
+    "ghaziabad::vaishali": {
+      "median": 6937.0,
+      "q25": 5441.0,
+      "q75": 7463.0,
+      "count": 12
+    },
+    "ghaziabad::vaishali sector 4": {
+      "median": 7500.0,
+      "q25": 7273.0,
+      "q75": 7547.0,
+      "count": 5
+    },
+    "ghaziabad::vasundhara": {
+      "median": 5789.0,
+      "q25": 5556.0,
+      "q75": 6316.0,
+      "count": 23
+    },
+    "ghaziabad::vasundhara sector 5": {
+      "median": 6706.0,
+      "q25": 6458.0,
+      "q75": 7778.0,
+      "count": 5
+    },
+    "ghaziabad::wave city": {
+      "median": 4497.0,
+      "q25": 4265.0,
+      "q75": 5319.0,
+      "count": 19
+    },
+    "goa::aradi socorro": {
+      "median": 6352.0,
+      "q25": 5644.0,
+      "q75": 6376.0,
+      "count": 5
+    },
+    "goa::arpora": {
+      "median": 10979.0,
+      "q25": 9978.0,
+      "q75": 12387.0,
+      "count": 13
+    },
+    "goa::assagao": {
+      "median": 14984.0,
+      "q25": 14865.0,
+      "q75": 16590.0,
+      "count": 5
+    },
+    "goa::baga": {
+      "median": 7960.0,
+      "q25": 7857.0,
+      "q75": 8946.0,
+      "count": 5
+    },
+    "goa::bainguinim": {
+      "median": 8237.0,
+      "q25": 7012.0,
+      "q75": 8933.0,
+      "count": 5
+    },
+    "goa::bambolim": {
+      "median": 7922.0,
+      "q25": 7146.0,
+      "q75": 12043.0,
+      "count": 5
+    },
+    "goa::calangute": {
+      "median": 10017.0,
+      "q25": 7896.0,
+      "q75": 11548.0,
+      "count": 18
+    },
+    "goa::candolim": {
+      "median": 11613.0,
+      "q25": 9622.0,
+      "q75": 13766.0,
+      "count": 11
+    },
+    "goa::caranzalem": {
+      "median": 10529.0,
+      "q25": 8640.0,
+      "q75": 12143.0,
+      "count": 19
+    },
+    "goa::chicalim": {
+      "median": 6564.0,
+      "q25": 6287.0,
+      "q75": 7602.0,
+      "count": 6
+    },
+    "goa::colva": {
+      "median": 7611.0,
+      "q25": 7145.0,
+      "q75": 7706.0,
+      "count": 7
+    },
+    "goa::corlim": {
+      "median": 7432.0,
+      "q25": 4645.0,
+      "q75": 10219.0,
+      "count": 5
+    },
+    "goa::dabolim": {
+      "median": 8826.0,
+      "q25": 7164.0,
+      "q75": 11505.0,
+      "count": 23
+    },
+    "goa::dona paula": {
+      "median": 11806.0,
+      "q25": 10163.0,
+      "q75": 16091.0,
+      "count": 25
+    },
+    "goa::duler": {
+      "median": 6853.0,
+      "q25": 5592.0,
+      "q75": 7669.0,
+      "count": 6
+    },
+    "goa::kadamba plateau": {
+      "median": 7725.0,
+      "q25": 6129.0,
+      "q75": 9440.0,
+      "count": 14
+    },
+    "goa::karaswada": {
+      "median": 7548.0,
+      "q25": 6059.0,
+      "q75": 7651.0,
+      "count": 5
+    },
+    "goa::mapusa": {
+      "median": 6379.0,
+      "q25": 5803.0,
+      "q75": 7380.0,
+      "count": 20
+    },
+    "goa::margao": {
+      "median": 5914.0,
+      "q25": 5311.0,
+      "q75": 6815.0,
+      "count": 13
+    },
+    "goa::miramar": {
+      "median": 15090.0,
+      "q25": 12218.0,
+      "q75": 19496.0,
+      "count": 16
+    },
+    "goa::navelim": {
+      "median": 6316.0,
+      "q25": 5946.0,
+      "q75": 7057.0,
+      "count": 6
+    },
+    "goa::old": {
+      "median": 5899.0,
+      "q25": 5245.0,
+      "q75": 5994.0,
+      "count": 5
+    },
+    "goa::other": {
+      "median": 6604.0,
+      "q25": 5716.0,
+      "q75": 8871.0,
+      "count": 143
+    },
+    "goa::panaji": {
+      "median": 10100.0,
+      "q25": 9380.0,
+      "q75": 10593.0,
+      "count": 6
+    },
+    "goa::panjim": {
+      "median": 11640.0,
+      "q25": 6907.0,
+      "q75": 12134.0,
+      "count": 11
+    },
+    "goa::ponda": {
+      "median": 5444.0,
+      "q25": 4718.0,
+      "q75": 6194.0,
+      "count": 9
+    },
+    "goa::porvorim": {
+      "median": 8009.0,
+      "q25": 6581.0,
+      "q75": 9758.0,
+      "count": 45
+    },
+    "goa::ribandar": {
+      "median": 6290.0,
+      "q25": 5891.0,
+      "q75": 6724.0,
+      "count": 5
+    },
+    "goa::sancoale": {
+      "median": 5806.0,
+      "q25": 5263.0,
+      "q75": 9045.0,
+      "count": 5
+    },
+    "goa::sangolda": {
+      "median": 7320.0,
+      "q25": 6757.0,
+      "q75": 7500.0,
+      "count": 5
+    },
+    "goa::siolim": {
+      "median": 11578.0,
+      "q25": 7816.0,
+      "q75": 13825.0,
+      "count": 14
+    },
+    "goa::taleigao": {
+      "median": 9094.0,
+      "q25": 8778.0,
+      "q75": 10014.0,
+      "count": 16
+    },
+    "goa::tivim": {
+      "median": 6108.0,
+      "q25": 5752.0,
+      "q75": 7329.0,
+      "count": 8
+    },
+    "goa::vasco da gama": {
+      "median": 7112.0,
+      "q25": 6802.0,
+      "q75": 7273.0,
+      "count": 19
+    },
+    "greater-noida::ace divino": {
+      "median": 11724.0,
+      "q25": 8628.0,
+      "q75": 12598.0,
+      "count": 8
+    },
+    "greater-noida::aig royal": {
+      "median": 8876.0,
+      "q25": 7371.0,
+      "q75": 10283.0,
+      "count": 7
+    },
+    "greater-noida::aims green avenue": {
+      "median": 5631.0,
+      "q25": 5630.0,
+      "q75": 6111.0,
+      "count": 5
+    },
+    "greater-noida::ajnara le garden": {
+      "median": 6351.0,
+      "q25": 5371.0,
+      "q75": 6670.0,
+      "count": 14
+    },
+    "greater-noida::alpha 1": {
+      "median": 5849.0,
+      "q25": 5013.0,
+      "q75": 6473.0,
+      "count": 14
+    },
+    "greater-noida::ambrosia luxury homes": {
+      "median": 2868.0,
+      "q25": 2531.0,
+      "q75": 3378.0,
+      "count": 26
+    },
+    "greater-noida::arihant ambar": {
+      "median": 7455.0,
+      "q25": 6667.0,
+      "q75": 8000.0,
+      "count": 5
+    },
+    "greater-noida::bironda, sector-pi": {
+      "median": 5912.0,
+      "q25": 5590.0,
+      "q75": 6724.0,
+      "count": 8
+    },
+    "greater-noida::bisrakh": {
+      "median": 3681.0,
+      "q25": 3556.0,
+      "q75": 3900.0,
+      "count": 5
+    },
+    "greater-noida::c-16": {
+      "median": 7229.0,
+      "q25": 6811.0,
+      "q75": 9287.0,
+      "count": 14
+    },
+    "greater-noida::cassia fistula estate, sector-chi": {
+      "median": 8036.0,
+      "q25": 7248.0,
+      "q75": 9767.0,
+      "count": 11
+    },
+    "greater-noida::chi 4": {
+      "median": 7372.0,
+      "q25": 6484.0,
+      "q75": 8700.0,
+      "count": 8
+    },
+    "greater-noida::chi 5": {
+      "median": 7229.0,
+      "q25": 6746.0,
+      "q75": 7974.0,
+      "count": 26
+    },
+    "greater-noida::chuharpur khadar, sector-chi": {
+      "median": 7500.0,
+      "q25": 6477.0,
+      "q75": 8288.0,
+      "count": 29
+    },
+    "greater-noida::civitech strings": {
+      "median": 6539.0,
+      "q25": 6149.0,
+      "q75": 6584.0,
+      "count": 8
+    },
+    "greater-noida::coco county": {
+      "median": 9571.0,
+      "q25": 8421.0,
+      "q75": 10543.0,
+      "count": 9
+    },
+    "greater-noida::crc sublimis": {
+      "median": 9000.0,
+      "q25": 8545.0,
+      "q75": 10500.0,
+      "count": 13
+    },
+    "greater-noida::delta 1": {
+      "median": 7569.0,
+      "q25": 7435.0,
+      "q75": 7712.0,
+      "count": 6
+    },
+    "greater-noida::devsai sportshome": {
+      "median": 7293.0,
+      "q25": 6769.0,
+      "q75": 8708.0,
+      "count": 28
+    },
+    "greater-noida::eldeco green meadows, sector-pi": {
+      "median": 6479.0,
+      "q25": 5992.0,
+      "q75": 6814.0,
+      "count": 10
+    },
+    "greater-noida::eta 2, eta": {
+      "median": 5634.0,
+      "q25": 4597.0,
+      "q75": 6694.0,
+      "count": 28
+    },
+    "greater-noida::gaur city": {
+      "median": 5321.0,
+      "q25": 4959.0,
+      "q75": 6213.0,
+      "count": 9
+    },
+    "greater-noida::gaur saundaryam": {
+      "median": 11391.0,
+      "q25": 10362.0,
+      "q75": 12299.0,
+      "count": 31
+    },
+    "greater-noida::gautam budh nagar": {
+      "median": 7146.0,
+      "q25": 6964.0,
+      "q75": 8636.0,
+      "count": 6
+    },
+    "greater-noida::himalaya pride": {
+      "median": 6700.0,
+      "q25": 5643.0,
+      "q75": 7315.0,
+      "count": 5
+    },
+    "greater-noida::jaypee greens": {
+      "median": 12939.0,
+      "q25": 11149.0,
+      "q75": 15011.0,
+      "count": 26
+    },
+    "greater-noida::krystal homes": {
+      "median": 3083.0,
+      "q25": 2956.0,
+      "q75": 3350.0,
+      "count": 6
+    },
+    "greater-noida::lagerstroemia estate, sector-chi": {
+      "median": 6977.0,
+      "q25": 6471.0,
+      "q75": 7615.0,
+      "count": 10
+    },
+    "greater-noida::mahagun mantra 1": {
+      "median": 6477.0,
+      "q25": 6400.0,
+      "q75": 6671.0,
+      "count": 8
+    },
+    "greater-noida::mahagun mantra 2": {
+      "median": 5600.0,
+      "q25": 5040.0,
+      "q75": 7111.0,
+      "count": 7
+    },
+    "greater-noida::nirala aspire gold phase ii": {
+      "median": 8994.0,
+      "q25": 8831.0,
+      "q75": 9180.0,
+      "count": 5
+    },
+    "greater-noida::nirala greenshire": {
+      "median": 8000.0,
+      "q25": 6667.0,
+      "q75": 8154.0,
+      "count": 5
+    },
+    "greater-noida::noida extention": {
+      "median": 6914.0,
+      "q25": 4091.0,
+      "q75": 9510.0,
+      "count": 85
+    },
+    "greater-noida::nri city, omega 2": {
+      "median": 5100.0,
+      "q25": 4819.0,
+      "q75": 5326.0,
+      "count": 8
+    },
+    "greater-noida::omega 1": {
+      "median": 5140.0,
+      "q25": 4045.0,
+      "q75": 5445.0,
+      "count": 10
+    },
+    "greater-noida::omega 2": {
+      "median": 5308.0,
+      "q25": 4243.0,
+      "q75": 6130.0,
+      "count": 6
+    },
+    "greater-noida::omicron": {
+      "median": 5558.0,
+      "q25": 5330.0,
+      "q75": 6193.0,
+      "count": 8
+    },
+    "greater-noida::omicron 1": {
+      "median": 6106.0,
+      "q25": 5024.0,
+      "q75": 6561.0,
+      "count": 58
+    },
+    "greater-noida::omicron 3": {
+      "median": 4968.0,
+      "q25": 4580.0,
+      "q75": 5839.0,
+      "count": 47
+    },
+    "greater-noida::other": {
+      "median": 5449.0,
+      "q25": 4186.0,
+      "q75": 6946.0,
+      "count": 210
+    },
+    "greater-noida::pari chowk": {
+      "median": 6818.0,
+      "q25": 4750.0,
+      "q75": 9429.0,
+      "count": 33
+    },
+    "greater-noida::phi 2": {
+      "median": 6786.0,
+      "q25": 4565.0,
+      "q75": 7488.0,
+      "count": 16
+    },
+    "greater-noida::pi 2": {
+      "median": 3824.0,
+      "q25": 3720.0,
+      "q75": 4233.0,
+      "count": 15
+    },
+    "greater-noida::ratan pearls": {
+      "median": 8368.0,
+      "q25": 8117.0,
+      "q75": 8368.0,
+      "count": 5
+    },
+    "greater-noida::rg luxury homes": {
+      "median": 6667.0,
+      "q25": 5777.0,
+      "q75": 6889.0,
+      "count": 5
+    },
+    "greater-noida::sector 1": {
+      "median": 5000.0,
+      "q25": 3043.0,
+      "q75": 8248.0,
+      "count": 236
+    },
+    "greater-noida::sector 10": {
+      "median": 8492.0,
+      "q25": 7983.0,
+      "q75": 10306.0,
+      "count": 20
+    },
+    "greater-noida::sector 16": {
+      "median": 6958.0,
+      "q25": 5998.0,
+      "q75": 8484.0,
+      "count": 56
+    },
+    "greater-noida::sector 16c": {
+      "median": 6407.0,
+      "q25": 5703.0,
+      "q75": 7582.0,
+      "count": 20
+    },
+    "greater-noida::sector 2": {
+      "median": 8707.0,
+      "q25": 7752.0,
+      "q75": 9437.0,
+      "count": 12
+    },
+    "greater-noida::sector 22 d": {
+      "median": 5498.0,
+      "q25": 5185.0,
+      "q75": 6377.0,
+      "count": 12
+    },
+    "greater-noida::sector 27": {
+      "median": 13125.0,
+      "q25": 8750.0,
+      "q75": 13194.0,
+      "count": 5
+    },
+    "greater-noida::sector 4": {
+      "median": 7050.0,
+      "q25": 6198.0,
+      "q75": 7449.0,
+      "count": 16
+    },
+    "greater-noida::sector mu 2": {
+      "median": 4688.0,
+      "q25": 3964.0,
+      "q75": 5172.0,
+      "count": 13
+    },
+    "greater-noida::sector p4": {
+      "median": 6667.0,
+      "q25": 5909.0,
+      "q75": 6768.0,
+      "count": 5
+    },
+    "greater-noida::sector-pi": {
+      "median": 6372.0,
+      "q25": 6070.0,
+      "q75": 6571.0,
+      "count": 11
+    },
+    "greater-noida::sigma 4": {
+      "median": 5058.0,
+      "q25": 4954.0,
+      "q75": 5691.0,
+      "count": 6
+    },
+    "greater-noida::ska greenarch": {
+      "median": 7166.0,
+      "q25": 6277.0,
+      "q75": 7649.0,
+      "count": 16
+    },
+    "greater-noida::stellar jeevan": {
+      "median": 7241.0,
+      "q25": 6370.0,
+      "q75": 7368.0,
+      "count": 5
+    },
+    "greater-noida::supertech eco village 1": {
+      "median": 3860.0,
+      "q25": 3521.0,
+      "q75": 4976.0,
+      "count": 8
+    },
+    "greater-noida::surajpur": {
+      "median": 7121.0,
+      "q25": 4305.0,
+      "q75": 9702.0,
+      "count": 16
+    },
+    "greater-noida::swarnnagari": {
+      "median": 5792.0,
+      "q25": 5671.0,
+      "q75": 6110.0,
+      "count": 8
+    },
+    "greater-noida::tech zone, gautam budh nagar, yamuna expressway": {
+      "median": 7892.0,
+      "q25": 6687.0,
+      "q75": 8705.0,
+      "count": 52
+    },
+    "greater-noida::techzone 4": {
+      "median": 7509.0,
+      "q25": 7121.0,
+      "q75": 8563.0,
+      "count": 18
+    },
+    "greater-noida::twin celestial": {
+      "median": 3351.0,
+      "q25": 3333.0,
+      "q75": 3455.0,
+      "count": 26
+    },
+    "greater-noida::yamuna expressway": {
+      "median": 6080.0,
+      "q25": 4427.0,
+      "q75": 7351.0,
+      "count": 56
+    },
+    "greater-noida::zeta 1": {
+      "median": 5844.0,
+      "q25": 5000.0,
+      "q75": 6970.0,
+      "count": 65
+    },
+    "guntur::gorantla": {
+      "median": 4365.0,
+      "q25": 3846.0,
+      "q75": 5092.0,
+      "count": 14
+    },
+    "guntur::mahatma gandhi inner ring road gorantla": {
+      "median": 4370.0,
+      "q25": 3707.0,
+      "q75": 5113.0,
+      "count": 11
+    },
+    "guntur::mangalagiri": {
+      "median": 4145.0,
+      "q25": 3692.0,
+      "q75": 4487.0,
+      "count": 8
+    },
+    "guntur::narasaraopet": {
+      "median": 2842.0,
+      "q25": 2609.0,
+      "q75": 2891.0,
+      "count": 5
+    },
+    "guntur::other": {
+      "median": 4037.0,
+      "q25": 3439.0,
+      "q75": 5116.0,
+      "count": 71
+    },
+    "guntur::sweet home": {
+      "median": 4839.0,
+      "q25": 4062.0,
+      "q75": 4918.0,
+      "count": 7
+    },
+    "guntur::sweet home properties": {
+      "median": 3893.0,
+      "q25": 3699.0,
+      "q75": 4013.0,
+      "count": 5
+    },
+    "guntur::syamalla nagar": {
+      "median": 4518.0,
+      "q25": 4206.0,
+      "q75": 4755.0,
+      "count": 7
+    },
+    "guntur::tadepalli": {
+      "median": 4688.0,
+      "q25": 4211.0,
+      "q75": 5077.0,
+      "count": 5
+    },
+    "guntur::tenali": {
+      "median": 3700.0,
+      "q25": 3175.0,
+      "q75": 4306.0,
+      "count": 5
+    },
+    "guntur::vidhya nagar": {
+      "median": 5085.0,
+      "q25": 4878.0,
+      "q75": 5282.0,
+      "count": 13
+    },
+    "guntur::vidyanagar": {
+      "median": 4237.0,
+      "q25": 4237.0,
+      "q75": 6364.0,
+      "count": 5
+    },
+    "gurgaon::alameda, sector 74": {
+      "median": 15961.0,
+      "q25": 14187.0,
+      "q75": 16212.0,
+      "count": 8
+    },
+    "gurgaon::ardee city, sector 52": {
+      "median": 9037.0,
+      "q25": 7428.0,
+      "q75": 10061.0,
+      "count": 6
+    },
+    "gurgaon::badha": {
+      "median": 9697.0,
+      "q25": 9167.0,
+      "q75": 10500.0,
+      "count": 9
+    },
+    "gurgaon::badshahpur": {
+      "median": 15700.0,
+      "q25": 12529.0,
+      "q75": 16299.0,
+      "count": 14
+    },
+    "gurgaon::begumpur khatola, sector 74": {
+      "median": 14857.0,
+      "q25": 13571.0,
+      "q75": 15755.0,
+      "count": 5
+    },
+    "gurgaon::behrampur, sector 59": {
+      "median": 18102.0,
+      "q25": 16621.0,
+      "q75": 21070.0,
+      "count": 6
+    },
+    "gurgaon::bestech park view spa next, sector 67, sohna road": {
+      "median": 13478.0,
+      "q25": 12640.0,
+      "q75": 14650.0,
+      "count": 7
+    },
+    "gurgaon::cyber city, sector 25, delhi": {
+      "median": 13225.0,
+      "q25": 11649.0,
+      "q75": 14900.0,
+      "count": 8
+    },
+    "gurgaon::dhorka, sector 92, pataudi road": {
+      "median": 9557.0,
+      "q25": 5745.0,
+      "q75": 9917.0,
+      "count": 10
+    },
+    "gurgaon::dlf city phase 1": {
+      "median": 14815.0,
+      "q25": 12789.0,
+      "q75": 16250.0,
+      "count": 37
+    },
+    "gurgaon::dlf city phase 2": {
+      "median": 14815.0,
+      "q25": 12500.0,
+      "q75": 16304.0,
+      "count": 65
+    },
+    "gurgaon::dlf city phase 3": {
+      "median": 16036.0,
+      "q25": 13335.0,
+      "q75": 18228.0,
+      "count": 14
+    },
+    "gurgaon::dlf city phase 4, sector 28": {
+      "median": 14360.0,
+      "q25": 12301.0,
+      "q75": 16231.0,
+      "count": 23
+    },
+    "gurgaon::dlf city phase 5": {
+      "median": 20698.0,
+      "q25": 19003.0,
+      "q75": 24600.0,
+      "count": 31
+    },
+    "gurgaon::esencia, sector 67, sohna road": {
+      "median": 10502.0,
+      "q25": 7819.0,
+      "q75": 10811.0,
+      "count": 11
+    },
+    "gurgaon::golf course extension road": {
+      "median": 15667.0,
+      "q25": 11529.0,
+      "q75": 22341.0,
+      "count": 15
+    },
+    "gurgaon::golf course road": {
+      "median": 25000.0,
+      "q25": 22886.0,
+      "q75": 31172.0,
+      "count": 10
+    },
+    "gurgaon::green woods city, sector 45": {
+      "median": 13292.0,
+      "q25": 12284.0,
+      "q75": 13966.0,
+      "count": 7
+    },
+    "gurgaon::gwal pahari": {
+      "median": 8636.0,
+      "q25": 8621.0,
+      "q75": 8772.0,
+      "count": 5
+    },
+    "gurgaon::malibu town, sector 47": {
+      "median": 11508.0,
+      "q25": 10197.0,
+      "q75": 13472.0,
+      "count": 20
+    },
+    "gurgaon::may field gardens sector 51": {
+      "median": 11747.0,
+      "q25": 9259.0,
+      "q75": 12727.0,
+      "count": 5
+    },
+    "gurgaon::mayfield garden, sector 51": {
+      "median": 10556.0,
+      "q25": 10114.0,
+      "q75": 12311.0,
+      "count": 7
+    },
+    "gurgaon::mehrauli": {
+      "median": 15686.0,
+      "q25": 12471.0,
+      "q75": 17233.0,
+      "count": 16
+    },
+    "gurgaon::nirvana country pocket h, sector 50, sohna road": {
+      "median": 11667.0,
+      "q25": 10382.0,
+      "q75": 12742.0,
+      "count": 11
+    },
+    "gurgaon::nirvana country, sector 50": {
+      "median": 13500.0,
+      "q25": 11111.0,
+      "q75": 16776.0,
+      "count": 27
+    },
+    "gurgaon::other": {
+      "median": 9884.0,
+      "q25": 7118.0,
+      "q75": 13908.0,
+      "count": 218
+    },
+    "gurgaon::palam vihar": {
+      "median": 10595.0,
+      "q25": 9016.0,
+      "q75": 11732.0,
+      "count": 30
+    },
+    "gurgaon::sector 102": {
+      "median": 12512.0,
+      "q25": 8937.0,
+      "q75": 13604.0,
+      "count": 28
+    },
+    "gurgaon::sector 103": {
+      "median": 9864.0,
+      "q25": 9590.0,
+      "q75": 11029.0,
+      "count": 14
+    },
+    "gurgaon::sector 104": {
+      "median": 11647.0,
+      "q25": 8950.0,
+      "q75": 12880.0,
+      "count": 23
+    },
+    "gurgaon::sector 106": {
+      "median": 15227.0,
+      "q25": 7929.0,
+      "q75": 19013.0,
+      "count": 15
+    },
+    "gurgaon::sector 108": {
+      "median": 19513.0,
+      "q25": 12216.0,
+      "q75": 23052.0,
+      "count": 12
+    },
+    "gurgaon::sector 109": {
+      "median": 8894.0,
+      "q25": 7875.0,
+      "q75": 11842.0,
+      "count": 21
+    },
+    "gurgaon::sector 110": {
+      "median": 11667.0,
+      "q25": 10789.0,
+      "q75": 15652.0,
+      "count": 5
+    },
+    "gurgaon::sector 111": {
+      "median": 13333.0,
+      "q25": 13071.0,
+      "q75": 14320.0,
+      "count": 11
+    },
+    "gurgaon::sector 112": {
+      "median": 12476.0,
+      "q25": 12060.0,
+      "q75": 12929.0,
+      "count": 7
+    },
+    "gurgaon::sector 113": {
+      "median": 13636.0,
+      "q25": 12500.0,
+      "q75": 14423.0,
+      "count": 14
+    },
+    "gurgaon::sector 23": {
+      "median": 11046.0,
+      "q25": 10113.0,
+      "q75": 11478.0,
+      "count": 8
+    },
+    "gurgaon::sector 27": {
+      "median": 14055.0,
+      "q25": 12880.0,
+      "q75": 15297.0,
+      "count": 12
+    },
+    "gurgaon::sector 37c, delhi": {
+      "median": 8434.0,
+      "q25": 7602.0,
+      "q75": 9155.0,
+      "count": 11
+    },
+    "gurgaon::sector 37d, delhi": {
+      "median": 8283.0,
+      "q25": 7143.0,
+      "q75": 11500.0,
+      "count": 17
+    },
+    "gurgaon::sector 4": {
+      "median": 6154.0,
+      "q25": 5763.0,
+      "q75": 7089.0,
+      "count": 6
+    },
+    "gurgaon::sector 40": {
+      "median": 10108.0,
+      "q25": 8291.0,
+      "q75": 10781.0,
+      "count": 6
+    },
+    "gurgaon::sector 43": {
+      "median": 12285.0,
+      "q25": 10471.0,
+      "q75": 16053.0,
+      "count": 12
+    },
+    "gurgaon::sector 45": {
+      "median": 10248.0,
+      "q25": 9260.0,
+      "q75": 11755.0,
+      "count": 7
+    },
+    "gurgaon::sector 46": {
+      "median": 12416.0,
+      "q25": 10000.0,
+      "q75": 12896.0,
+      "count": 17
+    },
+    "gurgaon::sector 47": {
+      "median": 11667.0,
+      "q25": 9853.0,
+      "q75": 13149.0,
+      "count": 15
+    },
+    "gurgaon::sector 48": {
+      "median": 9040.0,
+      "q25": 7895.0,
+      "q75": 10909.0,
+      "count": 45
+    },
+    "gurgaon::sector 49": {
+      "median": 11863.0,
+      "q25": 9966.0,
+      "q75": 14167.0,
+      "count": 37
+    },
+    "gurgaon::sector 50": {
+      "median": 13049.0,
+      "q25": 11114.0,
+      "q75": 15250.0,
+      "count": 14
+    },
+    "gurgaon::sector 51": {
+      "median": 10227.0,
+      "q25": 10000.0,
+      "q75": 11579.0,
+      "count": 25
+    },
+    "gurgaon::sector 52": {
+      "median": 8750.0,
+      "q25": 7745.0,
+      "q75": 10208.0,
+      "count": 15
+    },
+    "gurgaon::sector 54": {
+      "median": 25997.0,
+      "q25": 16243.0,
+      "q75": 31996.0,
+      "count": 34
+    },
+    "gurgaon::sector 55": {
+      "median": 12321.0,
+      "q25": 11367.0,
+      "q75": 13191.0,
+      "count": 8
+    },
+    "gurgaon::sector 56": {
+      "median": 9032.0,
+      "q25": 8250.0,
+      "q75": 10370.0,
+      "count": 25
+    },
+    "gurgaon::sector 57": {
+      "median": 10827.0,
+      "q25": 9942.0,
+      "q75": 12582.0,
+      "count": 50
+    },
+    "gurgaon::sector 57 block f, golf course extension road": {
+      "median": 12293.0,
+      "q25": 11699.0,
+      "q75": 12798.0,
+      "count": 6
+    },
+    "gurgaon::sector 58": {
+      "median": 15316.0,
+      "q25": 14454.0,
+      "q75": 19425.0,
+      "count": 6
+    },
+    "gurgaon::sector 59": {
+      "median": 19906.0,
+      "q25": 18039.0,
+      "q75": 24576.0,
+      "count": 18
+    },
+    "gurgaon::sector 60": {
+      "median": 16716.0,
+      "q25": 15385.0,
+      "q75": 17682.0,
+      "count": 14
+    },
+    "gurgaon::sector 61": {
+      "median": 14831.0,
+      "q25": 12130.0,
+      "q75": 16224.0,
+      "count": 7
+    },
+    "gurgaon::sector 62": {
+      "median": 19069.0,
+      "q25": 16542.0,
+      "q75": 20702.0,
+      "count": 42
+    },
+    "gurgaon::sector 63": {
+      "median": 13650.0,
+      "q25": 11951.0,
+      "q75": 15692.0,
+      "count": 13
+    },
+    "gurgaon::sector 63a": {
+      "median": 13374.0,
+      "q25": 11607.0,
+      "q75": 14790.0,
+      "count": 8
+    },
+    "gurgaon::sector 65": {
+      "median": 17500.0,
+      "q25": 14887.0,
+      "q75": 20000.0,
+      "count": 73
+    },
+    "gurgaon::sector 66": {
+      "median": 14516.0,
+      "q25": 11796.0,
+      "q75": 17083.0,
+      "count": 19
+    },
+    "gurgaon::sector 67": {
+      "median": 12511.0,
+      "q25": 10048.0,
+      "q75": 17312.0,
+      "count": 38
+    },
+    "gurgaon::sector 67a": {
+      "median": 9489.0,
+      "q25": 8182.0,
+      "q75": 10882.0,
+      "count": 25
+    },
+    "gurgaon::sector 68": {
+      "median": 10247.0,
+      "q25": 8475.0,
+      "q75": 11685.0,
+      "count": 12
+    },
+    "gurgaon::sector 69": {
+      "median": 10489.0,
+      "q25": 8518.0,
+      "q75": 11992.0,
+      "count": 10
+    },
+    "gurgaon::sector 7": {
+      "median": 5022.0,
+      "q25": 4759.0,
+      "q75": 5048.0,
+      "count": 6
+    },
+    "gurgaon::sector 70": {
+      "median": 9781.0,
+      "q25": 9092.0,
+      "q75": 11061.0,
+      "count": 18
+    },
+    "gurgaon::sector 70a": {
+      "median": 10000.0,
+      "q25": 8603.0,
+      "q75": 10693.0,
+      "count": 9
+    },
+    "gurgaon::sector 71": {
+      "median": 7124.0,
+      "q25": 7059.0,
+      "q75": 7894.0,
+      "count": 8
+    },
+    "gurgaon::sector 72": {
+      "median": 15714.0,
+      "q25": 13414.0,
+      "q75": 17654.0,
+      "count": 7
+    },
+    "gurgaon::sector 74, delhi": {
+      "median": 14545.0,
+      "q25": 12409.0,
+      "q75": 14667.0,
+      "count": 9
+    },
+    "gurgaon::sector 76, delhi": {
+      "median": 6735.0,
+      "q25": 6735.0,
+      "q75": 6803.0,
+      "count": 5
+    },
+    "gurgaon::sector 77, delhi": {
+      "median": 7925.0,
+      "q25": 7157.0,
+      "q75": 9590.0,
+      "count": 16
+    },
+    "gurgaon::sector 79": {
+      "median": 11667.0,
+      "q25": 9478.0,
+      "q75": 12670.0,
+      "count": 32
+    },
+    "gurgaon::sector 81": {
+      "median": 11071.0,
+      "q25": 8457.0,
+      "q75": 12080.0,
+      "count": 7
+    },
+    "gurgaon::sector 81a, nh 8": {
+      "median": 10656.0,
+      "q25": 9492.0,
+      "q75": 12233.0,
+      "count": 10
+    },
+    "gurgaon::sector 82": {
+      "median": 7559.0,
+      "q25": 7411.0,
+      "q75": 8503.0,
+      "count": 11
+    },
+    "gurgaon::sector 82a": {
+      "median": 10833.0,
+      "q25": 8119.0,
+      "q75": 13694.0,
+      "count": 11
+    },
+    "gurgaon::sector 83": {
+      "median": 7722.0,
+      "q25": 6848.0,
+      "q75": 9158.0,
+      "count": 30
+    },
+    "gurgaon::sector 84": {
+      "median": 8410.0,
+      "q25": 7810.0,
+      "q75": 8929.0,
+      "count": 9
+    },
+    "gurgaon::sector 85": {
+      "median": 9643.0,
+      "q25": 8429.0,
+      "q75": 10427.0,
+      "count": 16
+    },
+    "gurgaon::sector 86": {
+      "median": 9189.0,
+      "q25": 7571.0,
+      "q75": 10540.0,
+      "count": 7
+    },
+    "gurgaon::sector 88a": {
+      "median": 9556.0,
+      "q25": 9275.0,
+      "q75": 10000.0,
+      "count": 9
+    },
+    "gurgaon::sector 89": {
+      "median": 9630.0,
+      "q25": 8283.0,
+      "q75": 10000.0,
+      "count": 5
+    },
+    "gurgaon::sector 90": {
+      "median": 8387.0,
+      "q25": 7115.0,
+      "q75": 9148.0,
+      "count": 22
+    },
+    "gurgaon::sector 92": {
+      "median": 6333.0,
+      "q25": 5651.0,
+      "q75": 8571.0,
+      "count": 7
+    },
+    "gurgaon::sector 95": {
+      "median": 6202.0,
+      "q25": 5783.0,
+      "q75": 6622.0,
+      "count": 11
+    },
+    "gurgaon::sector 99a, delhi": {
+      "median": 7200.0,
+      "q25": 6462.0,
+      "q75": 8161.0,
+      "count": 7
+    },
+    "gurgaon::sohna": {
+      "median": 11111.0,
+      "q25": 9000.0,
+      "q75": 12976.0,
+      "count": 41
+    },
+    "gurgaon::sohna sector 32": {
+      "median": 13636.0,
+      "q25": 12368.0,
+      "q75": 17041.0,
+      "count": 27
+    },
+    "gurgaon::sohna sector 33": {
+      "median": 10185.0,
+      "q25": 8480.0,
+      "q75": 10778.0,
+      "count": 6
+    },
+    "gurgaon::sohna sector 36": {
+      "median": 7586.0,
+      "q25": 6981.0,
+      "q75": 8525.0,
+      "count": 11
+    },
+    "gurgaon::sohna sector 4": {
+      "median": 4600.0,
+      "q25": 4514.0,
+      "q75": 4762.0,
+      "count": 5
+    },
+    "gurgaon::south city 1, sector 41": {
+      "median": 11890.0,
+      "q25": 10917.0,
+      "q75": 13848.0,
+      "count": 24
+    },
+    "gurgaon::south city 2, sector 49": {
+      "median": 11719.0,
+      "q25": 9987.0,
+      "q75": 14245.0,
+      "count": 40
+    },
+    "gurgaon::suncity, sector 54, dlf golf course road": {
+      "median": 26849.0,
+      "q25": 20410.0,
+      "q75": 29426.0,
+      "count": 16
+    },
+    "gurgaon::sushant lok 1 block a": {
+      "median": 14490.0,
+      "q25": 11294.0,
+      "q75": 17150.0,
+      "count": 12
+    },
+    "gurgaon::sushant lok 1 block b": {
+      "median": 14403.0,
+      "q25": 12333.0,
+      "q75": 16964.0,
+      "count": 13
+    },
+    "gurgaon::sushant lok 1 block c": {
+      "median": 13871.0,
+      "q25": 11000.0,
+      "q75": 17284.0,
+      "count": 19
+    },
+    "gurgaon::sushant lok 2": {
+      "median": 11340.0,
+      "q25": 10170.0,
+      "q75": 12075.0,
+      "count": 12
+    },
+    "gurgaon::sushant lok 3 block b, sector 57, golf course extension road": {
+      "median": 10000.0,
+      "q25": 9959.0,
+      "q75": 11333.0,
+      "count": 5
+    },
+    "gurgaon::sushant lok 3, sector 57": {
+      "median": 11463.0,
+      "q25": 10947.0,
+      "q75": 12134.0,
+      "count": 10
+    },
+    "gurgaon::sushant lok-i, sector 43": {
+      "median": 14131.0,
+      "q25": 11538.0,
+      "q75": 15172.0,
+      "count": 33
+    },
+    "gurgaon::tikri, sector 48, sohna road": {
+      "median": 11364.0,
+      "q25": 11000.0,
+      "q75": 12143.0,
+      "count": 9
+    },
+    "gurgaon::uppal southend, sector 49, sohna road": {
+      "median": 10455.0,
+      "q25": 7857.0,
+      "q75": 10556.0,
+      "count": 5
+    },
+    "guwahati::bagharbari": {
+      "median": 6377.0,
+      "q25": 5101.0,
+      "q75": 6391.0,
+      "count": 5
+    },
+    "guwahati::beltola": {
+      "median": 6000.0,
+      "q25": 5156.0,
+      "q75": 6833.0,
+      "count": 31
+    },
+    "guwahati::bhetapara": {
+      "median": 5603.0,
+      "q25": 5238.0,
+      "q75": 6585.0,
+      "count": 14
+    },
+    "guwahati::christian basti": {
+      "median": 6900.0,
+      "q25": 6087.0,
+      "q75": 6957.0,
+      "count": 5
+    },
+    "guwahati::dharapur": {
+      "median": 5843.0,
+      "q25": 5085.0,
+      "q75": 6250.0,
+      "count": 9
+    },
+    "guwahati::downtown": {
+      "median": 6229.0,
+      "q25": 5125.0,
+      "q75": 7197.0,
+      "count": 6
+    },
+    "guwahati::hatigaon": {
+      "median": 6150.0,
+      "q25": 5616.0,
+      "q75": 7209.0,
+      "count": 8
+    },
+    "guwahati::jalukbari": {
+      "median": 5323.0,
+      "q25": 5050.0,
+      "q75": 5927.0,
+      "count": 26
+    },
+    "guwahati::jayanagar": {
+      "median": 5965.0,
+      "q25": 5106.0,
+      "q75": 7092.0,
+      "count": 7
+    },
+    "guwahati::kahilipara": {
+      "median": 7097.0,
+      "q25": 5421.0,
+      "q75": 8310.0,
+      "count": 25
+    },
+    "guwahati::kala pahar": {
+      "median": 5701.0,
+      "q25": 5667.0,
+      "q75": 5738.0,
+      "count": 5
+    },
+    "guwahati::lal ganesh": {
+      "median": 5157.0,
+      "q25": 4795.0,
+      "q75": 5483.0,
+      "count": 10
+    },
+    "guwahati::lankeshwar": {
+      "median": 4375.0,
+      "q25": 4324.0,
+      "q75": 6377.0,
+      "count": 5
+    },
+    "guwahati::lokhra": {
+      "median": 6108.0,
+      "q25": 5401.0,
+      "q75": 7101.0,
+      "count": 11
+    },
+    "guwahati::maligaon": {
+      "median": 4388.0,
+      "q25": 4203.0,
+      "q75": 5236.0,
+      "count": 6
+    },
+    "guwahati::other": {
+      "median": 5757.0,
+      "q25": 5000.0,
+      "q75": 6814.0,
+      "count": 133
+    },
+    "guwahati::panjabari": {
+      "median": 5711.0,
+      "q25": 5146.0,
+      "q75": 6350.0,
+      "count": 10
+    },
+    "guwahati::rehabari": {
+      "median": 8167.0,
+      "q25": 7500.0,
+      "q75": 8333.0,
+      "count": 5
+    },
+    "guwahati::rukmini gaon": {
+      "median": 4741.0,
+      "q25": 4671.0,
+      "q75": 5127.0,
+      "count": 7
+    },
+    "guwahati::six mile": {
+      "median": 5989.0,
+      "q25": 4946.0,
+      "q75": 6518.0,
+      "count": 26
+    },
+    "guwahati::ulubari": {
+      "median": 5652.0,
+      "q25": 4900.0,
+      "q75": 7500.0,
+      "count": 11
+    },
+    "guwahati::vip road": {
+      "median": 5859.0,
+      "q25": 5333.0,
+      "q75": 6538.0,
+      "count": 13
+    },
+    "guwahati::zoo road": {
+      "median": 5477.0,
+      "q25": 5030.0,
+      "q75": 6556.0,
+      "count": 6
+    },
+    "gwalior::city centre": {
+      "median": 3868.0,
+      "q25": 3224.0,
+      "q75": 5765.0,
+      "count": 10
+    },
+    "gwalior::morar": {
+      "median": 4333.0,
+      "q25": 4143.0,
+      "q75": 4694.0,
+      "count": 5
+    },
+    "gwalior::other": {
+      "median": 4388.0,
+      "q25": 3533.0,
+      "q75": 5260.0,
+      "count": 46
+    },
+    "haridwar::jwalapur": {
+      "median": 4567.0,
+      "q25": 3756.0,
+      "q75": 4947.0,
+      "count": 10
+    },
+    "haridwar::other": {
+      "median": 3668.0,
+      "q25": 3027.0,
+      "q75": 5003.0,
+      "count": 18
+    },
+    "haridwar::rajaji national park": {
+      "median": 3065.0,
+      "q25": 2941.0,
+      "q75": 3261.0,
+      "count": 8
+    },
+    "haridwar::sidcul": {
+      "median": 3653.0,
+      "q25": 3303.0,
+      "q75": 3887.0,
+      "count": 15
+    },
+    "hyderabad::alkapur township, manikonda, outer ring road": {
+      "median": 6600.0,
+      "q25": 6312.0,
+      "q75": 6989.0,
+      "count": 7
+    },
+    "hyderabad::aparna cyberscape nalagandla": {
+      "median": 12227.0,
+      "q25": 12029.0,
+      "q75": 12516.0,
+      "count": 7
+    },
+    "hyderabad::aparna sarovar zenith nalagandla": {
+      "median": 14444.0,
+      "q25": 12245.0,
+      "q75": 15333.0,
+      "count": 9
+    },
+    "hyderabad::bachupally": {
+      "median": 5122.0,
+      "q25": 5046.0,
+      "q75": 5174.0,
+      "count": 7
+    },
+    "hyderabad::bandlaguda jagir": {
+      "median": 4601.0,
+      "q25": 4518.0,
+      "q75": 5000.0,
+      "count": 5
+    },
+    "hyderabad::banjara hills, nh 9": {
+      "median": 9030.0,
+      "q25": 8319.0,
+      "q75": 9752.0,
+      "count": 8
+    },
+    "hyderabad::beeramguda ramachandrapuram": {
+      "median": 4676.0,
+      "q25": 3964.0,
+      "q75": 5998.0,
+      "count": 16
+    },
+    "hyderabad::boduppal, nh 2 2": {
+      "median": 5456.0,
+      "q25": 4839.0,
+      "q75": 6129.0,
+      "count": 6
+    },
+    "hyderabad::chanda nagar": {
+      "median": 5190.0,
+      "q25": 4772.0,
+      "q75": 5596.0,
+      "count": 6
+    },
+    "hyderabad::gachibowli": {
+      "median": 15726.0,
+      "q25": 13393.0,
+      "q75": 16264.0,
+      "count": 23
+    },
+    "hyderabad::gajularamaram": {
+      "median": 5296.0,
+      "q25": 5188.0,
+      "q75": 5752.0,
+      "count": 6
+    },
+    "hyderabad::himayatnagar": {
+      "median": 8810.0,
+      "q25": 7940.0,
+      "q75": 10381.0,
+      "count": 6
+    },
+    "hyderabad::indis one city kukatpally, nh 9": {
+      "median": 14778.0,
+      "q25": 11945.0,
+      "q75": 14910.0,
+      "count": 7
+    },
+    "hyderabad::kakatiya hills vasanth nagar colony": {
+      "median": 11056.0,
+      "q25": 11056.0,
+      "q75": 11056.0,
+      "count": 6
+    },
+    "hyderabad::kompally": {
+      "median": 5952.0,
+      "q25": 4985.0,
+      "q75": 6729.0,
+      "count": 14
+    },
+    "hyderabad::kondapur": {
+      "median": 9580.0,
+      "q25": 8369.0,
+      "q75": 11562.0,
+      "count": 10
+    },
+    "hyderabad::kowkoor": {
+      "median": 5238.0,
+      "q25": 5213.0,
+      "q75": 5500.0,
+      "count": 5
+    },
+    "hyderabad::kukatpally, nh 9": {
+      "median": 5376.0,
+      "q25": 5183.0,
+      "q75": 8770.0,
+      "count": 9
+    },
+    "hyderabad::lansum eden gardens kondapur": {
+      "median": 12125.0,
+      "q25": 12065.0,
+      "q75": 12189.0,
+      "count": 5
+    },
+    "hyderabad::madhapur": {
+      "median": 8800.0,
+      "q25": 7429.0,
+      "q75": 10000.0,
+      "count": 9
+    },
+    "hyderabad::manikonda jagir": {
+      "median": 6969.0,
+      "q25": 6053.0,
+      "q75": 8235.0,
+      "count": 13
+    },
+    "hyderabad::my home tarkshya kokapet, outer ring road": {
+      "median": 12474.0,
+      "q25": 11753.0,
+      "q75": 13429.0,
+      "count": 13
+    },
+    "hyderabad::nagole": {
+      "median": 5893.0,
+      "q25": 4975.0,
+      "q75": 7150.0,
+      "count": 7
+    },
+    "hyderabad::nanakaramguda": {
+      "median": 10043.0,
+      "q25": 9071.0,
+      "q75": 13561.0,
+      "count": 6
+    },
+    "hyderabad::narsingi, outer ring road": {
+      "median": 7150.0,
+      "q25": 6667.0,
+      "q75": 8047.0,
+      "count": 5
+    },
+    "hyderabad::nizampet": {
+      "median": 4340.0,
+      "q25": 4157.0,
+      "q75": 4623.0,
+      "count": 9
+    },
+    "hyderabad::other": {
+      "median": 7000.0,
+      "q25": 5700.0,
+      "q75": 9556.0,
+      "count": 989
+    },
+    "hyderabad::pacifica hillcrest gachibowli": {
+      "median": 9158.0,
+      "q25": 7833.0,
+      "q75": 11589.0,
+      "count": 5
+    },
+    "hyderabad::pbel city appa junction area": {
+      "median": 9500.0,
+      "q25": 9162.0,
+      "q75": 9643.0,
+      "count": 5
+    },
+    "hyderabad::pragathi nagar, kukatpally": {
+      "median": 5082.0,
+      "q25": 4818.0,
+      "q75": 6191.0,
+      "count": 12
+    },
+    "hyderabad::smr vinay iconia bikshapathi nagar, hafeezpet": {
+      "median": 12150.0,
+      "q25": 12021.0,
+      "q75": 12952.0,
+      "count": 5
+    },
+    "hyderabad::sterling heights gundlapochampally, outer ring road": {
+      "median": 7710.0,
+      "q25": 7708.0,
+      "q75": 7711.0,
+      "count": 7
+    },
+    "hyderabad::vasu sri sunrise satyam enclave, komapally, nh 7": {
+      "median": 6250.0,
+      "q25": 6250.0,
+      "q75": 6250.0,
+      "count": 5
+    },
+    "indore::bicholi mardana": {
+      "median": 6904.0,
+      "q25": 4994.0,
+      "q75": 7778.0,
+      "count": 6
+    },
+    "indore::other": {
+      "median": 5194.0,
+      "q25": 4296.0,
+      "q75": 6870.0,
+      "count": 44
+    },
+    "indore::vijay nagar": {
+      "median": 4628.0,
+      "q25": 3456.0,
+      "q75": 6887.0,
+      "count": 6
+    },
+    "jabalpur::gwarighat": {
+      "median": 5111.0,
+      "q25": 5100.0,
+      "q75": 5786.0,
+      "count": 5
+    },
+    "jabalpur::other": {
+      "median": 4400.0,
+      "q25": 3618.0,
+      "q75": 5465.0,
+      "count": 41
+    },
+    "jabalpur::tilhari": {
+      "median": 3636.0,
+      "q25": 3182.0,
+      "q75": 4348.0,
+      "count": 5
+    },
+    "jaipur::ajmer road": {
+      "median": 3556.0,
+      "q25": 3103.0,
+      "q75": 4932.0,
+      "count": 65
+    },
+    "jaipur::bani park": {
+      "median": 6238.0,
+      "q25": 5752.0,
+      "q75": 8052.0,
+      "count": 18
+    },
+    "jaipur::bapu nagar": {
+      "median": 8615.0,
+      "q25": 7375.0,
+      "q75": 9189.0,
+      "count": 7
+    },
+    "jaipur::bhankrota": {
+      "median": 4725.0,
+      "q25": 4128.0,
+      "q75": 8612.0,
+      "count": 14
+    },
+    "jaipur::chitrakoot": {
+      "median": 4333.0,
+      "q25": 3623.0,
+      "q75": 4864.0,
+      "count": 19
+    },
+    "jaipur::chitrakut": {
+      "median": 3983.0,
+      "q25": 3793.0,
+      "q75": 4171.0,
+      "count": 6
+    },
+    "jaipur::durgapura": {
+      "median": 8781.0,
+      "q25": 6984.0,
+      "q75": 8932.0,
+      "count": 6
+    },
+    "jaipur::gandhi path": {
+      "median": 4122.0,
+      "q25": 3832.0,
+      "q75": 4932.0,
+      "count": 40
+    },
+    "jaipur::gopal pura by pass": {
+      "median": 5452.0,
+      "q25": 5323.0,
+      "q75": 5678.0,
+      "count": 7
+    },
+    "jaipur::jagatpura": {
+      "median": 4049.0,
+      "q25": 3529.0,
+      "q75": 4720.0,
+      "count": 151
+    },
+    "jaipur::jhotwara": {
+      "median": 4231.0,
+      "q25": 3521.0,
+      "q75": 4635.0,
+      "count": 20
+    },
+    "jaipur::kalwar road": {
+      "median": 3000.0,
+      "q25": 2365.0,
+      "q75": 3518.0,
+      "count": 25
+    },
+    "jaipur::lalarpura": {
+      "median": 5430.0,
+      "q25": 5052.0,
+      "q75": 5734.0,
+      "count": 7
+    },
+    "jaipur::malviya nagar": {
+      "median": 5488.0,
+      "q25": 4776.0,
+      "q75": 5717.0,
+      "count": 8
+    },
+    "jaipur::mansarovar": {
+      "median": 4600.0,
+      "q25": 4140.0,
+      "q75": 5171.0,
+      "count": 85
+    },
+    "jaipur::mansarovar extension": {
+      "median": 4523.0,
+      "q25": 4048.0,
+      "q75": 5852.0,
+      "count": 86
+    },
+    "jaipur::nirman nagar": {
+      "median": 6176.0,
+      "q25": 5556.0,
+      "q75": 7037.0,
+      "count": 17
+    },
+    "jaipur::other": {
+      "median": 4777.0,
+      "q25": 3889.0,
+      "q75": 5926.0,
+      "count": 245
+    },
+    "jaipur::patrakar colony": {
+      "median": 3866.0,
+      "q25": 3299.0,
+      "q75": 6536.0,
+      "count": 5
+    },
+    "jaipur::pratap nagar": {
+      "median": 3556.0,
+      "q25": 3125.0,
+      "q75": 4176.0,
+      "count": 9
+    },
+    "jaipur::raja park": {
+      "median": 5875.0,
+      "q25": 5074.0,
+      "q75": 6898.0,
+      "count": 19
+    },
+    "jaipur::shyam nagar": {
+      "median": 6553.0,
+      "q25": 5472.0,
+      "q75": 7774.0,
+      "count": 18
+    },
+    "jaipur::siddharth nagar": {
+      "median": 5409.0,
+      "q25": 4818.0,
+      "q75": 6002.0,
+      "count": 6
+    },
+    "jaipur::sirsi road": {
+      "median": 4207.0,
+      "q25": 3356.0,
+      "q75": 4326.0,
+      "count": 15
+    },
+    "jaipur::sodala": {
+      "median": 5412.0,
+      "q25": 4816.0,
+      "q75": 6147.0,
+      "count": 7
+    },
+    "jaipur::swej farm": {
+      "median": 7725.0,
+      "q25": 6786.0,
+      "q75": 7830.0,
+      "count": 5
+    },
+    "jaipur::tonk road": {
+      "median": 5061.0,
+      "q25": 3297.0,
+      "q75": 7853.0,
+      "count": 14
+    },
+    "jaipur::vaishali nagar": {
+      "median": 4817.0,
+      "q25": 4001.0,
+      "q75": 6073.0,
+      "count": 214
+    },
+    "jamshedpur::adarsh nagar": {
+      "median": 3208.0,
+      "q25": 3147.0,
+      "q75": 3737.0,
+      "count": 8
+    },
+    "jamshedpur::adityapur": {
+      "median": 4400.0,
+      "q25": 3925.0,
+      "q75": 5000.0,
+      "count": 21
+    },
+    "jamshedpur::baridih": {
+      "median": 6398.0,
+      "q25": 4023.0,
+      "q75": 7160.0,
+      "count": 10
+    },
+    "jamshedpur::bistupur": {
+      "median": 7440.0,
+      "q25": 6602.0,
+      "q75": 8530.0,
+      "count": 7
+    },
+    "jamshedpur::chepapul": {
+      "median": 5259.0,
+      "q25": 4945.0,
+      "q75": 6296.0,
+      "count": 5
+    },
+    "jamshedpur::dimna": {
+      "median": 5312.0,
+      "q25": 4083.0,
+      "q75": 5474.0,
+      "count": 5
+    },
+    "jamshedpur::dimna road": {
+      "median": 3939.0,
+      "q25": 3611.0,
+      "q75": 4644.0,
+      "count": 11
+    },
+    "jamshedpur::ghorabandha": {
+      "median": 3963.0,
+      "q25": 3653.0,
+      "q75": 4228.0,
+      "count": 6
+    },
+    "jamshedpur::kadma": {
+      "median": 4500.0,
+      "q25": 3745.0,
+      "q75": 5556.0,
+      "count": 35
+    },
+    "jamshedpur::mango": {
+      "median": 3492.0,
+      "q25": 3002.0,
+      "q75": 4091.0,
+      "count": 30
+    },
+    "jamshedpur::other": {
+      "median": 4167.0,
+      "q25": 3478.0,
+      "q75": 5053.0,
+      "count": 63
+    },
+    "jamshedpur::paradih": {
+      "median": 3271.0,
+      "q25": 3031.0,
+      "q75": 3524.0,
+      "count": 6
+    },
+    "jamshedpur::parsudih": {
+      "median": 2781.0,
+      "q25": 2621.0,
+      "q75": 3097.0,
+      "count": 11
+    },
+    "jamshedpur::sonari": {
+      "median": 3926.0,
+      "q25": 2932.0,
+      "q75": 5323.0,
+      "count": 15
+    },
+    "jamshedpur::sonari town": {
+      "median": 4706.0,
+      "q25": 4223.0,
+      "q75": 5304.0,
+      "count": 24
+    },
+    "jamshedpur::telco colony": {
+      "median": 3600.0,
+      "q25": 3204.0,
+      "q75": 4179.0,
+      "count": 7
+    },
+    "jodhpur::other": {
+      "median": 4465.0,
+      "q25": 3811.0,
+      "q75": 5662.0,
+      "count": 10
+    },
+    "jodhpur::pal road": {
+      "median": 4292.0,
+      "q25": 3580.0,
+      "q75": 5112.0,
+      "count": 6
+    },
+    "kalyan::adharwadi": {
+      "median": 9167.0,
+      "q25": 8143.0,
+      "q75": 10128.0,
+      "count": 47
+    },
+    "kalyan::chikan ghar": {
+      "median": 9479.0,
+      "q25": 7706.0,
+      "q75": 10817.0,
+      "count": 12
+    },
+    "kalyan::chinchpada gaon": {
+      "median": 5196.0,
+      "q25": 4411.0,
+      "q75": 7854.0,
+      "count": 8
+    },
+    "kalyan::dombivli": {
+      "median": 7778.0,
+      "q25": 6364.0,
+      "q75": 9474.0,
+      "count": 49
+    },
+    "kalyan::gauripada": {
+      "median": 10000.0,
+      "q25": 9286.0,
+      "q75": 11224.0,
+      "count": 9
+    },
+    "kalyan::godrej hill": {
+      "median": 10256.0,
+      "q25": 9341.0,
+      "q75": 10737.0,
+      "count": 9
+    },
+    "kalyan::khadakpada": {
+      "median": 9595.0,
+      "q25": 8793.0,
+      "q75": 11468.0,
+      "count": 40
+    },
+    "kalyan::lokgram": {
+      "median": 10069.0,
+      "q25": 10000.0,
+      "q75": 11775.0,
+      "count": 8
+    },
+    "kalyan::other": {
+      "median": 7619.0,
+      "q25": 5556.0,
+      "q75": 9474.0,
+      "count": 217
+    },
+    "kalyan::patri pool": {
+      "median": 9958.0,
+      "q25": 9287.0,
+      "q75": 10447.0,
+      "count": 6
+    },
+    "kalyan::tilak chowk": {
+      "median": 10000.0,
+      "q25": 6852.0,
+      "q75": 11692.0,
+      "count": 5
+    },
+    "kalyan::vijay nagar": {
+      "median": 8249.0,
+      "q25": 7220.0,
+      "q75": 9278.0,
+      "count": 5
+    },
+    "kalyan::yogidham": {
+      "median": 9783.0,
+      "q25": 8974.0,
+      "q75": 10417.0,
+      "count": 9
+    },
+    "kanpur::arya nagar": {
+      "median": 8000.0,
+      "q25": 4642.0,
+      "q75": 8941.0,
+      "count": 7
+    },
+    "kanpur::azad nagar": {
+      "median": 5536.0,
+      "q25": 4574.0,
+      "q75": 6129.0,
+      "count": 26
+    },
+    "kanpur::civil lines": {
+      "median": 7690.0,
+      "q25": 7212.0,
+      "q75": 9647.0,
+      "count": 12
+    },
+    "kanpur::gumti - 5": {
+      "median": 4630.0,
+      "q25": 4377.0,
+      "q75": 6875.0,
+      "count": 5
+    },
+    "kanpur::indranagar": {
+      "median": 5309.0,
+      "q25": 5114.0,
+      "q75": 6918.0,
+      "count": 12
+    },
+    "kanpur::jajmau": {
+      "median": 4188.0,
+      "q25": 3281.0,
+      "q75": 5625.0,
+      "count": 5
+    },
+    "kanpur::kakadev": {
+      "median": 5049.0,
+      "q25": 4486.0,
+      "q75": 5913.0,
+      "count": 32
+    },
+    "kanpur::kalyan pur": {
+      "median": 4351.0,
+      "q25": 4098.0,
+      "q75": 4919.0,
+      "count": 22
+    },
+    "kanpur::keshav puram": {
+      "median": 5852.0,
+      "q25": 4972.0,
+      "q75": 6162.0,
+      "count": 11
+    },
+    "kanpur::kidwainagar": {
+      "median": 5417.0,
+      "q25": 5095.0,
+      "q75": 5566.0,
+      "count": 11
+    },
+    "kanpur::lal bangla": {
+      "median": 3793.0,
+      "q25": 3732.0,
+      "q75": 4333.0,
+      "count": 5
+    },
+    "kanpur::mainawati marg": {
+      "median": 4696.0,
+      "q25": 4071.0,
+      "q75": 4914.0,
+      "count": 8
+    },
+    "kanpur::naveen nagar": {
+      "median": 4485.0,
+      "q25": 4107.0,
+      "q75": 5112.0,
+      "count": 8
+    },
+    "kanpur::other": {
+      "median": 4902.0,
+      "q25": 4239.0,
+      "q75": 6111.0,
+      "count": 139
+    },
+    "kanpur::pandunagar": {
+      "median": 6276.0,
+      "q25": 6190.0,
+      "q75": 6667.0,
+      "count": 13
+    },
+    "kanpur::panki": {
+      "median": 4688.0,
+      "q25": 4182.0,
+      "q75": 5469.0,
+      "count": 6
+    },
+    "kanpur::ratanlal nagar": {
+      "median": 4433.0,
+      "q25": 3823.0,
+      "q75": 4731.0,
+      "count": 8
+    },
+    "kanpur::saket nagar": {
+      "median": 4194.0,
+      "q25": 3852.0,
+      "q75": 5200.0,
+      "count": 9
+    },
+    "kanpur::sarvodayanagar": {
+      "median": 8009.0,
+      "q25": 7450.0,
+      "q75": 8498.0,
+      "count": 6
+    },
+    "kanpur::sharda nagar": {
+      "median": 5326.0,
+      "q25": 4791.0,
+      "q75": 5631.0,
+      "count": 14
+    },
+    "kanpur::shastrinagar": {
+      "median": 9091.0,
+      "q25": 6507.0,
+      "q75": 10000.0,
+      "count": 5
+    },
+    "kanpur::shyam nagar": {
+      "median": 4314.0,
+      "q25": 3929.0,
+      "q75": 4683.0,
+      "count": 13
+    },
+    "kanpur::singhpur": {
+      "median": 4636.0,
+      "q25": 4308.0,
+      "q75": 5429.0,
+      "count": 7
+    },
+    "kanpur::swaroop nagar": {
+      "median": 7348.0,
+      "q25": 6359.0,
+      "q75": 7773.0,
+      "count": 6
+    },
+    "kanpur::swarupnagar": {
+      "median": 7500.0,
+      "q25": 6643.0,
+      "q75": 9091.0,
+      "count": 19
+    },
+    "kanpur::tilaknagar": {
+      "median": 8273.0,
+      "q25": 7267.0,
+      "q75": 8862.0,
+      "count": 23
+    },
+    "kanpur::vikash nagar": {
+      "median": 6193.0,
+      "q25": 5820.0,
+      "q75": 6356.0,
+      "count": 10
+    },
+    "kanpur::vishnupuri": {
+      "median": 6873.0,
+      "q25": 5915.0,
+      "q75": 8202.0,
+      "count": 10
+    },
+    "kochi::aluva": {
+      "median": 4858.0,
+      "q25": 4383.0,
+      "q75": 5442.0,
+      "count": 6
+    },
+    "kochi::chittethukara": {
+      "median": 5291.0,
+      "q25": 5023.0,
+      "q75": 5621.0,
+      "count": 6
+    },
+    "kochi::edachira": {
+      "median": 5652.0,
+      "q25": 4106.0,
+      "q75": 5721.0,
+      "count": 9
+    },
+    "kochi::edappally": {
+      "median": 7498.0,
+      "q25": 5271.0,
+      "q75": 8100.0,
+      "count": 25
+    },
+    "kochi::kadavanthra": {
+      "median": 7692.0,
+      "q25": 6326.0,
+      "q75": 9483.0,
+      "count": 37
+    },
+    "kochi::kakkanad": {
+      "median": 5449.0,
+      "q25": 4640.0,
+      "q75": 6633.0,
+      "count": 142
+    },
+    "kochi::kaloor": {
+      "median": 7692.0,
+      "q25": 5352.0,
+      "q75": 9625.0,
+      "count": 17
+    },
+    "kochi::maradu": {
+      "median": 7594.0,
+      "q25": 6638.0,
+      "q75": 8522.0,
+      "count": 8
+    },
+    "kochi::marine drive": {
+      "median": 11399.0,
+      "q25": 10000.0,
+      "q75": 12900.0,
+      "count": 55
+    },
+    "kochi::other": {
+      "median": 5312.0,
+      "q25": 4379.0,
+      "q75": 6925.0,
+      "count": 75
+    },
+    "kochi::palarivattom": {
+      "median": 6941.0,
+      "q25": 6139.0,
+      "q75": 9000.0,
+      "count": 25
+    },
+    "kochi::panampily nagar": {
+      "median": 7931.0,
+      "q25": 7382.0,
+      "q75": 10288.0,
+      "count": 11
+    },
+    "kochi::thevara": {
+      "median": 7219.0,
+      "q25": 5810.0,
+      "q75": 8559.0,
+      "count": 7
+    },
+    "kochi::thrikkakara": {
+      "median": 4706.0,
+      "q25": 4234.0,
+      "q75": 5769.0,
+      "count": 21
+    },
+    "kochi::thrippunithura": {
+      "median": 4897.0,
+      "q25": 4436.0,
+      "q75": 5478.0,
+      "count": 10
+    },
+    "kochi::vazhakkala": {
+      "median": 7000.0,
+      "q25": 5988.0,
+      "q75": 9000.0,
+      "count": 29
+    },
+    "kochi::vennala": {
+      "median": 5724.0,
+      "q25": 5397.0,
+      "q75": 6414.0,
+      "count": 7
+    },
+    "kochi::vyttila": {
+      "median": 7467.0,
+      "q25": 5308.0,
+      "q75": 8333.0,
+      "count": 25
+    },
+    "kolkata::action area i": {
+      "median": 7647.0,
+      "q25": 6758.0,
+      "q75": 11525.0,
+      "count": 27
+    },
+    "kolkata::action area ii": {
+      "median": 8851.0,
+      "q25": 7868.0,
+      "q75": 9616.0,
+      "count": 16
+    },
+    "kolkata::action area iii": {
+      "median": 7294.0,
+      "q25": 6649.0,
+      "q75": 8157.0,
+      "count": 30
+    },
+    "kolkata::alipore": {
+      "median": 16667.0,
+      "q25": 15416.0,
+      "q75": 20000.0,
+      "count": 11
+    },
+    "kolkata::bablatala, gopalpur gram": {
+      "median": 4429.0,
+      "q25": 4110.0,
+      "q75": 7785.0,
+      "count": 5
+    },
+    "kolkata::baghajatin colony": {
+      "median": 5027.0,
+      "q25": 3342.0,
+      "q75": 6222.0,
+      "count": 6
+    },
+    "kolkata::baguiati": {
+      "median": 3621.0,
+      "q25": 3069.0,
+      "q75": 4389.0,
+      "count": 21
+    },
+    "kolkata::ballygunge": {
+      "median": 13316.0,
+      "q25": 11041.0,
+      "q75": 18834.0,
+      "count": 14
+    },
+    "kolkata::bangur avenue, lake town": {
+      "median": 5387.0,
+      "q25": 4706.0,
+      "q75": 6504.0,
+      "count": 9
+    },
+    "kolkata::bansdroni": {
+      "median": 4800.0,
+      "q25": 4121.0,
+      "q75": 5986.0,
+      "count": 23
+    },
+    "kolkata::baranagar": {
+      "median": 3846.0,
+      "q25": 3606.0,
+      "q75": 4630.0,
+      "count": 7
+    },
+    "kolkata::barasat": {
+      "median": 3125.0,
+      "q25": 2869.0,
+      "q75": 3145.0,
+      "count": 6
+    },
+    "kolkata::barrackpore trunk road": {
+      "median": 7296.0,
+      "q25": 6155.0,
+      "q75": 8378.0,
+      "count": 11
+    },
+    "kolkata::behala": {
+      "median": 5543.0,
+      "q25": 3846.0,
+      "q75": 6184.0,
+      "count": 11
+    },
+    "kolkata::behala chowrasta": {
+      "median": 4667.0,
+      "q25": 3677.0,
+      "q75": 5208.0,
+      "count": 11
+    },
+    "kolkata::beleghata": {
+      "median": 8269.0,
+      "q25": 4672.0,
+      "q75": 12722.0,
+      "count": 10
+    },
+    "kolkata::bhowanipore": {
+      "median": 12000.0,
+      "q25": 11724.0,
+      "q75": 13000.0,
+      "count": 5
+    },
+    "kolkata::chinar park, rajarhat": {
+      "median": 5263.0,
+      "q25": 4941.0,
+      "q75": 7699.0,
+      "count": 17
+    },
+    "kolkata::dum dum": {
+      "median": 5758.0,
+      "q25": 3593.0,
+      "q75": 7500.0,
+      "count": 13
+    },
+    "kolkata::durga nagar": {
+      "median": 4267.0,
+      "q25": 3285.0,
+      "q75": 4875.0,
+      "count": 7
+    },
+    "kolkata::eastern metropolitan bypass": {
+      "median": 10167.0,
+      "q25": 7864.0,
+      "q75": 20946.0,
+      "count": 25
+    },
+    "kolkata::garia": {
+      "median": 5198.0,
+      "q25": 4472.0,
+      "q75": 6705.0,
+      "count": 26
+    },
+    "kolkata::howrah": {
+      "median": 3450.0,
+      "q25": 3155.0,
+      "q75": 5473.0,
+      "count": 7
+    },
+    "kolkata::joka": {
+      "median": 7031.0,
+      "q25": 5955.0,
+      "q75": 8220.0,
+      "count": 22
+    },
+    "kolkata::kalikapur haltu": {
+      "median": 5556.0,
+      "q25": 5321.0,
+      "q75": 6797.0,
+      "count": 7
+    },
+    "kolkata::kasba": {
+      "median": 4784.0,
+      "q25": 4071.0,
+      "q75": 5605.0,
+      "count": 10
+    },
+    "kolkata::kestopur": {
+      "median": 4568.0,
+      "q25": 4118.0,
+      "q75": 5093.0,
+      "count": 13
+    },
+    "kolkata::lake gardens": {
+      "median": 8588.0,
+      "q25": 5294.0,
+      "q75": 9923.0,
+      "count": 5
+    },
+    "kolkata::lake town": {
+      "median": 6065.0,
+      "q25": 5730.0,
+      "q75": 8177.0,
+      "count": 8
+    },
+    "kolkata::madhyamgram": {
+      "median": 4559.0,
+      "q25": 3954.0,
+      "q75": 5077.0,
+      "count": 11
+    },
+    "kolkata::madurdaha, hussainpur": {
+      "median": 6294.0,
+      "q25": 5560.0,
+      "q75": 6791.0,
+      "count": 6
+    },
+    "kolkata::maheshtala": {
+      "median": 3846.0,
+      "q25": 3655.0,
+      "q75": 4931.0,
+      "count": 19
+    },
+    "kolkata::mukundapur": {
+      "median": 14843.0,
+      "q25": 12943.0,
+      "q75": 16531.0,
+      "count": 6
+    },
+    "kolkata::nagerbazar": {
+      "median": 6416.0,
+      "q25": 5301.0,
+      "q75": 7778.0,
+      "count": 6
+    },
+    "kolkata::naktala, garia": {
+      "median": 5294.0,
+      "q25": 5016.0,
+      "q75": 5916.0,
+      "count": 7
+    },
+    "kolkata::narendrapur rajpur sonarpur": {
+      "median": 5576.0,
+      "q25": 4700.0,
+      "q75": 6880.0,
+      "count": 11
+    },
+    "kolkata::narkeldanga": {
+      "median": 12563.0,
+      "q25": 11681.0,
+      "q75": 14141.0,
+      "count": 5
+    },
+    "kolkata::nayabad": {
+      "median": 5638.0,
+      "q25": 5250.0,
+      "q75": 6000.0,
+      "count": 5
+    },
+    "kolkata::netaji nagar": {
+      "median": 5556.0,
+      "q25": 4652.0,
+      "q75": 5714.0,
+      "count": 7
+    },
+    "kolkata::netaji subhash chandra bose road": {
+      "median": 7731.0,
+      "q25": 7604.0,
+      "q75": 8008.0,
+      "count": 6
+    },
+    "kolkata::new alipore": {
+      "median": 9385.0,
+      "q25": 7732.0,
+      "q75": 12404.0,
+      "count": 12
+    },
+    "kolkata::new town": {
+      "median": 8621.0,
+      "q25": 6783.0,
+      "q75": 13174.0,
+      "count": 77
+    },
+    "kolkata::other": {
+      "median": 5455.0,
+      "q25": 4083.0,
+      "q75": 7797.0,
+      "count": 477
+    },
+    "kolkata::park circus, ballygunge": {
+      "median": 8667.0,
+      "q25": 8065.0,
+      "q75": 10588.0,
+      "count": 5
+    },
+    "kolkata::phool bagan kankurgachi": {
+      "median": 15174.0,
+      "q25": 14545.0,
+      "q75": 15296.0,
+      "count": 9
+    },
+    "kolkata::picnic garden, tiljala": {
+      "median": 5524.0,
+      "q25": 4583.0,
+      "q75": 5714.0,
+      "count": 6
+    },
+    "kolkata::prince anwar shah road": {
+      "median": 10022.0,
+      "q25": 6864.0,
+      "q75": 15400.0,
+      "count": 12
+    },
+    "kolkata::purbalok, mukundapur": {
+      "median": 6786.0,
+      "q25": 6497.0,
+      "q75": 8226.0,
+      "count": 5
+    },
+    "kolkata::rajarhat": {
+      "median": 6642.0,
+      "q25": 5000.0,
+      "q75": 8479.0,
+      "count": 65
+    },
+    "kolkata::rajarhat main road": {
+      "median": 5028.0,
+      "q25": 3868.0,
+      "q75": 5914.0,
+      "count": 15
+    },
+    "kolkata::rajpur sonarpur": {
+      "median": 6179.0,
+      "q25": 4359.0,
+      "q75": 6798.0,
+      "count": 7
+    },
+    "kolkata::salt lake city": {
+      "median": 7600.0,
+      "q25": 7259.0,
+      "q75": 9000.0,
+      "count": 5
+    },
+    "kolkata::santoshpur": {
+      "median": 4612.0,
+      "q25": 4305.0,
+      "q75": 6514.0,
+      "count": 10
+    },
+    "kolkata::sarat bose road": {
+      "median": 13928.0,
+      "q25": 10828.0,
+      "q75": 15438.0,
+      "count": 6
+    },
+    "kolkata::sector v salt lake city": {
+      "median": 12040.0,
+      "q25": 11686.0,
+      "q75": 14091.0,
+      "count": 5
+    },
+    "kolkata::sodepur": {
+      "median": 3231.0,
+      "q25": 2582.0,
+      "q75": 5051.0,
+      "count": 13
+    },
+    "kolkata::tangra": {
+      "median": 16800.0,
+      "q25": 9375.0,
+      "q75": 18634.0,
+      "count": 9
+    },
+    "kolkata::tollygunge": {
+      "median": 9131.0,
+      "q25": 7341.0,
+      "q75": 13316.0,
+      "count": 39
+    },
+    "kolkata::uttarpara chinsurah": {
+      "median": 3425.0,
+      "q25": 3027.0,
+      "q75": 3962.0,
+      "count": 10
+    },
+    "kolkata::vip road": {
+      "median": 7058.0,
+      "q25": 6040.0,
+      "q75": 8659.0,
+      "count": 8
+    },
+    "kozhikode::other": {
+      "median": 6058.0,
+      "q25": 5229.0,
+      "q75": 8722.0,
+      "count": 24
+    },
+    "kozhikode::thondayad": {
+      "median": 6899.0,
+      "q25": 6329.0,
+      "q75": 8019.0,
+      "count": 10
+    },
+    "lucknow::aliganj": {
+      "median": 5473.0,
+      "q25": 5032.0,
+      "q75": 6352.0,
+      "count": 6
+    },
+    "lucknow::amar shaheed path": {
+      "median": 7578.0,
+      "q25": 6593.0,
+      "q75": 9000.0,
+      "count": 17
+    },
+    "lucknow::awadh vihar yojna": {
+      "median": 6286.0,
+      "q25": 5812.0,
+      "q75": 6726.0,
+      "count": 7
+    },
+    "lucknow::chinhat": {
+      "median": 5109.0,
+      "q25": 4500.0,
+      "q75": 5414.0,
+      "count": 5
+    },
+    "lucknow::faizabad road": {
+      "median": 4600.0,
+      "q25": 4000.0,
+      "q75": 5705.0,
+      "count": 17
+    },
+    "lucknow::gomti nagar": {
+      "median": 8214.0,
+      "q25": 6344.0,
+      "q75": 10477.0,
+      "count": 31
+    },
+    "lucknow::gomti nagar extension bypass road": {
+      "median": 7941.0,
+      "q25": 6286.0,
+      "q75": 9481.0,
+      "count": 50
+    },
+    "lucknow::gomtinagar extention": {
+      "median": 6940.0,
+      "q25": 6524.0,
+      "q75": 11522.0,
+      "count": 7
+    },
+    "lucknow::jankipuram": {
+      "median": 5857.0,
+      "q25": 4621.0,
+      "q75": 7059.0,
+      "count": 9
+    },
+    "lucknow::new hyderabad": {
+      "median": 6000.0,
+      "q25": 5084.0,
+      "q75": 7803.0,
+      "count": 7
+    },
+    "lucknow::other": {
+      "median": 5852.0,
+      "q25": 5000.0,
+      "q75": 6858.0,
+      "count": 122
+    },
+    "lucknow::raibareli road": {
+      "median": 6933.0,
+      "q25": 4800.0,
+      "q75": 7094.0,
+      "count": 9
+    },
+    "lucknow::sitapur road": {
+      "median": 5958.0,
+      "q25": 5445.0,
+      "q75": 7162.0,
+      "count": 8
+    },
+    "lucknow::sultanpur road": {
+      "median": 6647.0,
+      "q25": 6088.0,
+      "q75": 7539.0,
+      "count": 10
+    },
+    "lucknow::sushant golf city": {
+      "median": 6922.0,
+      "q25": 5506.0,
+      "q75": 7838.0,
+      "count": 50
+    },
+    "lucknow::vibhuti khand": {
+      "median": 8292.0,
+      "q25": 7000.0,
+      "q75": 9649.0,
+      "count": 9
+    },
+    "lucknow::vrindavan yojana": {
+      "median": 7221.0,
+      "q25": 5860.0,
+      "q75": 7806.0,
+      "count": 52
+    },
+    "ludhiana::other": {
+      "median": 4099.0,
+      "q25": 3333.0,
+      "q75": 6338.0,
+      "count": 24
+    },
+    "ludhiana::pakhowal road": {
+      "median": 7593.0,
+      "q25": 6774.0,
+      "q75": 8046.0,
+      "count": 17
+    },
+    "madurai::other": {
+      "median": 5580.0,
+      "q25": 4870.0,
+      "q75": 7222.0,
+      "count": 13
+    },
+    "mangalore::bejai": {
+      "median": 6457.0,
+      "q25": 5846.0,
+      "q75": 6673.0,
+      "count": 17
+    },
+    "mangalore::bondel": {
+      "median": 4286.0,
+      "q25": 3625.0,
+      "q75": 5442.0,
+      "count": 5
+    },
+    "mangalore::derebail": {
+      "median": 5536.0,
+      "q25": 4785.0,
+      "q75": 7143.0,
+      "count": 11
+    },
+    "mangalore::kadri": {
+      "median": 6058.0,
+      "q25": 5313.0,
+      "q75": 7313.0,
+      "count": 19
+    },
+    "mangalore::kottara chowk": {
+      "median": 8155.0,
+      "q25": 5608.0,
+      "q75": 8196.0,
+      "count": 6
+    },
+    "mangalore::kulai": {
+      "median": 5988.0,
+      "q25": 5000.0,
+      "q75": 6141.0,
+      "count": 8
+    },
+    "mangalore::kulshekar": {
+      "median": 3709.0,
+      "q25": 3439.0,
+      "q75": 4621.0,
+      "count": 15
+    },
+    "mangalore::other": {
+      "median": 4754.0,
+      "q25": 3910.0,
+      "q75": 5944.0,
+      "count": 92
+    },
+    "mangalore::shakti nagar": {
+      "median": 3764.0,
+      "q25": 3488.0,
+      "q75": 4717.0,
+      "count": 6
+    },
+    "mangalore::surathkal": {
+      "median": 4353.0,
+      "q25": 3593.0,
+      "q75": 4522.0,
+      "count": 5
+    },
+    "mangalore::urwa": {
+      "median": 5295.0,
+      "q25": 4510.0,
+      "q75": 7332.0,
+      "count": 10
+    },
+    "mohali::aerocity": {
+      "median": 9103.0,
+      "q25": 7107.0,
+      "q75": 11806.0,
+      "count": 57
+    },
+    "mohali::airport road": {
+      "median": 6410.0,
+      "q25": 4562.0,
+      "q75": 9694.0,
+      "count": 13
+    },
+    "mohali::kharar": {
+      "median": 3947.0,
+      "q25": 3190.0,
+      "q75": 4855.0,
+      "count": 102
+    },
+    "mohali::kharar kurali road": {
+      "median": 5846.0,
+      "q25": 4973.0,
+      "q75": 7154.0,
+      "count": 18
+    },
+    "mohali::kharar landran road": {
+      "median": 4345.0,
+      "q25": 3808.0,
+      "q75": 4959.0,
+      "count": 26
+    },
+    "mohali::kharar road": {
+      "median": 5320.0,
+      "q25": 4770.0,
+      "q75": 5548.0,
+      "count": 8
+    },
+    "mohali::other": {
+      "median": 5356.0,
+      "q25": 4347.0,
+      "q75": 7929.0,
+      "count": 54
+    },
+    "mohali::sas nagar": {
+      "median": 5375.0,
+      "q25": 4167.0,
+      "q75": 6875.0,
+      "count": 5
+    },
+    "mohali::sector 105 emaar mgf": {
+      "median": 7600.0,
+      "q25": 7440.0,
+      "q75": 8070.0,
+      "count": 17
+    },
+    "mohali::sector 110": {
+      "median": 4677.0,
+      "q25": 3881.0,
+      "q75": 5577.0,
+      "count": 28
+    },
+    "mohali::sector 115": {
+      "median": 4528.0,
+      "q25": 3580.0,
+      "q75": 5814.0,
+      "count": 35
+    },
+    "mohali::sector 116": {
+      "median": 5295.0,
+      "q25": 4992.0,
+      "q75": 5884.0,
+      "count": 21
+    },
+    "mohali::sector 117": {
+      "median": 4887.0,
+      "q25": 4601.0,
+      "q75": 5934.0,
+      "count": 51
+    },
+    "mohali::sector 118": {
+      "median": 5179.0,
+      "q25": 4858.0,
+      "q75": 5360.0,
+      "count": 15
+    },
+    "mohali::sector 121": {
+      "median": 8644.0,
+      "q25": 8328.0,
+      "q75": 9299.0,
+      "count": 39
+    },
+    "mohali::sector 123 sihanpur": {
+      "median": 4937.0,
+      "q25": 4144.0,
+      "q75": 5330.0,
+      "count": 30
+    },
+    "mohali::sector 124 sunny enclave": {
+      "median": 4595.0,
+      "q25": 4437.0,
+      "q75": 5173.0,
+      "count": 5
+    },
+    "mohali::sector 125 sunny enclave": {
+      "median": 3214.0,
+      "q25": 2818.0,
+      "q75": 3797.0,
+      "count": 13
+    },
+    "mohali::sector 126": {
+      "median": 7487.0,
+      "q25": 5399.0,
+      "q75": 9187.0,
+      "count": 58
+    },
+    "mohali::sector 127": {
+      "median": 4001.0,
+      "q25": 3589.0,
+      "q75": 5603.0,
+      "count": 56
+    },
+    "mohali::sector 65": {
+      "median": 14190.0,
+      "q25": 12880.0,
+      "q75": 14858.0,
+      "count": 17
+    },
+    "mohali::sector 66": {
+      "median": 10839.0,
+      "q25": 8364.0,
+      "q75": 12500.0,
+      "count": 49
+    },
+    "mohali::sector 70": {
+      "median": 7201.0,
+      "q25": 6763.0,
+      "q75": 9417.0,
+      "count": 14
+    },
+    "mohali::sector 74": {
+      "median": 7080.0,
+      "q25": 6259.0,
+      "q75": 8443.0,
+      "count": 12
+    },
+    "mohali::sector 82 jlpl industry area": {
+      "median": 7236.0,
+      "q25": 7070.0,
+      "q75": 7741.0,
+      "count": 10
+    },
+    "mohali::sector 85": {
+      "median": 7765.0,
+      "q25": 6787.0,
+      "q75": 8631.0,
+      "count": 28
+    },
+    "mohali::sector 88": {
+      "median": 9719.0,
+      "q25": 6685.0,
+      "q75": 10659.0,
+      "count": 29
+    },
+    "mohali::sector 91": {
+      "median": 6075.0,
+      "q25": 5833.0,
+      "q75": 7059.0,
+      "count": 13
+    },
+    "mohali::sector 92": {
+      "median": 6280.0,
+      "q25": 5148.0,
+      "q75": 6297.0,
+      "count": 5
+    },
+    "mohali::sector 99": {
+      "median": 6400.0,
+      "q25": 5801.0,
+      "q75": 7165.0,
+      "count": 19
+    },
+    "mohali::sunny enclave": {
+      "median": 4157.0,
+      "q25": 3605.0,
+      "q75": 4542.0,
+      "count": 57
+    },
+    "mumbai::andheri east": {
+      "median": 30566.0,
+      "q25": 28674.0,
+      "q75": 32524.0,
+      "count": 20
+    },
+    "mumbai::andheri west": {
+      "median": 40687.0,
+      "q25": 30033.0,
+      "q75": 44168.0,
+      "count": 28
+    },
+    "mumbai::bandra west": {
+      "median": 54312.0,
+      "q25": 50708.0,
+      "q75": 56136.0,
+      "count": 6
+    },
+    "mumbai::bhakti park": {
+      "median": 30811.0,
+      "q25": 29412.0,
+      "q75": 31351.0,
+      "count": 5
+    },
+    "mumbai::bhandup west": {
+      "median": 23667.0,
+      "q25": 22463.0,
+      "q75": 24861.0,
+      "count": 6
+    },
+    "mumbai::borivali east": {
+      "median": 25510.0,
+      "q25": 23531.0,
+      "q75": 28566.0,
+      "count": 7
+    },
+    "mumbai::borivali west": {
+      "median": 28674.0,
+      "q25": 25955.0,
+      "q75": 32045.0,
+      "count": 11
+    },
+    "mumbai::byculla": {
+      "median": 47166.0,
+      "q25": 47125.0,
+      "q75": 47196.0,
+      "count": 5
+    },
+    "mumbai::central area": {
+      "median": 22526.0,
+      "q25": 21753.0,
+      "q75": 26448.0,
+      "count": 7
+    },
+    "mumbai::chandivali": {
+      "median": 31724.0,
+      "q25": 27628.0,
+      "q75": 33784.0,
+      "count": 9
+    },
+    "mumbai::chembur": {
+      "median": 28841.0,
+      "q25": 25678.0,
+      "q75": 34845.0,
+      "count": 27
+    },
+    "mumbai::dahisar east": {
+      "median": 17471.0,
+      "q25": 16000.0,
+      "q75": 18036.0,
+      "count": 5
+    },
+    "mumbai::ghatkopar east": {
+      "median": 24605.0,
+      "q25": 23482.0,
+      "q75": 29051.0,
+      "count": 8
+    },
+    "mumbai::ghatkopar west": {
+      "median": 27916.0,
+      "q25": 26224.0,
+      "q75": 28902.0,
+      "count": 9
+    },
+    "mumbai::goregaon east": {
+      "median": 26667.0,
+      "q25": 22500.0,
+      "q75": 46154.0,
+      "count": 9
+    },
+    "mumbai::goregaon west": {
+      "median": 28814.0,
+      "q25": 28600.0,
+      "q75": 36645.0,
+      "count": 7
+    },
+    "mumbai::hiranandani gardens": {
+      "median": 46818.0,
+      "q25": 44238.0,
+      "q75": 51112.0,
+      "count": 8
+    },
+    "mumbai::juhu": {
+      "median": 55320.0,
+      "q25": 53950.0,
+      "q75": 60511.0,
+      "count": 6
+    },
+    "mumbai::kandivali east": {
+      "median": 24390.0,
+      "q25": 22875.0,
+      "q75": 25998.0,
+      "count": 11
+    },
+    "mumbai::kandivali west": {
+      "median": 25331.0,
+      "q25": 22401.0,
+      "q75": 28406.0,
+      "count": 24
+    },
+    "mumbai::kanjurmarg west": {
+      "median": 26991.0,
+      "q25": 26475.0,
+      "q75": 27389.0,
+      "count": 5
+    },
+    "mumbai::khar west": {
+      "median": 53333.0,
+      "q25": 50852.0,
+      "q75": 57950.0,
+      "count": 6
+    },
+    "mumbai::lokhandwala complex": {
+      "median": 37807.0,
+      "q25": 35651.0,
+      "q75": 43392.0,
+      "count": 12
+    },
+    "mumbai::lower parel": {
+      "median": 46249.0,
+      "q25": 35714.0,
+      "q75": 51959.0,
+      "count": 5
+    },
+    "mumbai::magathane": {
+      "median": 30455.0,
+      "q25": 26583.0,
+      "q75": 34417.0,
+      "count": 7
+    },
+    "mumbai::mahalakshmi": {
+      "median": 57125.0,
+      "q25": 53348.0,
+      "q75": 76375.0,
+      "count": 6
+    },
+    "mumbai::malad east": {
+      "median": 25722.0,
+      "q25": 22754.0,
+      "q75": 28073.0,
+      "count": 10
+    },
+    "mumbai::malad west": {
+      "median": 27396.0,
+      "q25": 26794.0,
+      "q75": 29821.0,
+      "count": 10
+    },
+    "mumbai::mindspace": {
+      "median": 29240.0,
+      "q25": 25641.0,
+      "q75": 29600.0,
+      "count": 5
+    },
+    "mumbai::mira road area": {
+      "median": 14987.0,
+      "q25": 13419.0,
+      "q75": 17923.0,
+      "count": 16
+    },
+    "mumbai::mira road east": {
+      "median": 12422.0,
+      "q25": 12070.0,
+      "q75": 14112.0,
+      "count": 8
+    },
+    "mumbai::mulund west": {
+      "median": 26154.0,
+      "q25": 24286.0,
+      "q75": 27655.0,
+      "count": 29
+    },
+    "mumbai::oshiwara": {
+      "median": 24889.0,
+      "q25": 20192.0,
+      "q75": 29730.0,
+      "count": 5
+    },
+    "mumbai::other": {
+      "median": 27641.0,
+      "q25": 21544.0,
+      "q75": 37483.0,
+      "count": 238
+    },
+    "mumbai::parel": {
+      "median": 41744.0,
+      "q25": 41667.0,
+      "q75": 45161.0,
+      "count": 9
+    },
+    "mumbai::powai": {
+      "median": 38638.0,
+      "q25": 30039.0,
+      "q75": 43652.0,
+      "count": 26
+    },
+    "mumbai::prabhadevi": {
+      "median": 48933.0,
+      "q25": 45652.0,
+      "q75": 56039.0,
+      "count": 9
+    },
+    "mumbai::raheja vihar": {
+      "median": 25970.0,
+      "q25": 24139.0,
+      "q75": 26059.0,
+      "count": 6
+    },
+    "mumbai::thakur complex": {
+      "median": 24306.0,
+      "q25": 24091.0,
+      "q75": 24384.0,
+      "count": 5
+    },
+    "mumbai::thakur village, kandivali east": {
+      "median": 30000.0,
+      "q25": 27596.0,
+      "q75": 31437.0,
+      "count": 18
+    },
+    "mumbai::vakola": {
+      "median": 29885.0,
+      "q25": 25714.0,
+      "q75": 32000.0,
+      "count": 5
+    },
+    "mumbai::vikhroli east": {
+      "median": 22000.0,
+      "q25": 20804.0,
+      "q75": 27197.0,
+      "count": 7
+    },
+    "mumbai::vile parle east": {
+      "median": 35714.0,
+      "q25": 35616.0,
+      "q75": 44186.0,
+      "count": 5
+    },
+    "mumbai::virar west": {
+      "median": 9756.0,
+      "q25": 9553.0,
+      "q75": 10028.0,
+      "count": 5
+    },
+    "mumbai::wadala east": {
+      "median": 33702.0,
+      "q25": 30929.0,
+      "q75": 36309.0,
+      "count": 15
+    },
+    "mumbai::worli": {
+      "median": 52455.0,
+      "q25": 45131.0,
+      "q75": 59666.0,
+      "count": 10
+    },
+    "mysore::bogadi": {
+      "median": 5085.0,
+      "q25": 4839.0,
+      "q75": 7692.0,
+      "count": 5
+    },
+    "mysore::other": {
+      "median": 5844.0,
+      "q25": 4980.0,
+      "q75": 7291.0,
+      "count": 65
+    },
+    "nagpur::friends colony": {
+      "median": 6049.0,
+      "q25": 5612.0,
+      "q75": 6329.0,
+      "count": 10
+    },
+    "nagpur::kt nagar": {
+      "median": 5667.0,
+      "q25": 4688.0,
+      "q75": 6364.0,
+      "count": 5
+    },
+    "nagpur::manewada": {
+      "median": 5294.0,
+      "q25": 4800.0,
+      "q75": 6250.0,
+      "count": 5
+    },
+    "nagpur::manish nagar": {
+      "median": 5500.0,
+      "q25": 4750.0,
+      "q75": 6250.0,
+      "count": 13
+    },
+    "nagpur::mihan": {
+      "median": 5949.0,
+      "q25": 5673.0,
+      "q75": 6601.0,
+      "count": 13
+    },
+    "nagpur::other": {
+      "median": 5536.0,
+      "q25": 4153.0,
+      "q75": 7950.0,
+      "count": 106
+    },
+    "nagpur::somalwada": {
+      "median": 7333.0,
+      "q25": 6133.0,
+      "q75": 7727.0,
+      "count": 5
+    },
+    "nagpur::wardha road": {
+      "median": 5200.0,
+      "q25": 4417.0,
+      "q75": 5455.0,
+      "count": 5
+    },
+    "nashik::ashoka marg": {
+      "median": 5848.0,
+      "q25": 4632.0,
+      "q75": 6729.0,
+      "count": 5
+    },
+    "nashik::gangapur road": {
+      "median": 6209.0,
+      "q25": 4602.0,
+      "q75": 6590.0,
+      "count": 17
+    },
+    "nashik::indira nagar": {
+      "median": 5488.0,
+      "q25": 4000.0,
+      "q75": 6360.0,
+      "count": 17
+    },
+    "nashik::other": {
+      "median": 5500.0,
+      "q25": 4857.0,
+      "q75": 6199.0,
+      "count": 61
+    },
+    "nashik::panchvati": {
+      "median": 4373.0,
+      "q25": 4342.0,
+      "q75": 4377.0,
+      "count": 9
+    },
+    "nashik::pathardi phata": {
+      "median": 4644.0,
+      "q25": 3692.0,
+      "q75": 5824.0,
+      "count": 14
+    },
+    "navi-mumbai::ghansoli": {
+      "median": 21857.0,
+      "q25": 21649.0,
+      "q75": 22857.0,
+      "count": 5
+    },
+    "navi-mumbai::kharghar": {
+      "median": 14803.0,
+      "q25": 11967.0,
+      "q75": 16052.0,
+      "count": 36
+    },
+    "navi-mumbai::nerul": {
+      "median": 23621.0,
+      "q25": 20012.0,
+      "q75": 27477.0,
+      "count": 6
+    },
+    "navi-mumbai::other": {
+      "median": 15591.0,
+      "q25": 11628.0,
+      "q75": 19921.0,
+      "count": 82
+    },
+    "navi-mumbai::owe village": {
+      "median": 13429.0,
+      "q25": 13000.0,
+      "q75": 14444.0,
+      "count": 5
+    },
+    "navi-mumbai::panvel": {
+      "median": 8541.0,
+      "q25": 7150.0,
+      "q75": 11789.0,
+      "count": 16
+    },
+    "navi-mumbai::roadpali": {
+      "median": 11387.0,
+      "q25": 10152.0,
+      "q75": 12847.0,
+      "count": 13
+    },
+    "navi-mumbai::taloja": {
+      "median": 8371.0,
+      "q25": 8009.0,
+      "q75": 8970.0,
+      "count": 6
+    },
+    "navi-mumbai::ulwe": {
+      "median": 12883.0,
+      "q25": 10000.0,
+      "q75": 14000.0,
+      "count": 13
+    },
+    "navsari::other": {
+      "median": 2632.0,
+      "q25": 2083.0,
+      "q75": 3346.0,
+      "count": 17
+    },
+    "nellore::other": {
+      "median": 3894.0,
+      "q25": 2712.0,
+      "q75": 4217.0,
+      "count": 12
+    },
+    "new-delhi::acharya niketan, mayur vihar": {
+      "median": 15000.0,
+      "q25": 12400.0,
+      "q75": 18462.0,
+      "count": 9
+    },
+    "new-delhi::alaknanda": {
+      "median": 16283.0,
+      "q25": 15339.0,
+      "q75": 18258.0,
+      "count": 6
+    },
+    "new-delhi::amar colony, lajpat nagar": {
+      "median": 18750.0,
+      "q25": 17500.0,
+      "q75": 20000.0,
+      "count": 5
+    },
+    "new-delhi::anand vihar": {
+      "median": 20608.0,
+      "q25": 16731.0,
+      "q75": 21581.0,
+      "count": 12
+    },
+    "new-delhi::chattarpur enclave": {
+      "median": 5956.0,
+      "q25": 5926.0,
+      "q75": 7246.0,
+      "count": 5
+    },
+    "new-delhi::chhattarpur": {
+      "median": 5700.0,
+      "q25": 4400.0,
+      "q75": 7111.0,
+      "count": 25
+    },
+    "new-delhi::chhattarpur enclave": {
+      "median": 6522.0,
+      "q25": 5778.0,
+      "q75": 7111.0,
+      "count": 5
+    },
+    "new-delhi::chittaranjan park": {
+      "median": 18451.0,
+      "q25": 14851.0,
+      "q75": 21482.0,
+      "count": 48
+    },
+    "new-delhi::defence colony": {
+      "median": 34917.0,
+      "q25": 30494.0,
+      "q75": 44048.0,
+      "count": 30
+    },
+    "new-delhi::derawal nagar, model town": {
+      "median": 18889.0,
+      "q25": 17826.0,
+      "q75": 18889.0,
+      "count": 5
+    },
+    "new-delhi::devli, sangam vihar": {
+      "median": 4375.0,
+      "q25": 3625.0,
+      "q75": 4625.0,
+      "count": 5
+    },
+    "new-delhi::ds 19": {
+      "median": 12243.0,
+      "q25": 11273.0,
+      "q75": 13446.0,
+      "count": 32
+    },
+    "new-delhi::dwarka": {
+      "median": 11291.0,
+      "q25": 9830.0,
+      "q75": 12467.0,
+      "count": 46
+    },
+    "new-delhi::dwarka mor": {
+      "median": 5856.0,
+      "q25": 5366.0,
+      "q75": 6389.0,
+      "count": 53
+    },
+    "new-delhi::dwarka sector 10": {
+      "median": 12326.0,
+      "q25": 11500.0,
+      "q75": 13750.0,
+      "count": 33
+    },
+    "new-delhi::dwarka sector 11": {
+      "median": 12179.0,
+      "q25": 11793.0,
+      "q75": 13641.0,
+      "count": 18
+    },
+    "new-delhi::dwarka sector 12": {
+      "median": 12438.0,
+      "q25": 11270.0,
+      "q75": 14237.0,
+      "count": 43
+    },
+    "new-delhi::dwarka sector 13": {
+      "median": 11455.0,
+      "q25": 10667.0,
+      "q75": 12143.0,
+      "count": 9
+    },
+    "new-delhi::dwarka sector 18": {
+      "median": 13243.0,
+      "q25": 12726.0,
+      "q75": 13826.0,
+      "count": 24
+    },
+    "new-delhi::dwarka sector 18a": {
+      "median": 12564.0,
+      "q25": 11613.0,
+      "q75": 13375.0,
+      "count": 5
+    },
+    "new-delhi::dwarka sector 19b": {
+      "median": 13609.0,
+      "q25": 12500.0,
+      "q75": 14444.0,
+      "count": 5
+    },
+    "new-delhi::dwarka sector 2": {
+      "median": 12188.0,
+      "q25": 10783.0,
+      "q75": 14000.0,
+      "count": 5
+    },
+    "new-delhi::dwarka sector 22": {
+      "median": 12550.0,
+      "q25": 11053.0,
+      "q75": 14087.0,
+      "count": 22
+    },
+    "new-delhi::dwarka sector 23": {
+      "median": 11708.0,
+      "q25": 10763.0,
+      "q75": 12771.0,
+      "count": 38
+    },
+    "new-delhi::dwarka sector 23b": {
+      "median": 9750.0,
+      "q25": 8772.0,
+      "q75": 10448.0,
+      "count": 6
+    },
+    "new-delhi::dwarka sector 3": {
+      "median": 12265.0,
+      "q25": 9930.0,
+      "q75": 12750.0,
+      "count": 12
+    },
+    "new-delhi::dwarka sector 4": {
+      "median": 12683.0,
+      "q25": 11536.0,
+      "q75": 13628.0,
+      "count": 28
+    },
+    "new-delhi::dwarka sector 5": {
+      "median": 13043.0,
+      "q25": 11328.0,
+      "q75": 13622.0,
+      "count": 18
+    },
+    "new-delhi::dwarka sector 6": {
+      "median": 13139.0,
+      "q25": 11762.0,
+      "q75": 14511.0,
+      "count": 48
+    },
+    "new-delhi::dwarka sector 7": {
+      "median": 11933.0,
+      "q25": 10938.0,
+      "q75": 12966.0,
+      "count": 9
+    },
+    "new-delhi::dwarka sector 8": {
+      "median": 9375.0,
+      "q25": 8957.0,
+      "q75": 10556.0,
+      "count": 7
+    },
+    "new-delhi::dwarka sector 9": {
+      "median": 12667.0,
+      "q25": 10913.0,
+      "q75": 13561.0,
+      "count": 19
+    },
+    "new-delhi::east of kailash": {
+      "median": 20833.0,
+      "q25": 19948.0,
+      "q75": 26601.0,
+      "count": 16
+    },
+    "new-delhi::east of kailash block e": {
+      "median": 20488.0,
+      "q25": 20435.0,
+      "q75": 22174.0,
+      "count": 5
+    },
+    "new-delhi::freedom fighters enclave": {
+      "median": 5333.0,
+      "q25": 4348.0,
+      "q75": 5778.0,
+      "count": 5
+    },
+    "new-delhi::govindpuri main": {
+      "median": 5556.0,
+      "q25": 4968.0,
+      "q75": 6670.0,
+      "count": 11
+    },
+    "new-delhi::greater kailash 1": {
+      "median": 22708.0,
+      "q25": 18179.0,
+      "q75": 27265.0,
+      "count": 34
+    },
+    "new-delhi::greater kailash 2": {
+      "median": 25926.0,
+      "q25": 23635.0,
+      "q75": 28977.0,
+      "count": 23
+    },
+    "new-delhi::green park": {
+      "median": 25000.0,
+      "q25": 21777.0,
+      "q75": 34483.0,
+      "count": 7
+    },
+    "new-delhi::gulmohar park": {
+      "median": 35714.0,
+      "q25": 33239.0,
+      "q75": 37299.0,
+      "count": 7
+    },
+    "new-delhi::hargobind enclave, anand vihar": {
+      "median": 16211.0,
+      "q25": 15751.0,
+      "q75": 16573.0,
+      "count": 6
+    },
+    "new-delhi::hari nagar": {
+      "median": 7889.0,
+      "q25": 7778.0,
+      "q75": 10750.0,
+      "count": 6
+    },
+    "new-delhi::hauz khas enclave, hauz khas": {
+      "median": 38397.0,
+      "q25": 32045.0,
+      "q75": 41098.0,
+      "count": 10
+    },
+    "new-delhi::indraprastha": {
+      "median": 11250.0,
+      "q25": 10400.0,
+      "q75": 12057.0,
+      "count": 7
+    },
+    "new-delhi::indraprastha extension, patparganj": {
+      "median": 11905.0,
+      "q25": 10714.0,
+      "q75": 13750.0,
+      "count": 29
+    },
+    "new-delhi::janakpuri": {
+      "median": 16468.0,
+      "q25": 13613.0,
+      "q75": 17668.0,
+      "count": 23
+    },
+    "new-delhi::jangpura extension, jangpura": {
+      "median": 26923.0,
+      "q25": 20000.0,
+      "q75": 31034.0,
+      "count": 5
+    },
+    "new-delhi::kailash colony, greater kailash": {
+      "median": 22131.0,
+      "q25": 21600.0,
+      "q75": 29167.0,
+      "count": 5
+    },
+    "new-delhi::kailash hills, east of kailash": {
+      "median": 21311.0,
+      "q25": 18205.0,
+      "q75": 21787.0,
+      "count": 6
+    },
+    "new-delhi::kalkaji": {
+      "median": 16197.0,
+      "q25": 11982.0,
+      "q75": 23736.0,
+      "count": 7
+    },
+    "new-delhi::kishangarh, vasant kunj": {
+      "median": 7667.0,
+      "q25": 7167.0,
+      "q75": 9500.0,
+      "count": 6
+    },
+    "new-delhi::lajpat nagar 3": {
+      "median": 25333.0,
+      "q25": 22353.0,
+      "q75": 33333.0,
+      "count": 9
+    },
+    "new-delhi::laxmi nagar": {
+      "median": 7500.0,
+      "q25": 6900.0,
+      "q75": 8822.0,
+      "count": 11
+    },
+    "new-delhi::mahavir enclave": {
+      "median": 5594.0,
+      "q25": 4671.0,
+      "q75": 6431.0,
+      "count": 6
+    },
+    "new-delhi::malviya nagar": {
+      "median": 11184.0,
+      "q25": 9590.0,
+      "q75": 14583.0,
+      "count": 8
+    },
+    "new-delhi::mayur vihar 1": {
+      "median": 12222.0,
+      "q25": 10217.0,
+      "q75": 14193.0,
+      "count": 19
+    },
+    "new-delhi::mehrauli": {
+      "median": 5528.0,
+      "q25": 4781.0,
+      "q75": 6389.0,
+      "count": 10
+    },
+    "new-delhi::moti nagar, kirti nagar": {
+      "median": 23077.0,
+      "q25": 19449.0,
+      "q75": 25505.0,
+      "count": 15
+    },
+    "new-delhi::nehru enclave, kalkaji": {
+      "median": 23864.0,
+      "q25": 23088.0,
+      "q75": 24138.0,
+      "count": 7
+    },
+    "new-delhi::new ashok nagar": {
+      "median": 4000.0,
+      "q25": 3917.0,
+      "q75": 4874.0,
+      "count": 7
+    },
+    "new-delhi::new friends colony": {
+      "median": 17944.0,
+      "q25": 15565.0,
+      "q75": 20252.0,
+      "count": 10
+    },
+    "new-delhi::new rajendra nagar": {
+      "median": 22222.0,
+      "q25": 19565.0,
+      "q75": 24306.0,
+      "count": 13
+    },
+    "new-delhi::nirman vihar, preet vihar": {
+      "median": 16667.0,
+      "q25": 16667.0,
+      "q75": 19259.0,
+      "count": 5
+    },
+    "new-delhi::om vihar, nawada": {
+      "median": 4878.0,
+      "q25": 4537.0,
+      "q75": 4923.0,
+      "count": 7
+    },
+    "new-delhi::other": {
+      "median": 12500.0,
+      "q25": 7857.0,
+      "q75": 17500.0,
+      "count": 517
+    },
+    "new-delhi::panchsheel park": {
+      "median": 38462.0,
+      "q25": 35667.0,
+      "q75": 46964.0,
+      "count": 7
+    },
+    "new-delhi::paryavaran complex, sainik farm": {
+      "median": 4182.0,
+      "q25": 3797.0,
+      "q75": 5080.0,
+      "count": 7
+    },
+    "new-delhi::paschim vihar": {
+      "median": 11905.0,
+      "q25": 10556.0,
+      "q75": 16667.0,
+      "count": 13
+    },
+    "new-delhi::patparganj": {
+      "median": 12361.0,
+      "q25": 10870.0,
+      "q75": 14325.0,
+      "count": 20
+    },
+    "new-delhi::pitampura": {
+      "median": 15833.0,
+      "q25": 12923.0,
+      "q75": 18472.0,
+      "count": 7
+    },
+    "new-delhi::preet vihar": {
+      "median": 17301.0,
+      "q25": 15011.0,
+      "q75": 19565.0,
+      "count": 12
+    },
+    "new-delhi::punjabi bagh west": {
+      "median": 16564.0,
+      "q25": 16115.0,
+      "q75": 18421.0,
+      "count": 6
+    },
+    "new-delhi::raja puri": {
+      "median": 7375.0,
+      "q25": 6905.0,
+      "q75": 7500.0,
+      "count": 7
+    },
+    "new-delhi::rajouri garden": {
+      "median": 13964.0,
+      "q25": 10833.0,
+      "q75": 15986.0,
+      "count": 6
+    },
+    "new-delhi::rajpur khurd extension, rajpur": {
+      "median": 6117.0,
+      "q25": 5758.0,
+      "q75": 6323.0,
+      "count": 8
+    },
+    "new-delhi::rani bagh": {
+      "median": 9630.0,
+      "q25": 8958.0,
+      "q75": 10127.0,
+      "count": 7
+    },
+    "new-delhi::rohini": {
+      "median": 11528.0,
+      "q25": 10556.0,
+      "q75": 17066.0,
+      "count": 12
+    },
+    "new-delhi::rohini sector 13": {
+      "median": 15909.0,
+      "q25": 13043.0,
+      "q75": 17188.0,
+      "count": 13
+    },
+    "new-delhi::rohini sector 16": {
+      "median": 11429.0,
+      "q25": 9060.0,
+      "q75": 13409.0,
+      "count": 15
+    },
+    "new-delhi::rohini sector 22": {
+      "median": 10400.0,
+      "q25": 9240.0,
+      "q75": 11166.0,
+      "count": 7
+    },
+    "new-delhi::rohini sector 23": {
+      "median": 9717.0,
+      "q25": 9025.0,
+      "q75": 10221.0,
+      "count": 6
+    },
+    "new-delhi::rohini sector 24": {
+      "median": 10521.0,
+      "q25": 9290.0,
+      "q75": 11434.0,
+      "count": 16
+    },
+    "new-delhi::rohini sector 25": {
+      "median": 8385.0,
+      "q25": 8080.0,
+      "q75": 9877.0,
+      "count": 7
+    },
+    "new-delhi::rohini sector 28": {
+      "median": 8214.0,
+      "q25": 6667.0,
+      "q75": 8750.0,
+      "count": 5
+    },
+    "new-delhi::rohini sector 9": {
+      "median": 16800.0,
+      "q25": 13705.0,
+      "q75": 19917.0,
+      "count": 19
+    },
+    "new-delhi::safdarjung development area, hauz khas": {
+      "median": 33333.0,
+      "q25": 30649.0,
+      "q75": 38182.0,
+      "count": 7
+    },
+    "new-delhi::safdarjung enclave": {
+      "median": 27739.0,
+      "q25": 23244.0,
+      "q75": 29470.0,
+      "count": 11
+    },
+    "new-delhi::saket": {
+      "median": 13056.0,
+      "q25": 7042.0,
+      "q75": 23069.0,
+      "count": 27
+    },
+    "new-delhi::sarita vihar, mathura road": {
+      "median": 11048.0,
+      "q25": 10458.0,
+      "q75": 11945.0,
+      "count": 12
+    },
+    "new-delhi::sarvodaya enclave": {
+      "median": 28621.0,
+      "q25": 25000.0,
+      "q75": 29310.0,
+      "count": 5
+    },
+    "new-delhi::shahdara": {
+      "median": 5556.0,
+      "q25": 5333.0,
+      "q75": 6481.0,
+      "count": 5
+    },
+    "new-delhi::shiv nagar, janakpuri": {
+      "median": 10370.0,
+      "q25": 8748.0,
+      "q75": 11181.0,
+      "count": 10
+    },
+    "new-delhi::shivalik, malviya nagar": {
+      "median": 20556.0,
+      "q25": 18134.0,
+      "q75": 22936.0,
+      "count": 6
+    },
+    "new-delhi::sukhdev vihar, okhla": {
+      "median": 19767.0,
+      "q25": 18519.0,
+      "q75": 19792.0,
+      "count": 5
+    },
+    "new-delhi::surajmal vihar": {
+      "median": 20270.0,
+      "q25": 19294.0,
+      "q75": 23418.0,
+      "count": 6
+    },
+    "new-delhi::uttam nagar": {
+      "median": 5333.0,
+      "q25": 4722.0,
+      "q75": 5778.0,
+      "count": 21
+    },
+    "new-delhi::uttam nagar east, uttam nagar": {
+      "median": 3667.0,
+      "q25": 3543.0,
+      "q75": 4783.0,
+      "count": 7
+    },
+    "new-delhi::uttam nagar west": {
+      "median": 4657.0,
+      "q25": 4109.0,
+      "q75": 5284.0,
+      "count": 54
+    },
+    "new-delhi::vasant kunj": {
+      "median": 17857.0,
+      "q25": 14838.0,
+      "q75": 21589.0,
+      "count": 15
+    },
+    "new-delhi::vasant kunj sector a": {
+      "median": 13448.0,
+      "q25": 13333.0,
+      "q75": 14000.0,
+      "count": 5
+    },
+    "new-delhi::vasant kunj sector b": {
+      "median": 16800.0,
+      "q25": 16667.0,
+      "q75": 17059.0,
+      "count": 5
+    },
+    "new-delhi::vasant kunj sector c": {
+      "median": 18182.0,
+      "q25": 14571.0,
+      "q75": 24242.0,
+      "count": 5
+    },
+    "new-delhi::vasant kunj sector d": {
+      "median": 18571.0,
+      "q25": 17632.0,
+      "q75": 19000.0,
+      "count": 5
+    },
+    "new-delhi::vasant vihar": {
+      "median": 18000.0,
+      "q25": 13603.0,
+      "q75": 29464.0,
+      "count": 7
+    },
+    "new-delhi::vasundhara enclave": {
+      "median": 9643.0,
+      "q25": 8855.0,
+      "q75": 11182.0,
+      "count": 39
+    },
+    "new-delhi::vikaspuri": {
+      "median": 10982.0,
+      "q25": 9600.0,
+      "q75": 11579.0,
+      "count": 9
+    },
+    "new-delhi::virender nagar": {
+      "median": 9423.0,
+      "q25": 8600.0,
+      "q75": 11944.0,
+      "count": 6
+    },
+    "new-delhi::vishnu garden": {
+      "median": 6452.0,
+      "q25": 4681.0,
+      "q75": 7022.0,
+      "count": 5
+    },
+    "noida::ace golfshire sector 150, pusta road": {
+      "median": 9730.0,
+      "q25": 9205.0,
+      "q75": 10623.0,
+      "count": 5
+    },
+    "noida::amrapali princely estate sector 76": {
+      "median": 6489.0,
+      "q25": 5703.0,
+      "q75": 7625.0,
+      "count": 7
+    },
+    "noida::amrapali silicon city sector 76": {
+      "median": 6586.0,
+      "q25": 6235.0,
+      "q75": 7917.0,
+      "count": 29
+    },
+    "noida::amrapali zodiac sector 120": {
+      "median": 6080.0,
+      "q25": 5878.0,
+      "q75": 6772.0,
+      "count": 7
+    },
+    "noida::antriksh golf view sector 78": {
+      "median": 6601.0,
+      "q25": 5842.0,
+      "q75": 7098.0,
+      "count": 5
+    },
+    "noida::ats homekraft happy trails": {
+      "median": 9167.0,
+      "q25": 8367.0,
+      "q75": 10895.0,
+      "count": 7
+    },
+    "noida::ats le grandiose sector 150, pusta road": {
+      "median": 10000.0,
+      "q25": 9625.0,
+      "q75": 13000.0,
+      "count": 5
+    },
+    "noida::ats pristine sector 150, pusta road": {
+      "median": 10328.0,
+      "q25": 8765.0,
+      "q75": 13889.0,
+      "count": 5
+    },
+    "noida::avs orchard sector 77": {
+      "median": 8502.0,
+      "q25": 7071.0,
+      "q75": 8638.0,
+      "count": 18
+    },
+    "noida::cleo county sector 121": {
+      "median": 20366.0,
+      "q25": 16380.0,
+      "q75": 22540.0,
+      "count": 12
+    },
+    "noida::elite homz sector 77": {
+      "median": 11871.0,
+      "q25": 11367.0,
+      "q75": 12308.0,
+      "count": 13
+    },
+    "noida::emenox la solara": {
+      "median": 7613.0,
+      "q25": 6653.0,
+      "q75": 8211.0,
+      "count": 8
+    },
+    "noida::galaxy north avenue 2": {
+      "median": 7421.0,
+      "q25": 7419.0,
+      "q75": 7543.0,
+      "count": 5
+    },
+    "noida::gaur city 7th avenue": {
+      "median": 12547.0,
+      "q25": 10985.0,
+      "q75": 13224.0,
+      "count": 6
+    },
+    "noida::greater": {
+      "median": 8406.0,
+      "q25": 6173.0,
+      "q75": 9698.0,
+      "count": 8
+    },
+    "noida::jaypee aman sector 151": {
+      "median": 5500.0,
+      "q25": 5333.0,
+      "q75": 5600.0,
+      "count": 9
+    },
+    "noida::jaypee kosmos sector 134": {
+      "median": 5932.0,
+      "q25": 5376.0,
+      "q75": 6780.0,
+      "count": 5
+    },
+    "noida::logix blossom county sector 137": {
+      "median": 6330.0,
+      "q25": 5514.0,
+      "q75": 6995.0,
+      "count": 10
+    },
+    "noida::mahagun mezzaria sector 78": {
+      "median": 11429.0,
+      "q25": 10775.0,
+      "q75": 15017.0,
+      "count": 7
+    },
+    "noida::mahagun moderne sector 78": {
+      "median": 11538.0,
+      "q25": 11001.0,
+      "q75": 12073.0,
+      "count": 11
+    },
+    "noida::mahagun mywoods": {
+      "median": 6550.0,
+      "q25": 6550.0,
+      "q75": 7681.0,
+      "count": 5
+    },
+    "noida::nirala aspire": {
+      "median": 8136.0,
+      "q25": 7416.0,
+      "q75": 8600.0,
+      "count": 5
+    },
+    "noida::nirala estate phase 2": {
+      "median": 10304.0,
+      "q25": 8574.0,
+      "q75": 10829.0,
+      "count": 5
+    },
+    "noida::other": {
+      "median": 8067.0,
+      "q25": 6335.0,
+      "q75": 10870.0,
+      "count": 354
+    },
+    "noida::panchsheel greens": {
+      "median": 6667.0,
+      "q25": 6383.0,
+      "q75": 8489.0,
+      "count": 5
+    },
+    "noida::panchsheel greens 2": {
+      "median": 8536.0,
+      "q25": 7367.0,
+      "q75": 9694.0,
+      "count": 8
+    },
+    "noida::paramount emotions": {
+      "median": 6652.0,
+      "q25": 6002.0,
+      "q75": 7099.0,
+      "count": 8
+    },
+    "noida::paramount floraville sector 137": {
+      "median": 7361.0,
+      "q25": 6421.0,
+      "q75": 8022.0,
+      "count": 8
+    },
+    "noida::paras tierea sector 137": {
+      "median": 5686.0,
+      "q25": 5124.0,
+      "q75": 6511.0,
+      "count": 5
+    },
+    "noida::prateek laurel sector 120": {
+      "median": 9200.0,
+      "q25": 7813.0,
+      "q75": 9954.0,
+      "count": 10
+    },
+    "noida::prateek wisteria sector 77": {
+      "median": 8051.0,
+      "q25": 7740.0,
+      "q75": 8489.0,
+      "count": 24
+    },
+    "noida::sector 29": {
+      "median": 9290.0,
+      "q25": 7826.0,
+      "q75": 9444.0,
+      "count": 5
+    },
+    "noida::sector 49, dadri road": {
+      "median": 2836.0,
+      "q25": 2800.0,
+      "q75": 3134.0,
+      "count": 5
+    },
+    "noida::shri radha sky gardens": {
+      "median": 5453.0,
+      "q25": 4742.0,
+      "q75": 5744.0,
+      "count": 6
+    },
+    "noida::supertech capetown sector 74": {
+      "median": 7129.0,
+      "q25": 6306.0,
+      "q75": 7264.0,
+      "count": 10
+    },
+    "noida::supertech emerald court sector 93a": {
+      "median": 9177.0,
+      "q25": 8663.0,
+      "q75": 9284.0,
+      "count": 7
+    },
+    "noida::supertech orb": {
+      "median": 8662.0,
+      "q25": 8557.0,
+      "q75": 8725.0,
+      "count": 8
+    },
+    "noida::the hyde park sector 78": {
+      "median": 9130.0,
+      "q25": 8648.0,
+      "q75": 9839.0,
+      "count": 8
+    },
+    "palakkad::other": {
+      "median": 4092.0,
+      "q25": 3360.0,
+      "q75": 4723.0,
+      "count": 16
+    },
+    "palghar::boisar": {
+      "median": 4732.0,
+      "q25": 3923.0,
+      "q75": 5257.0,
+      "count": 43
+    },
+    "palghar::boisar west": {
+      "median": 8478.0,
+      "q25": 5043.0,
+      "q75": 8931.0,
+      "count": 14
+    },
+    "palghar::devkhop": {
+      "median": 4551.0,
+      "q25": 4034.0,
+      "q75": 5577.0,
+      "count": 6
+    },
+    "palghar::nandore": {
+      "median": 6142.0,
+      "q25": 5752.0,
+      "q75": 6654.0,
+      "count": 10
+    },
+    "palghar::other": {
+      "median": 5458.0,
+      "q25": 4376.0,
+      "q75": 6724.0,
+      "count": 110
+    },
+    "palghar::saphale": {
+      "median": 4715.0,
+      "q25": 4435.0,
+      "q75": 5195.0,
+      "count": 5
+    },
+    "palghar::umroli": {
+      "median": 4468.0,
+      "q25": 4225.0,
+      "q75": 5634.0,
+      "count": 5
+    },
+    "palghar::vasai": {
+      "median": 8143.0,
+      "q25": 6730.0,
+      "q75": 9553.0,
+      "count": 30
+    },
+    "panchkula::mansa devi complex": {
+      "median": 12963.0,
+      "q25": 12667.0,
+      "q75": 14407.0,
+      "count": 7
+    },
+    "panchkula::other": {
+      "median": 10312.0,
+      "q25": 8567.0,
+      "q75": 11958.0,
+      "count": 36
+    },
+    "panchkula::sector 10 budanpur": {
+      "median": 12000.0,
+      "q25": 11500.0,
+      "q75": 13000.0,
+      "count": 5
+    },
+    "panchkula::sector 15": {
+      "median": 9775.0,
+      "q25": 7931.0,
+      "q75": 10405.0,
+      "count": 8
+    },
+    "panchkula::sector 17": {
+      "median": 12032.0,
+      "q25": 11576.0,
+      "q75": 13417.0,
+      "count": 7
+    },
+    "panchkula::sector 2": {
+      "median": 11905.0,
+      "q25": 11667.0,
+      "q75": 12955.0,
+      "count": 5
+    },
+    "panchkula::sector 20": {
+      "median": 5507.0,
+      "q25": 4785.0,
+      "q75": 8333.0,
+      "count": 99
+    },
+    "panchkula::sector 3": {
+      "median": 9688.0,
+      "q25": 9074.0,
+      "q75": 12518.0,
+      "count": 26
+    },
+    "panchkula::sector 7": {
+      "median": 11733.0,
+      "q25": 11321.0,
+      "q75": 12741.0,
+      "count": 8
+    },
+    "panchkula::sector 8": {
+      "median": 13557.0,
+      "q25": 12417.0,
+      "q75": 15000.0,
+      "count": 10
+    },
+    "patna::anandpuri": {
+      "median": 6767.0,
+      "q25": 6182.0,
+      "q75": 7200.0,
+      "count": 5
+    },
+    "patna::ashiana digha road": {
+      "median": 7663.0,
+      "q25": 7467.0,
+      "q75": 10600.0,
+      "count": 6
+    },
+    "patna::bailey road": {
+      "median": 8894.0,
+      "q25": 7307.0,
+      "q75": 10451.0,
+      "count": 27
+    },
+    "patna::boring canal road": {
+      "median": 8902.0,
+      "q25": 7056.0,
+      "q75": 9999.0,
+      "count": 6
+    },
+    "patna::boring road": {
+      "median": 8588.0,
+      "q25": 7804.0,
+      "q75": 9583.0,
+      "count": 15
+    },
+    "patna::buddha colony": {
+      "median": 8800.0,
+      "q25": 8750.0,
+      "q75": 9615.0,
+      "count": 5
+    },
+    "patna::danapur": {
+      "median": 5833.0,
+      "q25": 4993.0,
+      "q75": 7189.0,
+      "count": 11
+    },
+    "patna::danapur khagaul road": {
+      "median": 7471.0,
+      "q25": 6991.0,
+      "q75": 7691.0,
+      "count": 23
+    },
+    "patna::gola road": {
+      "median": 7503.0,
+      "q25": 6354.0,
+      "q75": 8378.0,
+      "count": 22
+    },
+    "patna::jagdeo path": {
+      "median": 6333.0,
+      "q25": 5909.0,
+      "q75": 7045.0,
+      "count": 9
+    },
+    "patna::kankarbagh": {
+      "median": 7029.0,
+      "q25": 6382.0,
+      "q75": 8255.0,
+      "count": 14
+    },
+    "patna::nageshwar colony": {
+      "median": 9167.0,
+      "q25": 8889.0,
+      "q75": 9615.0,
+      "count": 9
+    },
+    "patna::new patliputra colony": {
+      "median": 6437.0,
+      "q25": 5360.0,
+      "q75": 7441.0,
+      "count": 6
+    },
+    "patna::other": {
+      "median": 6889.0,
+      "q25": 5647.0,
+      "q75": 8182.0,
+      "count": 157
+    },
+    "patna::phulwari sharif": {
+      "median": 7287.0,
+      "q25": 4409.0,
+      "q75": 7661.0,
+      "count": 5
+    },
+    "patna::ram krishna puram": {
+      "median": 6320.0,
+      "q25": 6250.0,
+      "q75": 6482.0,
+      "count": 7
+    },
+    "patna::ramjaipal nagar": {
+      "median": 7789.0,
+      "q25": 7500.0,
+      "q75": 9000.0,
+      "count": 5
+    },
+    "patna::saguna more": {
+      "median": 6464.0,
+      "q25": 5629.0,
+      "q75": 8968.0,
+      "count": 18
+    },
+    "pondicherry::other": {
+      "median": 4000.0,
+      "q25": 3849.0,
+      "q75": 4190.0,
+      "count": 7
+    },
+    "pune::alandi, kelgaon": {
+      "median": 5735.0,
+      "q25": 5333.0,
+      "q75": 7288.0,
+      "count": 5
+    },
+    "pune::amanora park town": {
+      "median": 12329.0,
+      "q25": 11484.0,
+      "q75": 14448.0,
+      "count": 19
+    },
+    "pune::ambegaon": {
+      "median": 7818.0,
+      "q25": 6790.0,
+      "q75": 8372.0,
+      "count": 10
+    },
+    "pune::aundh": {
+      "median": 11597.0,
+      "q25": 10681.0,
+      "q75": 13906.0,
+      "count": 8
+    },
+    "pune::balewadi": {
+      "median": 12500.0,
+      "q25": 11224.0,
+      "q75": 13419.0,
+      "count": 29
+    },
+    "pune::baner": {
+      "median": 12112.0,
+      "q25": 11017.0,
+      "q75": 13548.0,
+      "count": 50
+    },
+    "pune::baner pashan link road": {
+      "median": 12274.0,
+      "q25": 10019.0,
+      "q75": 15256.0,
+      "count": 6
+    },
+    "pune::bavdhan": {
+      "median": 10615.0,
+      "q25": 10257.0,
+      "q75": 11489.0,
+      "count": 27
+    },
+    "pune::chakan": {
+      "median": 5326.0,
+      "q25": 4935.0,
+      "q75": 5479.0,
+      "count": 5
+    },
+    "pune::dahanukar colony, kothrud": {
+      "median": 15115.0,
+      "q25": 14210.0,
+      "q75": 15406.0,
+      "count": 6
+    },
+    "pune::dhanori": {
+      "median": 7556.0,
+      "q25": 7111.0,
+      "q75": 8477.0,
+      "count": 13
+    },
+    "pune::dhayari": {
+      "median": 6430.0,
+      "q25": 5639.0,
+      "q75": 7279.0,
+      "count": 8
+    },
+    "pune::eon free zone, kharadi": {
+      "median": 12089.0,
+      "q25": 10689.0,
+      "q75": 13805.0,
+      "count": 32
+    },
+    "pune::erandwane": {
+      "median": 18800.0,
+      "q25": 17628.0,
+      "q75": 21434.0,
+      "count": 7
+    },
+    "pune::fursungi": {
+      "median": 7021.0,
+      "q25": 6000.0,
+      "q75": 7534.0,
+      "count": 9
+    },
+    "pune::hadapsar": {
+      "median": 6910.0,
+      "q25": 6231.0,
+      "q75": 9817.0,
+      "count": 64
+    },
+    "pune::handewadi": {
+      "median": 6363.0,
+      "q25": 6053.0,
+      "q75": 6869.0,
+      "count": 16
+    },
+    "pune::handewadi road": {
+      "median": 6429.0,
+      "q25": 6000.0,
+      "q75": 6667.0,
+      "count": 9
+    },
+    "pune::hinjawadi": {
+      "median": 8800.0,
+      "q25": 7667.0,
+      "q75": 10088.0,
+      "count": 37
+    },
+    "pune::kalyani nagar": {
+      "median": 13750.0,
+      "q25": 12000.0,
+      "q75": 15909.0,
+      "count": 21
+    },
+    "pune::karvenagar": {
+      "median": 12222.0,
+      "q25": 9444.0,
+      "q75": 13889.0,
+      "count": 5
+    },
+    "pune::keshav nagar mundhwa": {
+      "median": 9455.0,
+      "q25": 8839.0,
+      "q75": 10726.0,
+      "count": 17
+    },
+    "pune::kharadi": {
+      "median": 12473.0,
+      "q25": 10711.0,
+      "q75": 14217.0,
+      "count": 54
+    },
+    "pune::kondhwa": {
+      "median": 8041.0,
+      "q25": 6352.0,
+      "q75": 8972.0,
+      "count": 22
+    },
+    "pune::koregaon park": {
+      "median": 14583.0,
+      "q25": 14545.0,
+      "q75": 14828.0,
+      "count": 5
+    },
+    "pune::kothrud": {
+      "median": 14449.0,
+      "q25": 13009.0,
+      "q75": 18708.0,
+      "count": 18
+    },
+    "pune::lohegaon": {
+      "median": 8082.0,
+      "q25": 7615.0,
+      "q75": 8604.0,
+      "count": 10
+    },
+    "pune::magarpatta": {
+      "median": 14035.0,
+      "q25": 12400.0,
+      "q75": 15294.0,
+      "count": 21
+    },
+    "pune::mahalunge": {
+      "median": 9863.0,
+      "q25": 8929.0,
+      "q75": 10417.0,
+      "count": 5
+    },
+    "pune::manjri, manjri budruk": {
+      "median": 7585.0,
+      "q25": 7253.0,
+      "q75": 8186.0,
+      "count": 11
+    },
+    "pune::mohammed wadi": {
+      "median": 7624.0,
+      "q25": 7315.0,
+      "q75": 7716.0,
+      "count": 8
+    },
+    "pune::moshi": {
+      "median": 6733.0,
+      "q25": 5996.0,
+      "q75": 7149.0,
+      "count": 10
+    },
+    "pune::narhe": {
+      "median": 4884.0,
+      "q25": 4038.0,
+      "q75": 6117.0,
+      "count": 5
+    },
+    "pune::nibm annexe area": {
+      "median": 8406.0,
+      "q25": 6997.0,
+      "q75": 9336.0,
+      "count": 10
+    },
+    "pune::nibm road": {
+      "median": 9391.0,
+      "q25": 8167.0,
+      "q75": 12723.0,
+      "count": 41
+    },
+    "pune::other": {
+      "median": 8511.0,
+      "q25": 6667.0,
+      "q75": 11905.0,
+      "count": 353
+    },
+    "pune::pashan": {
+      "median": 9909.0,
+      "q25": 9231.0,
+      "q75": 12727.0,
+      "count": 9
+    },
+    "pune::phase 1 hinjewadi rajiv gandhi infotech park": {
+      "median": 8936.0,
+      "q25": 7771.0,
+      "q75": 9773.0,
+      "count": 8
+    },
+    "pune::pimple nilakh, pimpri chinchwad": {
+      "median": 12585.0,
+      "q25": 12478.0,
+      "q75": 13362.0,
+      "count": 5
+    },
+    "pune::pimple saudagar, pimpri chinchwad": {
+      "median": 10267.0,
+      "q25": 9420.0,
+      "q75": 10667.0,
+      "count": 21
+    },
+    "pune::pisoli": {
+      "median": 6856.0,
+      "q25": 6187.0,
+      "q75": 7021.0,
+      "count": 8
+    },
+    "pune::prabhat road": {
+      "median": 19200.0,
+      "q25": 17970.0,
+      "q75": 21107.0,
+      "count": 6
+    },
+    "pune::punawale, pimpri chinchwad": {
+      "median": 7658.0,
+      "q25": 7208.0,
+      "q75": 8280.0,
+      "count": 20
+    },
+    "pune::rahatani": {
+      "median": 9487.0,
+      "q25": 8527.0,
+      "q75": 9884.0,
+      "count": 9
+    },
+    "pune::ravet, pimpri chinchwad": {
+      "median": 7538.0,
+      "q25": 6929.0,
+      "q75": 8375.0,
+      "count": 27
+    },
+    "pune::satara road": {
+      "median": 13478.0,
+      "q25": 13333.0,
+      "q75": 15556.0,
+      "count": 5
+    },
+    "pune::shivane": {
+      "median": 4667.0,
+      "q25": 3764.0,
+      "q75": 5000.0,
+      "count": 5
+    },
+    "pune::sinhgad road": {
+      "median": 11347.0,
+      "q25": 10370.0,
+      "q75": 11704.0,
+      "count": 19
+    },
+    "pune::sopan baug society, ghorpadi": {
+      "median": 16129.0,
+      "q25": 15147.0,
+      "q75": 16667.0,
+      "count": 5
+    },
+    "pune::sus": {
+      "median": 8466.0,
+      "q25": 7914.0,
+      "q75": 9539.0,
+      "count": 6
+    },
+    "pune::talegaon dabhade": {
+      "median": 5745.0,
+      "q25": 4714.0,
+      "q75": 6084.0,
+      "count": 12
+    },
+    "pune::tathawade pimpri chinchwad": {
+      "median": 8721.0,
+      "q25": 7949.0,
+      "q75": 9049.0,
+      "count": 13
+    },
+    "pune::tingre nagar": {
+      "median": 8627.0,
+      "q25": 7860.0,
+      "q75": 9500.0,
+      "count": 6
+    },
+    "pune::undri": {
+      "median": 7082.0,
+      "q25": 6503.0,
+      "q75": 8018.0,
+      "count": 43
+    },
+    "pune::viman nagar": {
+      "median": 12947.0,
+      "q25": 10434.0,
+      "q75": 16111.0,
+      "count": 8
+    },
+    "pune::vishrantwadi, airport road": {
+      "median": 10627.0,
+      "q25": 7500.0,
+      "q75": 10972.0,
+      "count": 10
+    },
+    "pune::wadgaon sheri": {
+      "median": 11692.0,
+      "q25": 10855.0,
+      "q75": 12896.0,
+      "count": 8
+    },
+    "pune::wagholi": {
+      "median": 7346.0,
+      "q25": 6375.0,
+      "q75": 8061.0,
+      "count": 31
+    },
+    "pune::wakad": {
+      "median": 9955.0,
+      "q25": 9103.0,
+      "q75": 10831.0,
+      "count": 67
+    },
+    "pune::wanowrie": {
+      "median": 9524.0,
+      "q25": 9333.0,
+      "q75": 10455.0,
+      "count": 9
+    },
+    "pune::warje": {
+      "median": 9336.0,
+      "q25": 8500.0,
+      "q75": 10897.0,
+      "count": 5
+    },
+    "raipur::amlidhi": {
+      "median": 3667.0,
+      "q25": 3200.0,
+      "q75": 3774.0,
+      "count": 15
+    },
+    "raipur::avanti vihar": {
+      "median": 4870.0,
+      "q25": 4100.0,
+      "q75": 5455.0,
+      "count": 13
+    },
+    "raipur::bhatagaon": {
+      "median": 3988.0,
+      "q25": 3799.0,
+      "q75": 4139.0,
+      "count": 12
+    },
+    "raipur::bhatgaon": {
+      "median": 2227.0,
+      "q25": 2018.0,
+      "q75": 2922.0,
+      "count": 6
+    },
+    "raipur::daldal seoni": {
+      "median": 2835.0,
+      "q25": 2334.0,
+      "q75": 2951.0,
+      "count": 6
+    },
+    "raipur::deopuri": {
+      "median": 3042.0,
+      "q25": 2857.0,
+      "q75": 3400.0,
+      "count": 5
+    },
+    "raipur::hirapur road": {
+      "median": 4526.0,
+      "q25": 4170.0,
+      "q75": 4576.0,
+      "count": 7
+    },
+    "raipur::kabir nagar": {
+      "median": 3428.0,
+      "q25": 3042.0,
+      "q75": 3757.0,
+      "count": 6
+    },
+    "raipur::kachna": {
+      "median": 3763.0,
+      "q25": 3604.0,
+      "q75": 3936.0,
+      "count": 7
+    },
+    "raipur::kachna road": {
+      "median": 3817.0,
+      "q25": 3299.0,
+      "q75": 4271.0,
+      "count": 8
+    },
+    "raipur::mathpurena": {
+      "median": 3942.0,
+      "q25": 3687.0,
+      "q75": 4282.0,
+      "count": 10
+    },
+    "raipur::mohba bazar": {
+      "median": 3417.0,
+      "q25": 3079.0,
+      "q75": 3638.0,
+      "count": 6
+    },
+    "raipur::mowa": {
+      "median": 3025.0,
+      "q25": 2690.0,
+      "q75": 3796.0,
+      "count": 7
+    },
+    "raipur::new dhamtari road": {
+      "median": 3322.0,
+      "q25": 3089.0,
+      "q75": 3597.0,
+      "count": 17
+    },
+    "raipur::other": {
+      "median": 3515.0,
+      "q25": 2836.0,
+      "q75": 4352.0,
+      "count": 78
+    },
+    "raipur::saddu": {
+      "median": 4032.0,
+      "q25": 3526.0,
+      "q75": 4877.0,
+      "count": 10
+    },
+    "raipur::santoshi nagar": {
+      "median": 3063.0,
+      "q25": 2328.0,
+      "q75": 4065.0,
+      "count": 5
+    },
+    "raipur::shankar nagar": {
+      "median": 4000.0,
+      "q25": 3589.0,
+      "q75": 4323.0,
+      "count": 27
+    },
+    "raipur::vip road": {
+      "median": 3712.0,
+      "q25": 3426.0,
+      "q75": 3981.0,
+      "count": 6
+    },
+    "rajahmundry::morampudi": {
+      "median": 4200.0,
+      "q25": 3830.0,
+      "q75": 6200.0,
+      "count": 5
+    },
+    "rajahmundry::other": {
+      "median": 4023.0,
+      "q25": 3333.0,
+      "q75": 5470.0,
+      "count": 47
+    },
+    "ranchi::argora": {
+      "median": 5625.0,
+      "q25": 4981.0,
+      "q75": 6265.0,
+      "count": 32
+    },
+    "ranchi::ashok nagar": {
+      "median": 5870.0,
+      "q25": 5000.0,
+      "q75": 6000.0,
+      "count": 17
+    },
+    "ranchi::bariatu": {
+      "median": 4962.0,
+      "q25": 4345.0,
+      "q75": 5702.0,
+      "count": 82
+    },
+    "ranchi::bariatu road": {
+      "median": 4837.0,
+      "q25": 4403.0,
+      "q75": 5619.0,
+      "count": 26
+    },
+    "ranchi::booty more": {
+      "median": 5785.0,
+      "q25": 5141.0,
+      "q75": 6450.0,
+      "count": 8
+    },
+    "ranchi::cheshire home road": {
+      "median": 5976.0,
+      "q25": 4971.0,
+      "q75": 6539.0,
+      "count": 6
+    },
+    "ranchi::chiraundi": {
+      "median": 5122.0,
+      "q25": 4393.0,
+      "q75": 5525.0,
+      "count": 7
+    },
+    "ranchi::doranda": {
+      "median": 5963.0,
+      "q25": 5338.0,
+      "q75": 6667.0,
+      "count": 11
+    },
+    "ranchi::harmu colony": {
+      "median": 5167.0,
+      "q25": 4648.0,
+      "q75": 6256.0,
+      "count": 14
+    },
+    "ranchi::hatia": {
+      "median": 4600.0,
+      "q25": 3907.0,
+      "q75": 5495.0,
+      "count": 15
+    },
+    "ranchi::hawai nagar": {
+      "median": 6872.0,
+      "q25": 5245.0,
+      "q75": 6872.0,
+      "count": 5
+    },
+    "ranchi::hesag": {
+      "median": 4138.0,
+      "q25": 3970.0,
+      "q75": 4460.0,
+      "count": 7
+    },
+    "ranchi::hinoo": {
+      "median": 5743.0,
+      "q25": 4661.0,
+      "q75": 6019.0,
+      "count": 12
+    },
+    "ranchi::kanke": {
+      "median": 5050.0,
+      "q25": 4031.0,
+      "q75": 6549.0,
+      "count": 16
+    },
+    "ranchi::kantatoli": {
+      "median": 5260.0,
+      "q25": 4196.0,
+      "q75": 6145.0,
+      "count": 6
+    },
+    "ranchi::kathal more": {
+      "median": 5000.0,
+      "q25": 4392.0,
+      "q75": 5417.0,
+      "count": 26
+    },
+    "ranchi::kokar": {
+      "median": 4167.0,
+      "q25": 3767.0,
+      "q75": 5330.0,
+      "count": 11
+    },
+    "ranchi::lalpur": {
+      "median": 5564.0,
+      "q25": 4832.0,
+      "q75": 6879.0,
+      "count": 42
+    },
+    "ranchi::main road": {
+      "median": 5584.0,
+      "q25": 5469.0,
+      "q75": 5642.0,
+      "count": 5
+    },
+    "ranchi::morabadi": {
+      "median": 4545.0,
+      "q25": 3917.0,
+      "q75": 5556.0,
+      "count": 37
+    },
+    "ranchi::namkum": {
+      "median": 4257.0,
+      "q25": 4042.0,
+      "q75": 4781.0,
+      "count": 19
+    },
+    "ranchi::north office para": {
+      "median": 5611.0,
+      "q25": 4999.0,
+      "q75": 6139.0,
+      "count": 10
+    },
+    "ranchi::other": {
+      "median": 4675.0,
+      "q25": 4000.0,
+      "q75": 5667.0,
+      "count": 138
+    },
+    "ranchi::p p compound": {
+      "median": 6381.0,
+      "q25": 5556.0,
+      "q75": 7103.0,
+      "count": 5
+    },
+    "ranchi::piska more": {
+      "median": 5308.0,
+      "q25": 5219.0,
+      "q75": 5591.0,
+      "count": 6
+    },
+    "ranchi::pundag": {
+      "median": 5300.0,
+      "q25": 4830.0,
+      "q75": 5312.0,
+      "count": 5
+    },
+    "ranchi::ratu road": {
+      "median": 5357.0,
+      "q25": 4387.0,
+      "q75": 5812.0,
+      "count": 7
+    },
+    "ranchi::singh more": {
+      "median": 4419.0,
+      "q25": 4080.0,
+      "q75": 5000.0,
+      "count": 36
+    },
+    "ranchi::south office para": {
+      "median": 5042.0,
+      "q25": 4056.0,
+      "q75": 6333.0,
+      "count": 7
+    },
+    "ranchi::tupudana": {
+      "median": 4591.0,
+      "q25": 4282.0,
+      "q75": 4886.0,
+      "count": 8
+    },
+    "satara::other": {
+      "median": 3299.0,
+      "q25": 2917.0,
+      "q75": 3862.0,
+      "count": 21
+    },
+    "shimla::other": {
+      "median": 7317.0,
+      "q25": 6249.0,
+      "q75": 9194.0,
+      "count": 23
+    },
+    "siliguri::ashram para": {
+      "median": 4537.0,
+      "q25": 4072.0,
+      "q75": 4757.0,
+      "count": 5
+    },
+    "siliguri::chayan para": {
+      "median": 4658.0,
+      "q25": 3929.0,
+      "q75": 5207.0,
+      "count": 6
+    },
+    "siliguri::dagapur": {
+      "median": 4269.0,
+      "q25": 4242.0,
+      "q75": 5584.0,
+      "count": 13
+    },
+    "siliguri::deshbandhu para": {
+      "median": 4393.0,
+      "q25": 4085.0,
+      "q75": 4580.0,
+      "count": 6
+    },
+    "siliguri::devidanga": {
+      "median": 3998.0,
+      "q25": 3996.0,
+      "q75": 4004.0,
+      "count": 9
+    },
+    "siliguri::hakim para": {
+      "median": 4637.0,
+      "q25": 4444.0,
+      "q75": 5618.0,
+      "count": 5
+    },
+    "siliguri::hill cart road": {
+      "median": 4400.0,
+      "q25": 4327.0,
+      "q75": 4661.0,
+      "count": 7
+    },
+    "siliguri::jyoti nagar": {
+      "median": 5123.0,
+      "q25": 4570.0,
+      "q75": 5469.0,
+      "count": 10
+    },
+    "siliguri::matigara": {
+      "median": 5201.0,
+      "q25": 4783.0,
+      "q75": 5609.0,
+      "count": 20
+    },
+    "siliguri::other": {
+      "median": 4346.0,
+      "q25": 3571.0,
+      "q75": 5803.0,
+      "count": 56
+    },
+    "siliguri::pradhan nagar": {
+      "median": 5083.0,
+      "q25": 4535.0,
+      "q75": 5620.0,
+      "count": 7
+    },
+    "siliguri::ranidanga": {
+      "median": 3643.0,
+      "q25": 3472.0,
+      "q75": 3979.0,
+      "count": 10
+    },
+    "siliguri::salbari": {
+      "median": 4667.0,
+      "q25": 3600.0,
+      "q75": 5225.0,
+      "count": 5
+    },
+    "siliguri::salugara": {
+      "median": 3822.0,
+      "q25": 3750.0,
+      "q75": 4988.0,
+      "count": 9
+    },
+    "siliguri::sevoke road": {
+      "median": 5644.0,
+      "q25": 5037.0,
+      "q75": 6414.0,
+      "count": 10
+    },
+    "siliguri::shiv mandir road": {
+      "median": 4454.0,
+      "q25": 4000.0,
+      "q75": 4512.0,
+      "count": 5
+    },
+    "solapur::other": {
+      "median": 4059.0,
+      "q25": 3718.0,
+      "q75": 4930.0,
+      "count": 10
+    },
+    "sonipat::grand trunk road": {
+      "median": 5778.0,
+      "q25": 4541.0,
+      "q75": 6757.0,
+      "count": 15
+    },
+    "sonipat::kundli": {
+      "median": 3333.0,
+      "q25": 2685.0,
+      "q75": 3832.0,
+      "count": 204
+    },
+    "sonipat::nh-1": {
+      "median": 2857.0,
+      "q25": 2469.0,
+      "q75": 3103.0,
+      "count": 17
+    },
+    "sonipat::omaxe city": {
+      "median": 2790.0,
+      "q25": 2469.0,
+      "q75": 3086.0,
+      "count": 5
+    },
+    "sonipat::other": {
+      "median": 5314.0,
+      "q25": 3548.0,
+      "q75": 6667.0,
+      "count": 17
+    },
+    "sonipat::sector 27": {
+      "median": 4760.0,
+      "q25": 4504.0,
+      "q75": 5000.0,
+      "count": 5
+    },
+    "sonipat::sector 35": {
+      "median": 3889.0,
+      "q25": 3364.0,
+      "q75": 5793.0,
+      "count": 24
+    },
+    "sonipat::sector 8": {
+      "median": 7037.0,
+      "q25": 5882.0,
+      "q75": 8065.0,
+      "count": 21
+    },
+    "sonipat::tdi city kundli": {
+      "median": 2906.0,
+      "q25": 2545.0,
+      "q75": 3597.0,
+      "count": 163
+    },
+    "surat::adajan": {
+      "median": 5583.0,
+      "q25": 3909.0,
+      "q75": 6832.0,
+      "count": 63
+    },
+    "surat::althan": {
+      "median": 6761.0,
+      "q25": 5876.0,
+      "q75": 8136.0,
+      "count": 50
+    },
+    "surat::amroli": {
+      "median": 3143.0,
+      "q25": 3000.0,
+      "q75": 4000.0,
+      "count": 9
+    },
+    "surat::anand mahal road": {
+      "median": 4554.0,
+      "q25": 3299.0,
+      "q75": 6000.0,
+      "count": 5
+    },
+    "surat::bhatar": {
+      "median": 3482.0,
+      "q25": 3258.0,
+      "q75": 4562.0,
+      "count": 6
+    },
+    "surat::bhatar road": {
+      "median": 4196.0,
+      "q25": 3208.0,
+      "q75": 4396.0,
+      "count": 5
+    },
+    "surat::bhestan": {
+      "median": 3201.0,
+      "q25": 2836.0,
+      "q75": 3267.0,
+      "count": 5
+    },
+    "surat::bhimrad": {
+      "median": 7464.0,
+      "q25": 6719.0,
+      "q75": 8182.0,
+      "count": 20
+    },
+    "surat::citylight area": {
+      "median": 5000.0,
+      "q25": 4583.0,
+      "q75": 7281.0,
+      "count": 9
+    },
+    "surat::dindoli": {
+      "median": 2648.0,
+      "q25": 2313.0,
+      "q75": 3762.0,
+      "count": 24
+    },
+    "surat::dumas road": {
+      "median": 7853.0,
+      "q25": 6988.0,
+      "q75": 9396.0,
+      "count": 18
+    },
+    "surat::ghod dod road": {
+      "median": 5652.0,
+      "q25": 5071.0,
+      "q75": 6898.0,
+      "count": 11
+    },
+    "surat::jahangir pura": {
+      "median": 5534.0,
+      "q25": 5000.0,
+      "q75": 5692.0,
+      "count": 13
+    },
+    "surat::jahangirabad": {
+      "median": 5665.0,
+      "q25": 5395.0,
+      "q75": 5960.0,
+      "count": 40
+    },
+    "surat::katar gam": {
+      "median": 2604.0,
+      "q25": 2541.0,
+      "q75": 3871.0,
+      "count": 5
+    },
+    "surat::nanpura": {
+      "median": 3251.0,
+      "q25": 2994.0,
+      "q75": 3616.0,
+      "count": 8
+    },
+    "surat::other": {
+      "median": 3788.0,
+      "q25": 3122.0,
+      "q75": 5104.0,
+      "count": 142
+    },
+    "surat::pal": {
+      "median": 7835.0,
+      "q25": 6495.0,
+      "q75": 9364.0,
+      "count": 95
+    },
+    "surat::pal gam": {
+      "median": 6164.0,
+      "q25": 4310.0,
+      "q75": 7602.0,
+      "count": 16
+    },
+    "surat::palan pur patiya": {
+      "median": 4667.0,
+      "q25": 3989.0,
+      "q75": 6466.0,
+      "count": 7
+    },
+    "surat::palanpur": {
+      "median": 6417.0,
+      "q25": 5541.0,
+      "q75": 6933.0,
+      "count": 93
+    },
+    "surat::palanpur gam": {
+      "median": 5732.0,
+      "q25": 4804.0,
+      "q75": 6848.0,
+      "count": 38
+    },
+    "surat::parley point": {
+      "median": 5660.0,
+      "q25": 5538.0,
+      "q75": 6923.0,
+      "count": 9
+    },
+    "surat::piplod": {
+      "median": 9286.0,
+      "q25": 6653.0,
+      "q75": 14481.0,
+      "count": 16
+    },
+    "surat::udhna": {
+      "median": 3429.0,
+      "q25": 2941.0,
+      "q75": 4571.0,
+      "count": 5
+    },
+    "surat::vesu": {
+      "median": 9867.0,
+      "q25": 7692.0,
+      "q75": 11298.0,
+      "count": 105
+    },
+    "surat::vesu canal road": {
+      "median": 8371.0,
+      "q25": 5992.0,
+      "q75": 9151.0,
+      "count": 6
+    },
+    "surat::vip road": {
+      "median": 7688.0,
+      "q25": 7345.0,
+      "q75": 10540.0,
+      "count": 7
+    },
+    "thane::ambernath": {
+      "median": 6087.0,
+      "q25": 5659.0,
+      "q75": 6250.0,
+      "count": 13
+    },
+    "thane::ambernath east": {
+      "median": 5789.0,
+      "q25": 5567.0,
+      "q75": 6400.0,
+      "count": 7
+    },
+    "thane::anand nagar": {
+      "median": 13022.0,
+      "q25": 12733.0,
+      "q75": 13703.0,
+      "count": 8
+    },
+    "thane::badlapur": {
+      "median": 5714.0,
+      "q25": 5293.0,
+      "q75": 5972.0,
+      "count": 7
+    },
+    "thane::balkum pada": {
+      "median": 17844.0,
+      "q25": 14869.0,
+      "q75": 18779.0,
+      "count": 8
+    },
+    "thane::bhayandarpada": {
+      "median": 12451.0,
+      "q25": 11345.0,
+      "q75": 13771.0,
+      "count": 17
+    },
+    "thane::bhiwandi": {
+      "median": 6104.0,
+      "q25": 5197.0,
+      "q75": 8232.0,
+      "count": 5
+    },
+    "thane::brahmand": {
+      "median": 12667.0,
+      "q25": 11594.0,
+      "q75": 14220.0,
+      "count": 6
+    },
+    "thane::dhokli naka": {
+      "median": 17374.0,
+      "q25": 17060.0,
+      "q75": 17571.0,
+      "count": 6
+    },
+    "thane::dombivli": {
+      "median": 9483.0,
+      "q25": 7595.0,
+      "q75": 9914.0,
+      "count": 16
+    },
+    "thane::dombivli east": {
+      "median": 8950.0,
+      "q25": 7000.0,
+      "q75": 11440.0,
+      "count": 33
+    },
+    "thane::dombivli west": {
+      "median": 9351.0,
+      "q25": 9083.0,
+      "q75": 10052.0,
+      "count": 7
+    },
+    "thane::ghodbunder road": {
+      "median": 15008.0,
+      "q25": 12939.0,
+      "q75": 20560.0,
+      "count": 58
+    },
+    "thane::hiranandani estate": {
+      "median": 22368.0,
+      "q25": 18919.0,
+      "q75": 25442.0,
+      "count": 33
+    },
+    "thane::kalyan": {
+      "median": 8369.0,
+      "q25": 7806.0,
+      "q75": 9631.0,
+      "count": 6
+    },
+    "thane::kalyan west": {
+      "median": 11181.0,
+      "q25": 10063.0,
+      "q75": 11327.0,
+      "count": 6
+    },
+    "thane::kasarvadavali": {
+      "median": 13281.0,
+      "q25": 12434.0,
+      "q75": 14430.0,
+      "count": 23
+    },
+    "thane::kavesar": {
+      "median": 15288.0,
+      "q25": 13771.0,
+      "q75": 16112.0,
+      "count": 10
+    },
+    "thane::kolshet": {
+      "median": 16369.0,
+      "q25": 15456.0,
+      "q75": 17312.0,
+      "count": 11
+    },
+    "thane::kolshet road": {
+      "median": 17959.0,
+      "q25": 16463.0,
+      "q75": 18576.0,
+      "count": 19
+    },
+    "thane::majiwada": {
+      "median": 17747.0,
+      "q25": 16764.0,
+      "q75": 21952.0,
+      "count": 39
+    },
+    "thane::manpada": {
+      "median": 17462.0,
+      "q25": 16462.0,
+      "q75": 21759.0,
+      "count": 34
+    },
+    "thane::other": {
+      "median": 13947.0,
+      "q25": 7334.0,
+      "q75": 19561.0,
+      "count": 146
+    },
+    "thane::palava city": {
+      "median": 7157.0,
+      "q25": 6998.0,
+      "q75": 7323.0,
+      "count": 14
+    },
+    "thane::panch pakhdi": {
+      "median": 21994.0,
+      "q25": 21146.0,
+      "q75": 22090.0,
+      "count": 15
+    },
+    "thane::patlipada": {
+      "median": 25956.0,
+      "q25": 22801.0,
+      "q75": 26487.0,
+      "count": 8
+    },
+    "thane::pokharan road number 2": {
+      "median": 20918.0,
+      "q25": 20548.0,
+      "q75": 23639.0,
+      "count": 13
+    },
+    "thane::pokhran road": {
+      "median": 22892.0,
+      "q25": 20719.0,
+      "q75": 24094.0,
+      "count": 5
+    },
+    "thane::shilphata": {
+      "median": 8675.0,
+      "q25": 7647.0,
+      "q75": 9362.0,
+      "count": 10
+    },
+    "thane::teen hath naka area": {
+      "median": 22143.0,
+      "q25": 20121.0,
+      "q75": 23186.0,
+      "count": 7
+    },
+    "thane::thakurli": {
+      "median": 10644.0,
+      "q25": 10033.0,
+      "q75": 11177.0,
+      "count": 20
+    },
+    "thane::titwala": {
+      "median": 6364.0,
+      "q25": 5851.0,
+      "q75": 6724.0,
+      "count": 7
+    },
+    "thane::vasant vihar": {
+      "median": 20662.0,
+      "q25": 16279.0,
+      "q75": 24283.0,
+      "count": 9
+    },
+    "thane::waghbil": {
+      "median": 15738.0,
+      "q25": 13980.0,
+      "q75": 16861.0,
+      "count": 10
+    },
+    "thrissur::ayyanthole": {
+      "median": 4867.0,
+      "q25": 4019.0,
+      "q75": 5088.0,
+      "count": 7
+    },
+    "thrissur::chembukkav": {
+      "median": 5268.0,
+      "q25": 4174.0,
+      "q75": 6999.0,
+      "count": 6
+    },
+    "thrissur::other": {
+      "median": 5333.0,
+      "q25": 3968.0,
+      "q75": 7181.0,
+      "count": 58
+    },
+    "thrissur::punkunnam": {
+      "median": 5213.0,
+      "q25": 4775.0,
+      "q75": 5882.0,
+      "count": 17
+    },
+    "thrissur::viyyur": {
+      "median": 6818.0,
+      "q25": 5568.0,
+      "q75": 6875.0,
+      "count": 5
+    },
+    "tirupati::other": {
+      "median": 4583.0,
+      "q25": 4000.0,
+      "q75": 5111.0,
+      "count": 45
+    },
+    "tirupati::tiruchanoor": {
+      "median": 4528.0,
+      "q25": 4155.0,
+      "q75": 4675.0,
+      "count": 7
+    },
+    "trichy::cantonment": {
+      "median": 5069.0,
+      "q25": 4610.0,
+      "q75": 5735.0,
+      "count": 6
+    },
+    "trichy::other": {
+      "median": 5405.0,
+      "q25": 4000.0,
+      "q75": 6211.0,
+      "count": 29
+    },
+    "trichy::srirangam": {
+      "median": 6569.0,
+      "q25": 6102.0,
+      "q75": 6989.0,
+      "count": 17
+    },
+    "trivandrum::kazhakkottam": {
+      "median": 5972.0,
+      "q25": 4886.0,
+      "q75": 8186.0,
+      "count": 8
+    },
+    "trivandrum::other": {
+      "median": 5769.0,
+      "q25": 4895.0,
+      "q75": 6944.0,
+      "count": 69
+    },
+    "udaipur::bhuwana": {
+      "median": 5310.0,
+      "q25": 4646.0,
+      "q75": 6121.0,
+      "count": 6
+    },
+    "udaipur::other": {
+      "median": 4167.0,
+      "q25": 3532.0,
+      "q75": 5564.0,
+      "count": 39
+    },
+    "udupi::other": {
+      "median": 3704.0,
+      "q25": 3125.0,
+      "q75": 4107.0,
+      "count": 29
+    },
+    "vadodara::ajwa road": {
+      "median": 3333.0,
+      "q25": 3152.0,
+      "q75": 3632.0,
+      "count": 13
+    },
+    "vadodara::akota": {
+      "median": 6171.0,
+      "q25": 4500.0,
+      "q75": 7188.0,
+      "count": 45
+    },
+    "vadodara::alkapuri": {
+      "median": 6364.0,
+      "q25": 4516.0,
+      "q75": 7286.0,
+      "count": 37
+    },
+    "vadodara::atladra": {
+      "median": 3894.0,
+      "q25": 3416.0,
+      "q75": 4230.0,
+      "count": 48
+    },
+    "vadodara::bhayli": {
+      "median": 4273.0,
+      "q25": 3694.0,
+      "q75": 4902.0,
+      "count": 63
+    },
+    "vadodara::bill": {
+      "median": 2941.0,
+      "q25": 2532.0,
+      "q75": 3344.0,
+      "count": 19
+    },
+    "vadodara::chhani": {
+      "median": 4439.0,
+      "q25": 3429.0,
+      "q75": 4915.0,
+      "count": 24
+    },
+    "vadodara::chhani jakat naka": {
+      "median": 4667.0,
+      "q25": 3741.0,
+      "q75": 5324.0,
+      "count": 7
+    },
+    "vadodara::dabhoi road": {
+      "median": 3682.0,
+      "q25": 3409.0,
+      "q75": 4455.0,
+      "count": 5
+    },
+    "vadodara::diwalipura": {
+      "median": 4816.0,
+      "q25": 3581.0,
+      "q75": 5804.0,
+      "count": 14
+    },
+    "vadodara::ellora park": {
+      "median": 5556.0,
+      "q25": 4538.0,
+      "q75": 6768.0,
+      "count": 11
+    },
+    "vadodara::fatehgunj": {
+      "median": 5740.0,
+      "q25": 4484.0,
+      "q75": 6880.0,
+      "count": 14
+    },
+    "vadodara::gorwa": {
+      "median": 4429.0,
+      "q25": 3629.0,
+      "q75": 6315.0,
+      "count": 11
+    },
+    "vadodara::gotri": {
+      "median": 4400.0,
+      "q25": 3889.0,
+      "q75": 5278.0,
+      "count": 85
+    },
+    "vadodara::gotri road gotri": {
+      "median": 4330.0,
+      "q25": 3723.0,
+      "q75": 4989.0,
+      "count": 16
+    },
+    "vadodara::hari nagar": {
+      "median": 4500.0,
+      "q25": 4500.0,
+      "q75": 4873.0,
+      "count": 5
+    },
+    "vadodara::harni": {
+      "median": 5188.0,
+      "q25": 3943.0,
+      "q75": 5686.0,
+      "count": 20
+    },
+    "vadodara::harni road": {
+      "median": 5642.0,
+      "q25": 5000.0,
+      "q75": 6146.0,
+      "count": 5
+    },
+    "vadodara::kalali": {
+      "median": 3676.0,
+      "q25": 3388.0,
+      "q75": 4692.0,
+      "count": 29
+    },
+    "vadodara::karelibaug": {
+      "median": 5503.0,
+      "q25": 4735.0,
+      "q75": 6374.0,
+      "count": 20
+    },
+    "vadodara::khodiyar nagar": {
+      "median": 4966.0,
+      "q25": 3182.0,
+      "q75": 5484.0,
+      "count": 9
+    },
+    "vadodara::makar pura": {
+      "median": 3138.0,
+      "q25": 2889.0,
+      "q75": 3554.0,
+      "count": 16
+    },
+    "vadodara::maneja": {
+      "median": 3367.0,
+      "q25": 2594.0,
+      "q75": 4282.0,
+      "count": 8
+    },
+    "vadodara::manjalpur": {
+      "median": 5055.0,
+      "q25": 4444.0,
+      "q75": 5682.0,
+      "count": 42
+    },
+    "vadodara::new alkapuri": {
+      "median": 5329.0,
+      "q25": 5000.0,
+      "q75": 5922.0,
+      "count": 42
+    },
+    "vadodara::new kareli baug": {
+      "median": 4286.0,
+      "q25": 3538.0,
+      "q75": 4400.0,
+      "count": 9
+    },
+    "vadodara::new sama": {
+      "median": 4653.0,
+      "q25": 4463.0,
+      "q75": 4947.0,
+      "count": 6
+    },
+    "vadodara::new sama road chanakyapuri society": {
+      "median": 4444.0,
+      "q25": 3721.0,
+      "q75": 5595.0,
+      "count": 8
+    },
+    "vadodara::old padra road": {
+      "median": 5347.0,
+      "q25": 4390.0,
+      "q75": 5640.0,
+      "count": 16
+    },
+    "vadodara::other": {
+      "median": 3881.0,
+      "q25": 3000.0,
+      "q75": 5000.0,
+      "count": 186
+    },
+    "vadodara::race course road": {
+      "median": 7804.0,
+      "q25": 5968.0,
+      "q75": 10793.0,
+      "count": 14
+    },
+    "vadodara::saiyed vasna": {
+      "median": 5294.0,
+      "q25": 4412.0,
+      "q75": 6000.0,
+      "count": 5
+    },
+    "vadodara::sama": {
+      "median": 4853.0,
+      "q25": 4268.0,
+      "q75": 5500.0,
+      "count": 12
+    },
+    "vadodara::sama savli road": {
+      "median": 5140.0,
+      "q25": 4429.0,
+      "q75": 6000.0,
+      "count": 40
+    },
+    "vadodara::sayajigunj": {
+      "median": 4750.0,
+      "q25": 3194.0,
+      "q75": 5000.0,
+      "count": 9
+    },
+    "vadodara::sayajipura": {
+      "median": 3467.0,
+      "q25": 2852.0,
+      "q75": 4167.0,
+      "count": 5
+    },
+    "vadodara::sevasi": {
+      "median": 4800.0,
+      "q25": 4312.0,
+      "q75": 5714.0,
+      "count": 37
+    },
+    "vadodara::soma talav": {
+      "median": 3212.0,
+      "q25": 2523.0,
+      "q75": 3624.0,
+      "count": 6
+    },
+    "vadodara::subhanpura": {
+      "median": 4118.0,
+      "q25": 3650.0,
+      "q75": 5000.0,
+      "count": 29
+    },
+    "vadodara::sun pharma road": {
+      "median": 4114.0,
+      "q25": 3816.0,
+      "q75": 4529.0,
+      "count": 20
+    },
+    "vadodara::tandalja": {
+      "median": 4526.0,
+      "q25": 3632.0,
+      "q75": 4736.0,
+      "count": 15
+    },
+    "vadodara::tarsali": {
+      "median": 3693.0,
+      "q25": 2792.0,
+      "q75": 4117.0,
+      "count": 18
+    },
+    "vadodara::tp 13": {
+      "median": 3818.0,
+      "q25": 3684.0,
+      "q75": 4542.0,
+      "count": 5
+    },
+    "vadodara::vadsar": {
+      "median": 3909.0,
+      "q25": 3379.0,
+      "q75": 4444.0,
+      "count": 22
+    },
+    "vadodara::vasant vihar": {
+      "median": 4609.0,
+      "q25": 4286.0,
+      "q75": 4667.0,
+      "count": 5
+    },
+    "vadodara::vasna bhayli main road": {
+      "median": 4749.0,
+      "q25": 3935.0,
+      "q75": 5921.0,
+      "count": 172
+    },
+    "vadodara::vasna road": {
+      "median": 4453.0,
+      "q25": 3773.0,
+      "q75": 5844.0,
+      "count": 46
+    },
+    "vadodara::vemali": {
+      "median": 4205.0,
+      "q25": 3758.0,
+      "q75": 4837.0,
+      "count": 16
+    },
+    "vadodara::waghodia": {
+      "median": 3625.0,
+      "q25": 3448.0,
+      "q75": 4669.0,
+      "count": 9
+    },
+    "vadodara::waghodia road": {
+      "median": 3205.0,
+      "q25": 2750.0,
+      "q75": 4071.0,
+      "count": 29
+    },
+    "vapi::chala": {
+      "median": 3489.0,
+      "q25": 3269.0,
+      "q75": 3822.0,
+      "count": 12
+    },
+    "vapi::chanod colony": {
+      "median": 2308.0,
+      "q25": 1818.0,
+      "q75": 3400.0,
+      "count": 5
+    },
+    "vapi::chharwada": {
+      "median": 3760.0,
+      "q25": 2668.0,
+      "q75": 4574.0,
+      "count": 6
+    },
+    "vapi::gunjan road": {
+      "median": 3439.0,
+      "q25": 2646.0,
+      "q75": 4464.0,
+      "count": 7
+    },
+    "vapi::other": {
+      "median": 3000.0,
+      "q25": 2088.0,
+      "q75": 3400.0,
+      "count": 28
+    },
+    "varanasi::mahmurganj": {
+      "median": 4803.0,
+      "q25": 4190.0,
+      "q75": 5076.0,
+      "count": 6
+    },
+    "varanasi::other": {
+      "median": 6000.0,
+      "q25": 5186.0,
+      "q75": 7538.0,
+      "count": 86
+    },
+    "varanasi::paharia": {
+      "median": 4760.0,
+      "q25": 4676.0,
+      "q75": 5476.0,
+      "count": 5
+    },
+    "varanasi::shivpur": {
+      "median": 6647.0,
+      "q25": 5556.0,
+      "q75": 7510.0,
+      "count": 13
+    },
+    "varanasi::sigra": {
+      "median": 6500.0,
+      "q25": 6244.0,
+      "q75": 8002.0,
+      "count": 7
+    },
+    "vijayawada::ajit sing nagar": {
+      "median": 4148.0,
+      "q25": 3171.0,
+      "q75": 4628.0,
+      "count": 7
+    },
+    "vijayawada::gannavaram": {
+      "median": 4169.0,
+      "q25": 3618.0,
+      "q75": 5107.0,
+      "count": 10
+    },
+    "vijayawada::gollapudi": {
+      "median": 4003.0,
+      "q25": 3324.0,
+      "q75": 5278.0,
+      "count": 14
+    },
+    "vijayawada::gunadala": {
+      "median": 6378.0,
+      "q25": 6326.0,
+      "q75": 6419.0,
+      "count": 5
+    },
+    "vijayawada::guntupalli": {
+      "median": 3977.0,
+      "q25": 3665.0,
+      "q75": 4768.0,
+      "count": 6
+    },
+    "vijayawada::guntur": {
+      "median": 4203.0,
+      "q25": 3789.0,
+      "q75": 4952.0,
+      "count": 6
+    },
+    "vijayawada::kanuru": {
+      "median": 4756.0,
+      "q25": 4285.0,
+      "q75": 6091.0,
+      "count": 24
+    },
+    "vijayawada::murali nagar": {
+      "median": 4239.0,
+      "q25": 3137.0,
+      "q75": 5500.0,
+      "count": 6
+    },
+    "vijayawada::other": {
+      "median": 4724.0,
+      "q25": 3970.0,
+      "q75": 6000.0,
+      "count": 139
+    },
+    "vijayawada::patamata": {
+      "median": 6220.0,
+      "q25": 5120.0,
+      "q75": 7783.0,
+      "count": 8
+    },
+    "vijayawada::penamaluru": {
+      "median": 3333.0,
+      "q25": 3175.0,
+      "q75": 3484.0,
+      "count": 8
+    },
+    "vijayawada::poranki": {
+      "median": 4333.0,
+      "q25": 3957.0,
+      "q75": 4688.0,
+      "count": 15
+    },
+    "vijayawada::prasadampaddu": {
+      "median": 4286.0,
+      "q25": 3636.0,
+      "q75": 4837.0,
+      "count": 15
+    },
+    "vijayawada::ramavarappadu": {
+      "median": 4000.0,
+      "q25": 3811.0,
+      "q75": 5063.0,
+      "count": 7
+    },
+    "vijayawada::satyanarayanapuram": {
+      "median": 5738.0,
+      "q25": 5600.0,
+      "q75": 5833.0,
+      "count": 5
+    },
+    "vijayawada::tadepalle": {
+      "median": 4744.0,
+      "q25": 4132.0,
+      "q75": 5486.0,
+      "count": 10
+    },
+    "vijayawada::tadepalli": {
+      "median": 4612.0,
+      "q25": 3902.0,
+      "q75": 5107.0,
+      "count": 10
+    },
+    "vijayawada::tadigadapa": {
+      "median": 4425.0,
+      "q25": 4032.0,
+      "q75": 4476.0,
+      "count": 6
+    },
+    "vijayawada::yanamalakuduru": {
+      "median": 3618.0,
+      "q25": 3539.0,
+      "q75": 4257.0,
+      "count": 7
+    },
+    "visakhapatnam::aganampudi": {
+      "median": 3707.0,
+      "q25": 3158.0,
+      "q75": 4165.0,
+      "count": 16
+    },
+    "visakhapatnam::akkayyapalem": {
+      "median": 6536.0,
+      "q25": 5376.0,
+      "q75": 8503.0,
+      "count": 10
+    },
+    "visakhapatnam::atchutapuram": {
+      "median": 3201.0,
+      "q25": 3200.0,
+      "q75": 3438.0,
+      "count": 18
+    },
+    "visakhapatnam::bakkannapalem": {
+      "median": 4875.0,
+      "q25": 4588.0,
+      "q75": 5345.0,
+      "count": 8
+    },
+    "visakhapatnam::bheemili": {
+      "median": 3350.0,
+      "q25": 3162.0,
+      "q75": 3881.0,
+      "count": 10
+    },
+    "visakhapatnam::cbm compound": {
+      "median": 8352.0,
+      "q25": 8304.0,
+      "q75": 8506.0,
+      "count": 5
+    },
+    "visakhapatnam::chinamushidiwada": {
+      "median": 3964.0,
+      "q25": 3355.0,
+      "q75": 4229.0,
+      "count": 6
+    },
+    "visakhapatnam::chinnamusidivada": {
+      "median": 4167.0,
+      "q25": 4095.0,
+      "q75": 4464.0,
+      "count": 7
+    },
+    "visakhapatnam::doctor ntr beach road": {
+      "median": 7000.0,
+      "q25": 6433.0,
+      "q75": 11500.0,
+      "count": 5
+    },
+    "visakhapatnam::east point colony": {
+      "median": 8000.0,
+      "q25": 7608.0,
+      "q75": 9914.0,
+      "count": 7
+    },
+    "visakhapatnam::endada": {
+      "median": 6021.0,
+      "q25": 5195.0,
+      "q75": 6552.0,
+      "count": 7
+    },
+    "visakhapatnam::gajuwaka": {
+      "median": 4220.0,
+      "q25": 3600.0,
+      "q75": 4873.0,
+      "count": 26
+    },
+    "visakhapatnam::gajwaka jn": {
+      "median": 3715.0,
+      "q25": 3600.0,
+      "q75": 4140.0,
+      "count": 25
+    },
+    "visakhapatnam::gopalpatnam": {
+      "median": 4371.0,
+      "q25": 3762.0,
+      "q75": 5264.0,
+      "count": 10
+    },
+    "visakhapatnam::hb colony": {
+      "median": 7111.0,
+      "q25": 6149.0,
+      "q75": 7909.0,
+      "count": 7
+    },
+    "visakhapatnam::kakani nagar": {
+      "median": 5769.0,
+      "q25": 5450.0,
+      "q75": 6258.0,
+      "count": 7
+    },
+    "visakhapatnam::kancharapalem": {
+      "median": 6939.0,
+      "q25": 5851.0,
+      "q75": 7778.0,
+      "count": 5
+    },
+    "visakhapatnam::kirlampudi layout": {
+      "median": 8856.0,
+      "q25": 8159.0,
+      "q75": 9242.0,
+      "count": 6
+    },
+    "visakhapatnam::kommadi": {
+      "median": 5146.0,
+      "q25": 4711.0,
+      "q75": 5403.0,
+      "count": 22
+    },
+    "visakhapatnam::kothavalasa": {
+      "median": 3348.0,
+      "q25": 2779.0,
+      "q75": 4867.0,
+      "count": 8
+    },
+    "visakhapatnam::kurmannapalem": {
+      "median": 4000.0,
+      "q25": 3606.0,
+      "q75": 4479.0,
+      "count": 44
+    },
+    "visakhapatnam::lankalapalem": {
+      "median": 3066.0,
+      "q25": 3019.0,
+      "q75": 3085.0,
+      "count": 11
+    },
+    "visakhapatnam::lawsons bay colony": {
+      "median": 10719.0,
+      "q25": 7963.0,
+      "q75": 11423.0,
+      "count": 7
+    },
+    "visakhapatnam::maddilapalem": {
+      "median": 6300.0,
+      "q25": 5494.0,
+      "q75": 8485.0,
+      "count": 7
+    },
+    "visakhapatnam::madhavadhara": {
+      "median": 6286.0,
+      "q25": 5780.0,
+      "q75": 7333.0,
+      "count": 9
+    },
+    "visakhapatnam::madhuranagar": {
+      "median": 8833.0,
+      "q25": 7917.0,
+      "q75": 9429.0,
+      "count": 6
+    },
+    "visakhapatnam::madhurawada": {
+      "median": 5483.0,
+      "q25": 4571.0,
+      "q75": 6047.0,
+      "count": 142
+    },
+    "visakhapatnam::maharani peta": {
+      "median": 6118.0,
+      "q25": 4286.0,
+      "q75": 8667.0,
+      "count": 9
+    },
+    "visakhapatnam::marripalem": {
+      "median": 6733.0,
+      "q25": 4417.0,
+      "q75": 7287.0,
+      "count": 8
+    },
+    "visakhapatnam::midhilapuri vuda colony": {
+      "median": 5116.0,
+      "q25": 4710.0,
+      "q75": 5655.0,
+      "count": 11
+    },
+    "visakhapatnam::muralinagar": {
+      "median": 7390.0,
+      "q25": 5150.0,
+      "q75": 7789.0,
+      "count": 12
+    },
+    "visakhapatnam::mvp colony": {
+      "median": 8333.0,
+      "q25": 7248.0,
+      "q75": 9357.0,
+      "count": 19
+    },
+    "visakhapatnam::other": {
+      "median": 4839.0,
+      "q25": 3916.0,
+      "q75": 6364.0,
+      "count": 231
+    },
+    "visakhapatnam::pedda waltair": {
+      "median": 9018.0,
+      "q25": 7567.0,
+      "q75": 9963.0,
+      "count": 16
+    },
+    "visakhapatnam::pendurthi": {
+      "median": 4000.0,
+      "q25": 3579.0,
+      "q75": 4220.0,
+      "count": 21
+    },
+    "visakhapatnam::pm palem": {
+      "median": 5461.0,
+      "q25": 4640.0,
+      "q75": 5931.0,
+      "count": 72
+    },
+    "visakhapatnam::pothinamallayya palem": {
+      "median": 4600.0,
+      "q25": 4564.0,
+      "q75": 5186.0,
+      "count": 15
+    },
+    "visakhapatnam::purushothapuram": {
+      "median": 4690.0,
+      "q25": 3787.0,
+      "q75": 4893.0,
+      "count": 7
+    },
+    "visakhapatnam::railway new colony": {
+      "median": 5383.0,
+      "q25": 4329.0,
+      "q75": 6000.0,
+      "count": 6
+    },
+    "visakhapatnam::ram nagar": {
+      "median": 6250.0,
+      "q25": 4639.0,
+      "q75": 7548.0,
+      "count": 5
+    },
+    "visakhapatnam::rushikonda": {
+      "median": 6119.0,
+      "q25": 5719.0,
+      "q75": 6817.0,
+      "count": 10
+    },
+    "visakhapatnam::sagar nagar": {
+      "median": 6768.0,
+      "q25": 6216.0,
+      "q75": 7949.0,
+      "count": 6
+    },
+    "visakhapatnam::seethammadhara": {
+      "median": 8093.0,
+      "q25": 7147.0,
+      "q75": 9607.0,
+      "count": 18
+    },
+    "visakhapatnam::sheelanagar": {
+      "median": 4589.0,
+      "q25": 3536.0,
+      "q75": 4937.0,
+      "count": 26
+    },
+    "visakhapatnam::simhachalam": {
+      "median": 3400.0,
+      "q25": 3333.0,
+      "q75": 3723.0,
+      "count": 5
+    },
+    "visakhapatnam::sujatha nagar": {
+      "median": 4286.0,
+      "q25": 3755.0,
+      "q75": 4868.0,
+      "count": 43
+    },
+    "visakhapatnam::vadlapudi": {
+      "median": 3890.0,
+      "q25": 3562.0,
+      "q75": 4113.0,
+      "count": 6
+    },
+    "visakhapatnam::vepagunta": {
+      "median": 3897.0,
+      "q25": 3565.0,
+      "q75": 4141.0,
+      "count": 6
+    },
+    "visakhapatnam::visalakshi nagar": {
+      "median": 7500.0,
+      "q25": 6000.0,
+      "q75": 8067.0,
+      "count": 5
+    },
+    "visakhapatnam::vizag": {
+      "median": 4200.0,
+      "q25": 3842.0,
+      "q75": 5523.0,
+      "count": 7
+    },
+    "visakhapatnam::yendada": {
+      "median": 6767.0,
+      "q25": 6236.0,
+      "q75": 7629.0,
+      "count": 66
+    },
+    "vrindavan::chhatikara road": {
+      "median": 6118.0,
+      "q25": 4808.0,
+      "q75": 6575.0,
+      "count": 7
+    },
+    "vrindavan::other": {
+      "median": 5828.0,
+      "q25": 5040.0,
+      "q75": 7111.0,
+      "count": 25
+    },
+    "zirakpur::affinity greens": {
+      "median": 7824.0,
+      "q25": 7282.0,
+      "q75": 8812.0,
+      "count": 9
+    },
+    "zirakpur::airport road": {
+      "median": 7680.0,
+      "q25": 6691.0,
+      "q75": 8813.0,
+      "count": 152
+    },
+    "zirakpur::ambala highway": {
+      "median": 5000.0,
+      "q25": 4194.0,
+      "q75": 6525.0,
+      "count": 67
+    },
+    "zirakpur::dhakoli": {
+      "median": 4433.0,
+      "q25": 3385.0,
+      "q75": 6031.0,
+      "count": 68
+    },
+    "zirakpur::escon arena zirakpur": {
+      "median": 5500.0,
+      "q25": 4800.0,
+      "q75": 5833.0,
+      "count": 9
+    },
+    "zirakpur::gazipur": {
+      "median": 5333.0,
+      "q25": 4211.0,
+      "q75": 5984.0,
+      "count": 136
+    },
+    "zirakpur::golden sands appartments": {
+      "median": 5543.0,
+      "q25": 5403.0,
+      "q75": 5833.0,
+      "count": 15
+    },
+    "zirakpur::jaipuria sunrise greens": {
+      "median": 3727.0,
+      "q25": 3711.0,
+      "q75": 3899.0,
+      "count": 8
+    },
+    "zirakpur::kishanpura": {
+      "median": 4464.0,
+      "q25": 4082.0,
+      "q75": 5464.0,
+      "count": 13
+    },
+    "zirakpur::maya garden ph 1": {
+      "median": 3630.0,
+      "q25": 3097.0,
+      "q75": 3986.0,
+      "count": 11
+    },
+    "zirakpur::mona greens": {
+      "median": 3690.0,
+      "q25": 3552.0,
+      "q75": 4118.0,
+      "count": 8
+    },
+    "zirakpur::motia aero greens": {
+      "median": 4677.0,
+      "q25": 4471.0,
+      "q75": 6169.0,
+      "count": 6
+    },
+    "zirakpur::motia city": {
+      "median": 4237.0,
+      "q25": 4000.0,
+      "q75": 5048.0,
+      "count": 5
+    },
+    "zirakpur::orvis grand": {
+      "median": 6979.0,
+      "q25": 6771.0,
+      "q75": 7080.0,
+      "count": 11
+    },
+    "zirakpur::other": {
+      "median": 4834.0,
+      "q25": 3756.0,
+      "q75": 6456.0,
+      "count": 103
+    },
+    "zirakpur::patiala road": {
+      "median": 5556.0,
+      "q25": 4615.0,
+      "q75": 6878.0,
+      "count": 165
+    },
+    "zirakpur::peer muchalla": {
+      "median": 4516.0,
+      "q25": 3939.0,
+      "q75": 5417.0,
+      "count": 93
+    },
+    "zirakpur::sbp south city": {
+      "median": 3600.0,
+      "q25": 3285.0,
+      "q75": 4533.0,
+      "count": 15
+    },
+    "zirakpur::singhpura": {
+      "median": 6154.0,
+      "q25": 5236.0,
+      "q75": 6900.0,
+      "count": 13
+    },
+    "zirakpur::vip road": {
+      "median": 4274.0,
+      "q25": 3452.0,
+      "q75": 5372.0,
+      "count": 78
+    }
+  }
+}

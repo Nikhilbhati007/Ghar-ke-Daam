@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large raw datasets (not needed for inference; model bundle is self-contained)
+house_prices.csv
+clean.csv
+data/raw/
+data/processed/
+
+# Notebooks and exploratory files
+*.ipynb
+.ipynb_checkpoints/
+*.docx
+
+# Environment & caches
+.venv/
+env/
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Git & tooling
+.git/
+.gitignore
+.github/
+
+# Reports and temporary artifacts
+reports/
+*.png
+*.webp
+.system_generated/
+.tempmediaStorage/
+.user_uploaded/
+scratch/

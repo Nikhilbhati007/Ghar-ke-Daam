@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large raw datasets
+house_prices.csv
+data/raw/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Pytest & IDE
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+
+# System and ide generated
+.system_generated/
+.tempmediaStorage/
+.user_uploaded/
+scratch/
+*.webp

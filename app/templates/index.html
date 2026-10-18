@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghar ka Daam | AI House Price Predictor & Range Estimator</title>
+    <meta name="description" content="AI-powered Indian property valuation engine with calibrated confidence intervals, cross-city price comparisons, and city median benchmarks.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <!-- Top Navigation Header -->
+    <header class="app-header">
+        <div class="header-container">
+            <div class="logo-group">
+                <div class="logo-icon">🏛️</div>
+                <div>
+                    <h1 class="logo-title">Ghar ka Daam <span class="logo-badge">घर का दाम</span></h1>
+                    <p class="logo-subtitle">State → City → Area Hierarchical Valuation Engine</p>
+                </div>
+            </div>
+            <div class="header-badges">
+                <span class="pill-badge pill-model">⚡ Hierarchical LightGBM</span>
+                <span class="pill-badge pill-data">📊 35k+ Listings • 1,300+ Areas</span>
+                <button id="history-toggle-btn" class="btn-secondary" title="View Recent Valuations">
+                    🕒 History (<span id="history-count">0</span>)
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="main-layout">
+        <!-- Left: Input Control Panel -->
+        <section class="card form-panel">
+            <div class="panel-header">
+                <h2>Property Specifications</h2>
+                <span class="subtext">Select State, City, and Locality for targeted valuation</span>
+            </div>
+
+            <form id="price-form">
+                <!-- 1. State Selector -->
+                <div class="form-group">
+                    <label for="state-select">1. State / Union Territory <span class="required">*</span></label>
+                    <select id="state-select" name="state" class="custom-select" required>
+                        <option value="" disabled selected>Select State...</option>
+                    </select>
+                </div>
+
+                <!-- 2. City Selector -->
+                <div class="form-group">
+                    <label for="location-select">2. City / District <span class="required">*</span></label>
+                    <select id="location-select" name="location" class="custom-select" required>
+                        <option value="" disabled selected>Select State first...</option>
+                    </select>
+                </div>
+
+                <!-- 3. Area / Locality Selector -->
+                <div class="form-group">
+                    <div class="label-row">
+                        <label for="area-select">3. Specific Area / Locality</label>
+                        <span id="area-count-tag" class="count-badge">Select City</span>
+                    </div>
+                    <select id="area-select" name="area" class="custom-select">
+                        <option value="other">⭐ Whole City / General Area</option>
+                    </select>
+                    <input type="text" id="area-filter-input" placeholder="🔍 Type to filter localities..." class="custom-input search-filter-box">
+                </div>
+
+                <!-- Carpet Area (Sq Ft) -->
+                <div class="form-group">
+                    <div class="label-row">
+                        <label for="area-input">Carpet Area (sq ft) <span class="required">*</span></label>
+                        <span id="area-val-display" class="highlight-val">1,000 sq ft</span>
+                    </div>
+                    <input type="number" id="area-input" name="area_sqft" min="100" max="8000" value="1000" class="custom-input" required>
+                    <input type="range" id="area-slider" min="200" max="4000" step="25" value="1000" class="custom-slider">
+                    <div class="preset-chips">
+                        <button type="button" class="chip" data-area="500">500 sq ft</button>
+                        <button type="button" class="chip" data-area="850">850 sq ft</button>
+                        <button type="button" class="chip active" data-area="1000">1,000 sq ft</button>
+                        <button type="button" class="chip" data-area="1500">1,500 sq ft</button>
+                        <button type="button" class="chip" data-area="2200">2,200 sq ft</button>
+                    </div>
+                </div>
+
+                <!-- Bedrooms (BHK) -->
+                <div class="form-group">
+                    <label>Bedrooms (BHK)</label>
+                    <div class="pill-selector" id="bhk-selector">
+                        <label class="pill-option"><input type="radio" name="bhk" value="1"><span>1 BHK</span></label>
+                        <label class="pill-option"><input type="radio" name="bhk" value="2" checked><span>2 BHK</span></label>
+                        <label class="pill-option"><input type="radio" name="bhk" value="3"><span>3 BHK</span></label>
+                        <label class="pill-option"><input type="radio" name="bhk" value="4"><span>4 BHK</span></label>
+                        <label class="pill-option"><input type="radio" name="bhk" value="5"><span>5+ BHK</span></label>
+                    </div>
+                </div>
+
+                <!-- Bathrooms -->
+                <div class="form-group">
+                    <label>Bathrooms</label>
+                    <div class="pill-selector" id="bath-selector">
+                        <label class="pill-option"><input type="radio" name="bathrooms" value="1"><span>1</span></label>
+                        <label class="pill-option"><input type="radio" name="bathrooms" value="2" checked><span>2</span></label>
+                        <label class="pill-option"><input type="radio" name="bathrooms" value="3"><span>3</span></label>
+                        <label class="pill-option"><input type="radio" name="bathrooms" value="4"><span>4+</span></label>
+                    </div>
+                </div>
+
+                <!-- 2-Column: Furnishing & Transaction -->
+                <div class="form-grid-2">
+                    <div class="form-group">
+                        <label for="furnishing-select">Furnishing</label>
+                        <select id="furnishing-select" name="Furnishing" class="custom-select" required>
+                            <option value="Semi-Furnished" selected>Semi-Furnished</option>
+                            <option value="Unfurnished">Unfurnished</option>
+                            <option value="Furnished">Furnished</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="transaction-select">Transaction Type</label>
+                        <select id="transaction-select" name="Transaction" class="custom-select" required>
+                            <option value="Resale" selected>Resale</option>
+                            <option value="New Property">New Property</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Collapsible Floor Details -->
+                <details class="floor-details" id="floor-accordion">
+                    <summary class="floor-summary">
+                        <span>Floor Level & Total Floors (Optional)</span>
+                        <span class="chevron">▼</span>
+                    </summary>
+                    <div class="form-grid-2 details-content">
+                        <div class="form-group">
+                            <label for="floor-no-input">Floor Number</label>
+                            <input type="number" id="floor-no-input" name="floor_no" placeholder="e.g. 5 (Ground = 0)" min="-1" max="100" class="custom-input">
+                        </div>
+                        <div class="form-group">
+                            <label for="total-floors-input">Total Floors</label>
+                            <input type="number" id="total-floors-input" name="total_floors" placeholder="e.g. 15" min="1" max="120" class="custom-input">
+                        </div>
+                    </div>
+                </details>
+
+                <!-- Submit Button -->
+                <button type="submit" id="calculate-btn" class="btn-primary">
+                    <span id="btn-text">Estimate Price & Range ✨</span>
+                    <span id="btn-spinner" class="spinner hidden"></span>
+                </button>
+            </form>
+        </section>
+
+        <!-- Right: Real-time Output & Analytics Panel -->
+        <section class="results-panel">
+            <!-- Hero Result Card -->
+            <div class="card hero-valuation-card" id="valuation-card">
+                <div class="hero-top-row">
+                    <div>
+                        <div class="confidence-strip">
+                            <span class="confidence-badge" id="confidence-badge">🟢 High Confidence</span>
+                            <span class="confidence-note" id="confidence-note">Area estimate</span>
+                        </div>
+                        <h3 class="valuation-heading" id="valuation-title">Target Valuation</h3>
+                    </div>
+                    <div class="latency-tag" id="latency-tag">⚡ ~5 ms</div>
+                </div>
+
+                <div class="price-hero-container">
+                    <div class="main-price" id="res-price">₹ 0.00 Lac</div>
+                    <div class="price-words" id="res-price-words">Calculating valuation...</div>
+                </div>
+
+                <!-- Calibrated Range Display -->
+                <div class="range-container">
+                    <div class="range-labels">
+                        <span class="range-bound" id="range-low-label">Low: ₹ --</span>
+                        <span class="range-confidence">🎯 80% Calibrated Prediction Interval</span>
+                        <span class="range-bound" id="range-high-label">High: ₹ --</span>
+                    </div>
+                    <div class="range-bar-track">
+                        <div class="range-bar-fill"></div>
+                        <div class="range-bar-pin" id="range-pin" style="left: 50%;"></div>
+                    </div>
+                    <div class="range-footer-note">
+                        Statistical 10th to 90th percentile bounds based on conformal quantile regression.
+                    </div>
+                </div>
+
+                <!-- 3-Tier Hierarchical Benchmarks Grid -->
+                <div class="metrics-grid">
+                    <div class="metric-box">
+                        <span class="metric-label">Estimated Rate</span>
+                        <span class="metric-value" id="res-ppsf">₹ -- / sq ft</span>
+                        <span class="metric-sub" id="res-area-name">Area Rate</span>
+                    </div>
+                    <div class="metric-box">
+                        <span class="metric-label">vs City Median</span>
+                        <span class="metric-value" id="res-city-median">₹ -- / sq ft</span>
+                        <span class="metric-sub" id="res-benchmark-diff">City Benchmark</span>
+                    </div>
+                    <div class="metric-box">
+                        <span class="metric-label">vs State Median</span>
+                        <span class="metric-value" id="res-state-median">₹ -- / sq ft</span>
+                        <span class="metric-sub" id="res-state-diff">State Benchmark</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tabbed Comparative Analytics: Local Areas vs. Metro Cities -->
+            <div class="card compare-card" id="compare-card">
+                <div class="compare-header">
+                    <div>
+                        <div class="tab-pill-group">
+                            <button type="button" class="tab-btn active" id="tab-areas-btn">📍 Neighbouring Areas in City</button>
+                            <button type="button" class="tab-btn" id="tab-metros-btn">🌐 Major Indian Metros</button>
+                        </div>
+                        <p class="subtext" id="compare-subtext">How this property's price compares to other localities in the same city</p>
+                    </div>
+                    <span class="live-pill">Live Inference</span>
+                </div>
+
+                <!-- Tab 1: Local Areas List -->
+                <div class="compare-list" id="compare-areas-list">
+                    <!-- Populated dynamically -->
+                </div>
+
+                <!-- Tab 2: Metros List -->
+                <div class="compare-list hidden" id="compare-metros-list">
+                    <!-- Populated dynamically -->
+                </div>
+            </div>
+
+            <!-- Architectural Blueprint Floor Plan Preview -->
+            <div class="card blueprint-card" id="blueprint-card">
+                <div class="blueprint-header">
+                    <h3>Architectural Blueprint Preview</h3>
+                    <span class="subtext">Scale visualization based on BHK & Area</span>
+                </div>
+                <div class="blueprint-canvas" id="blueprint-canvas">
+                    <div class="blueprint-room room-living" id="bp-living">
+                        <span>Living / Dining</span>
+                        <small id="bp-living-dim">~380 sq ft</small>
+                    </div>
+                    <div class="blueprint-room room-master" id="bp-master">
+                        <span>Master Bedroom</span>
+                        <small id="bp-master-dim">~260 sq ft</small>
+                    </div>
+                    <div class="blueprint-room room-bed2" id="bp-bed2">
+                        <span>Bedroom 2</span>
+                        <small id="bp-bed2-dim">~180 sq ft</small>
+                    </div>
+                    <div class="blueprint-room room-kitchen" id="bp-kitchen">
+                        <span>Kitchen</span>
+                        <small id="bp-kitchen-dim">~110 sq ft</small>
+                    </div>
+                    <div class="blueprint-room room-bath" id="bp-bath">
+                        <span>Bathrooms (2)</span>
+                        <small id="bp-bath-dim">~70 sq ft</small>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- History Drawer (Overlay) -->
+    <aside class="history-drawer hidden" id="history-drawer">
+        <div class="drawer-header">
+            <h3>Recent Valuations</h3>
+            <button class="btn-close" id="close-history-btn">✕</button>
+        </div>
+        <div class="history-list" id="history-list">
+            <p class="empty-msg">No valuations performed yet.</p>
+        </div>
+        <div class="drawer-footer">
+            <button class="btn-secondary btn-full" id="clear-history-btn">Clear History</button>
+        </div>
+    </aside>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

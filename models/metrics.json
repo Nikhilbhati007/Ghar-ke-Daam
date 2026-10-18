@@ -1,0 +1,11 @@
+{
+  "model": "lgbm_hierarchical",
+  "test_rows": 5259,
+  "MAE_lakh": 24.12,
+  "MAPE_pct": 21.86,
+  "median_APE_pct": 16.74,
+  "R2_rupees": 0.8412,
+  "R2_log": 0.8743,
+  "range_coverage_pct": 80.5,
+  "range_offset_log": 0.0216
+}
