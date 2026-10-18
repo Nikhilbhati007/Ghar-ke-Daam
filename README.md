@@ -1,7 +1,7 @@
 # 🏛️ Ghar ka Daam (घर का दाम)
 ### *AI-Powered Indian Property Valuation & Uncertainty Engine*
 
-[![CI Pipeline](https://github.com/nikhil/ghar-ka-daam/actions/workflows/ci.yml/badge.svg)](https://github.com/nikhil/ghar-ka-daam/actions)
+[![CI Pipeline](https://github.com/Nikhilbhati007/Ghar-ke-Daam/actions/workflows/ci.yml/badge.svg)](https://github.com/Nikhilbhati007/Ghar-ke-Daam/actions)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![Model](https://img.shields.io/badge/Model-LightGBM%20v4.7-emerald.svg)](https://lightgbm.readthedocs.io/)
 [![Framework](https://img.shields.io/badge/Framework-Flask%203.1-black.svg)](https://flask.palletsprojects.com/)
@@ -93,8 +93,8 @@ Evaluated using **5-Fold Cross-Validation** with leak-free preprocessing pipelin
 
 ### 1. Clone & Set Up Environment
 ```bash
-git clone https://github.com/nikhil/ghar-ka-daam.git
-cd ghar-ka-daam
+git clone https://github.com/Nikhilbhati007/Ghar-ke-Daam.git
+cd Ghar-ke-Daam
 
 # Create and activate virtual environment
 python -m venv .venv
